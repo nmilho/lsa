@@ -42,5 +42,6 @@ header,
 }
 
 .top-nav-collapse {
-    background-color: #1b7cbf;
+    /*background-color: #1b7cbf;*/
+    background-color: #fff;
 }
