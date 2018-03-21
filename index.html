@@ -16,6 +16,8 @@
     <link href="css/mdb.min.css" rel="stylesheet">
     <!-- Your custom carousel slides (optional) -->
     <link href="css/carousel.css" rel="stylesheet">
+    <!-- OWL carousel -->
+    <link href="css/owl.carousel.css" rel="stylesheet">
     <!-- Your custom styles (optional) -->
     <link href="css/style.css" rel="stylesheet">
 </head>
@@ -51,7 +53,7 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Quem Somos</a>
+                        <a class="nav-link smooth-scroll" href="#about">Quem Somos</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Transferes</a>
@@ -74,14 +76,14 @@
         <!--/.Navbar-->   
 
         <!--Carousel Wrapper-->
-        <div id="carousel-example-1" class="carousel slide carousel-fade" data-ride="carousel" data-interval="false">
+        <div id="landing-carousel" class="carousel slide carousel-fade" data-ride="carousel" data-interval="false">
 
             <!--Indicators-->
             <ol class="carousel-indicators">
-                <li data-target="#carousel-example-1" data-slide-to="0" class="active"></li>
-                <li data-target="#carousel-example-1" data-slide-to="1"></li>
-                <li data-target="#carousel-example-1" data-slide-to="2"></li>
-                <li data-target="#carousel-example-1" data-slide-to="3"></li>
+                <li data-target="#landing-carousel" data-slide-to="0" class="active"></li>
+                <li data-target="#landing-carousel" data-slide-to="1"></li>
+                <li data-target="#landing-carousel" data-slide-to="2"></li>
+                <li data-target="#landing-carousel" data-slide-to="3"></li>
             </ol>
             <!--/.Indicators-->
 
@@ -192,11 +194,11 @@
             <!--/.Slides-->
 
             <!--Controls-->
-            <a class="carousel-control-prev" href="#carousel-example-1" role="button" data-slide="prev">
+            <a class="carousel-control-prev" href="#landing-carousel" role="button" data-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                 <span class="sr-only">Previous</span>
             </a>
-            <a class="carousel-control-next" href="#carousel-example-1" role="button" data-slide="next">
+            <a class="carousel-control-next" href="#landing-carousel" role="button" data-slide="next">
                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
                 <span class="sr-only">Next</span>
             </a>
@@ -254,8 +256,8 @@
             <section id="about" class="text-center py-5">
                 <div class="container">
                     <!-- Heading -->
-                    <h2 class="title">Land & Sea Alentejo</h2>
-                    <p class="subtitle mb-5">O ALentejo mais pero de si</p>
+                    <h2 class="title dark-grey-text">Land & Sea Alentejo</h2>
+                    <p class="subtitle blue-text mb-5">O ALentejo mais pero de si</p>
                   
                     <!--Grid row-->
                     <div class="row d-flex justify-content-center mb-4">
@@ -283,15 +285,15 @@
             <section id="transfers" class="text-center py-5">
                 <div class="container">
                     <!-- Heading -->
-                    <h2 class="title">Transferes</h2>
-                    <p class="subtitle mb-5">Segurança e Excelência</p>
+                    <h2 class="title dark-grey-text">Transferes</h2>
+                    <p class="subtitle blue-text mb-5">Segurança e Excelência</p>
                   
                     <!--Grid row-->
                     <div class="row">
                   
                         <!--Grid column-->
                         <div class="col-md-4 mb-5">
-                            <i class="fa fa-plane fa-4x blue-text"></i>
+                            <i class="fa fa-plane fa-4x orange-text"></i>
                             <h4 class="my-4">Aeroporto</h4>
                             <p class="grey-text">Oferecemos tranfers para os principias aeroportos ou cidades, fornecendo um serviço de de qualidade e pontualidade.</p>
                         </div>
@@ -299,19 +301,17 @@
                   
                         <!--Grid column-->
                         <div class="col-md-4 mb-5">
-                            <i class="fa fa-bus fa-4x blue-text"></i>
-                            <h4 class="my-4">Happiness</h4>
-                            <p class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima
-                                assumenda deleniti hic.</p>
+                            <i class="fa fa-bus fa-4x orange-text"></i>
+                            <h4 class="my-4">Profissional</h4>
+                            <p class="grey-text">Garantimos pontualidade, segurança e conforto a bordo de uma viatura Mercedes V220 com serviço de internet e águas frescas.</p>
                         </div>
                         <!--Grid column-->
                   
                         <!--Grid column-->
                         <div class="col-md-4 mb-5">
-                            <i class="fa fa-bicycle fa-4x blue-text"></i>
-                            <h4 class="my-4">Aventura</h4>
-                            <p class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima
-                                assumenda deleniti hic.</p>
+                            <i class="fa fa-road fa-4x orange-text"></i>
+                            <h4 class="my-4">À medida</h4>
+                            <p class="grey-text">Fazemos qualquer tipo de transfer para qualquer cidade sobe orçamento.</p>
                         </div>
                         <!--Grid column-->
                   
@@ -331,13 +331,111 @@
 
 
 
-            <!--Section: Examples-->
-            <section id="examples">
+            <!--Section: Tours-->
+            <section id="tours" class="text-center py-5">
+                <div class="container">
+                    <!-- Heading -->
+                    <h2 class="title dark-grey-text">Tours</h2>
+                    <p class="subtitle blue-text mb-5">Temos os melhores roteiros para si</p>
 
+                    <!--Grid row-->
+                    <div class="row">
+                  
+                        <!--Grid column-->
+                        <div class="col-md-6 mb-5">
+                            
+                            <!-- Card -->
+                            <div class="card card-image" style="background-image: url(/photos/aventura.jpg);">
 
+                                <!-- Content -->
+                                <div class="text-white text-center d-flex align-items-center rgba-black-light py-5 px-4">
+                                    <div class="w-100">
+                                        <h5 class="orange-text"><i class="fa fa-bicycle"></i> Tours</h5>
+                                        <h3 class="card-title pt-2"><strong>Aventura</strong></h3>
+                                        <p>Venha aventurar-se nas actividades que lhe propomos.</p>
+                                        <a class="btn btn-orange"><i class="fa fa-clone left"></i> Ver Tours</a>
+                                    </div>
+                                </div>
+                                <!-- Content -->
+                                
+                            </div>
+                            <!-- Card -->
 
+                        </div>
+                        <!--Grid column-->
+
+                        <!--Grid column-->
+                        <div class="col-md-6 mb-5">
+                            
+                            <!-- Card -->
+                            <div class="img-fluid" style="background-image: url(/photos/passeios.jpg);">
+
+                                <!-- Content -->
+                                <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
+                                    <div class="w-100">
+                                        <h5 class="orange-text"><i class="fa fa-bus"></i> Tours</h5>
+                                        <h3 class="card-title pt-2"><strong>Passeios</strong></h3>
+                                        <p>Passeios temáticos pelo alentejo e algarve</p>
+                                        <a class="btn btn-orange"><i class="fa fa-clone left"></i> Ver Tours</a>
+                                    </div>
+                                </div>
+                                <!-- Content -->
+                            </div>
+                            <!-- Card -->
+
+                        </div>
+                        <!--Grid column-->
+
+                        <!--Grid column-->
+                        <div class="col-md-6 mb-5">
+                            
+                            <!-- Card -->
+                            <div class="card card-image" style="background-image: url(/photos/enoturismo.jpg);">
+
+                                <!-- Content -->
+                                <div class="text-white text-center d-flex align-items-center rgba-black-light py-5 px-4">
+                                    <div class="w-100">
+                                        <h5 class="orange-text"><i class="fa fa-glass"></i> Tours</h5>
+                                        <h3 class="card-title pt-2"><strong>Enoturismo</strong></h3>
+                                        <p>Visite as melhores adegas e prove os melhores vinhos.</p>
+                                        <a class="btn btn-orange"><i class="fa fa-clone left"></i> Ver Tours</a>
+                                    </div>
+                                </div>
+                                <!-- Content -->
+                            </div>
+                            <!-- Card -->
+
+                        </div>
+                        <!--Grid column-->
+
+                        <!--Grid column-->
+                        <div class="col-md-6 mb-5">
+                            
+                            <!-- Card -->
+                            <div class="card card-image" style="background-image: url(/photos/profissionais.jpg);">
+
+                                <!-- Content -->
+                                <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
+                                    <div class="w-100">
+                                        <h5 class="orange-text"><i class="fa fa-car"></i> Tours</h5>
+                                        <h3 class="card-title pt-2"><strong>Profissionais</strong></h3>
+                                        <p>Segurança e Excelência</p>
+                                        <a class="btn btn-orange"><i class="fa fa-clone left"></i> Ver Tours</a>
+                                    </div>
+                                </div>
+                                <!-- Content -->
+                            </div>
+                            <!-- Card -->
+
+                        </div>
+                        <!--Grid column-->
+                  
+                    </div>
+                    <!--Grid row-->
+
+                </div>
             </section>
-            <!--Section: Examples-->
+            <!--Section: Tours-->
 
             
 
@@ -345,17 +443,101 @@
 
 
 
-            <!--Section: Gallery-->
-            <section id="gallery">
-
-
+            <!--Section: Pub-->
+            <section id="pub" class="pub" style="background-image: url('/photos/adega02.jpg')">
+                
+                <!-- Content -->
+                <div class="text-white text-center d-flex align-items-center rgba-black-light">
+                    <div class="container">
+                        <div class="col-md-6 mx-auto">
+                            <h2 class="titlenoimg white-text">OS MELHORES VINHOS</h2>
+                            <p>«Um cenário de sonho e vinhas de qualidade mundial fazem do Alentejo um paraíso para os amantes de vinho.»<small> in Condé Nast Traveler</small></p>
+                        </div>
+                    </div>
+                </div>
+                <!-- Content -->
 
             </section>
-            <!--Section: Gallery-->
+            <!--Section: Pub-->
 
             
 
 
+
+
+
+            <!--Section: Sponsors-->
+            <section class="parceiros text-center py-5">
+
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12 mx-auto">
+                            <h2 class="titlenoimg dark-grey-text">Parceiros</h2>
+                        </div>
+                    </div>
+                </div>
+
+                <!--Carousel Wrapper-->
+                <div class="container">
+                    <ul class="clients-carousel list-unstyled">
+                        <li>
+                            <a href="http://ribafreixo.com/" target="_blank">
+                                <img src="/photos/sponsors/logo-ribafreixo.png" class="img-responsive" alt="Ribafreixo Wines">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.mingorra.com/" target="_blank">
+                                <img src="/photos/sponsors/logo-mingorra.png" class="img-responsive" alt="Herdade da Mingorra">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.malhadinhanova.pt/" target="_blank">
+                                <img src="/photos/sponsors/logo-malhadinhanova.png" class="img-responsive" alt="Herdade da Malhadinha Nova">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://montenovoefigueirinha.pt/" target="_blank">
+                                <img src="/photos/sponsors/logo-figueirinha.png" class="img-responsive" alt="Herdade da Figueirinha">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://quintadoquetzal.com/" target="_blank">
+                                <img src="/photos/sponsors/logo-quetzal.png" class="img-responsive" alt="Quinta do Quetzal">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://adegavidigueira.pt/" target="_blank">
+                                <img src="/photos/sponsors/logo-adegavidigueira.png" class="img-responsive" alt="Adega Cooperativa Vidigueira">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.surfalentejo.com/" target="_blank">
+                                <img src="/photos/sponsors/logo-escolalitoralalentejano.png" class="img-responsive" alt="Escola Surf Litoral Alentejano">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.amieiramarina.com/" target="_blank">
+                                <img src="/photos/sponsors/logo-amieiramarina.png" class="img-responsive" alt="Amieira Marina">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.weride.pt/" target="_blank">
+                                <img src="/photos/sponsors/logo-weride.png" class="img-responsive" alt="WeRide Montain Bike Tours">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://rocim.pt/" target="_blank">
+                                <img src="/photos/sponsors/logo-rocim.png" class="img-responsive" alt="Herdade do Rocim">
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <!--/.Carousel Wrapper-->
+
+
+
+            </section>
+            <!--Section: Sponsors-->
 
 
 
@@ -374,38 +556,107 @@
 
     
     <!--Footer-->
-    <footer class="page-footer text-center text-md-left font-small unique-color pt-4 mt-4">
+    <footer class="page-footer font-small blue darken-1 pt-0">
 
+        <!-- Social buttons -->
+        <div class="blue darken-3">
+            <div class="container">
+                <!--Grid row-->
+                <div class="row py-4 d-flex align-items-center">
+
+                    <!--Grid column-->
+                    <div class="col-md-6 col-lg-5 text-center text-md-left mb-4 mb-md-0">
+                        <h6 class="mb-0 white-text">Siga-nos nas redes sociais!</h6>
+                    </div>
+                    <!--Grid column-->
+
+                    <!--Grid column-->
+                    <div class="col-md-6 col-lg-7 text-center text-md-right">
+                        <!--Facebook-->
+                        <a href="https://www.facebook.com/Land-Sea-alentejo-545763372449882/" target="_blank" class="fb-ic ml-0">
+                            <i class="fa fa-facebook-square white-text fa-2x mr-4"> </i>
+                        </a>
+                        <!--Instagram-->
+                        <!--
+                        <a class="ins-ic">
+                            <i class="fa fa-instagram white-text mr-lg-4"> </i>
+                        </a>
+                        -->
+                    </div>
+                    <!--Grid column-->
+
+                </div>
+                <!--Grid row-->
+            </div>
+        </div>
+        <!-- Social buttons -->
+        
         <!--Footer Links-->
-        <div class="container text-center text-md-left">
-            <div class="row">
+        <div class="container mt-5 mb-4 text-center text-md-left">
+            <div class="row mt-3">
 
                 <!--First column-->
-                <div class="col-md-6 pb-3">
-                    <h5 class="text-uppercase">Footer Content</h5>
-                    <p>Here you can use rows and columns here to organize your footer content.</p>
+                <div class="col-md-3 col-lg-4 col-xl-3 mb-4">
+                    <h6 class="text-uppercase font-weight-bold">
+                        <strong>Land & Sea Alentejo</strong>
+                    </h6>
+                    <hr class="orange accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+                    <p>Com o objetivo de dar a conhecer e desenvolver o turismo local - da costa ao mais profundo Alentejo.</p>
                 </div>
                 <!--/.First column-->
 
                 <!--Second column-->
-                <div class="col-md-6 pb-3">
-                    <h5 class="text-uppercase">Links</h5>
-                    <ul class="list-unstyled">
-                        <li>
-                            <a href="#!">Link 1</a>
-                        </li>
-                        <li>
-                            <a href="#!">Link 2</a>
-                        </li>
-                        <li>
-                            <a href="#!">Link 3</a>
-                        </li>
-                        <li>
-                            <a href="#!">Link 4</a>
-                        </li>
-                    </ul>
+                <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
+                    <h6 class="text-uppercase font-weight-bold">
+                        <strong>Transferes</strong>
+                    </h6>
+                    <hr class="orange accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+                    <p>
+                        <a href="#!">Aeroporto</a>
+                    </p>
+                    <p>
+                        <a href="#!">Profissional</a>
+                    </p>
+                    <p>
+                        <a href="#!">À Medida</a>
+                    </p>
                 </div>
                 <!--/.Second column-->
+
+                <!--Third column-->
+                <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
+                    <h6 class="text-uppercase font-weight-bold">
+                        <strong>Tours</strong>
+                    </h6>
+                    <hr class="orange accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+                    <p>
+                        <a href="#!">Aventura</a>
+                    </p>
+                    <p>
+                        <a href="#!">Enoturismo</a>
+                    </p>
+                    <p>
+                        <a href="#!">Profissional</a>
+                    </p>
+                    <p>
+                        <a href="#!">Passeios</a>
+                    </p>
+                </div>
+                <!--/.Third column-->
+
+                <!--Fourth column-->
+                <div class="col-md-4 col-lg-3 col-xl-3">
+                    <h6 class="text-uppercase font-weight-bold">
+                        <strong>Contactos</strong>
+                    </h6>
+                    <hr class="orange accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+                    <p>
+                        <i class="fa fa-envelope orange-text mr-3"></i> info@landseaalentejo.com</p>
+                    <p>
+                        <i class="fa fa-phone orange-text mr-3"></i> +351 284 567 488</p>
+                </div>
+                <!--/.Fourth column-->
+
             </div>
         </div>
         <!--/.Footer Links-->
@@ -431,6 +682,8 @@
     <script type="text/javascript" src="js/popper.min.js"></script>
     <!-- Bootstrap core JavaScript -->
     <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <!-- OWL Carousel JavaScript -->
+    <script type="text/javascript" src="js/owl.carousel.min.js"></script>
     <!-- MDB core JavaScript -->
     <script type="text/javascript" src="js/mdb.min.js"></script>
     <!-- Smooth-Scroll JavaScript -->

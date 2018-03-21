@@ -26,7 +26,7 @@ h1, h2, h3, h4, h5, h6,
     padding-right: 20px;
 }
 .top-nav-collapse {
-    background-color: #1b7cbf;
+    background-color: #2196f3;
 }
 
 
@@ -49,6 +49,7 @@ header,
 
 
 /*-- Sections --*/
+
 section:nth-child(even) {
 	background-color: #fcfcfc;
 }
@@ -57,10 +58,38 @@ section:nth-child(odd) {
 	background-color: #fff;
 }
 
+section.pub {
+    background-position: top center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #000;
+}
+
+section.pub > div {
+	padding: 100px 0;
+} 
+
 section .title {
 	font-family: "Oswald";
     text-transform: uppercase;
-    color: #4c4c4c;
+    font-weight: 400;
+    letter-spacing: 2px;
+    font-size: 28px;
+}
+section .title:before {
+  content: "";
+  display: block;
+  width: 72px;
+  height: 28px;
+  background: url(/img/logo/logo_sm.png);
+  background-size: 72px 28px;
+  margin: 0 auto;
+}
+
+section .titlenoimg {
+	font-family: "Oswald";
+    text-transform: uppercase;
     font-weight: 400;
     letter-spacing: 2px;
     font-size: 28px;
@@ -69,9 +98,18 @@ section .title {
 section .subtitle {
 	font-family: "Oswald";
     text-transform: uppercase;
-    color: #0f75bc;
     font-size: 38px;
     line-height: 58px;
     font-weight: 700;
     letter-spacing: 3px;
+}
+
+section .title:after,
+section .titlenoimg:after {
+	content: '';
+    display: block;
+    width: 80px;
+    height: 1px;
+    background-color: #2196f3;
+    margin: 15px auto 20px;
 }

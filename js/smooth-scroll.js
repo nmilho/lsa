@@ -34,3 +34,13 @@ $('a[href*="#"].smooth-scroll')
       }
     }
   });
+
+
+
+
+
+$('.clients-carousel').owlCarousel({
+      items: 5,
+      autoPlay: true,
+      pagination: false
+    });
