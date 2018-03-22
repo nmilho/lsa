@@ -44,3 +44,15 @@ $('.clients-carousel').owlCarousel({
       autoPlay: true,
       pagination: false
     });
+
+$(window).bind('scroll', function(){
+      var offset = $(document).scrollTop();
+
+      if (offset >= 200) {
+        //$('.st-navbar').addClass("st-navbar-mini");
+        $('.backtotop').removeClass("d-none");
+      } else if (offset <= 199) {
+        //$('.st-navbar').removeClass("st-navbar-mini");
+        $('.backtotop').addClass("d-none");
+      }
+  });

@@ -50,11 +50,11 @@ header,
 
 /*-- Sections --*/
 
-section:nth-child(even) {
+section:nth-child(odd) {
 	background-color: #fcfcfc;
 }
 
-section:nth-child(odd) {
+section:nth-child(even) {
 	background-color: #fff;
 }
 
@@ -68,6 +68,7 @@ section.pub {
 
 section.pub > div {
 	padding: 100px 0;
+	box-shadow: inset 2px 2px 3px rgba(0,0,0,0.5);
 } 
 
 section .title {
@@ -112,4 +113,75 @@ section .titlenoimg:after {
     height: 1px;
     background-color: #2196f3;
     margin: 15px auto 20px;
+}
+
+
+#tours .card {
+	border-radius: 0;
+}
+
+
+.backink {
+	background-image: url('/img/mapa_cinza.png'); /* fallback for older browsers */
+
+	background-image: linear-gradient(to bottom, rgba(255,255,255,0.9) 0%,rgba(255,255,255,0.9) 100%), url('/img/mapa_cinza.png');
+	background-position: center right;
+	background-repeat: no-repeat;
+}
+
+
+
+
+.fixed-action-btn {
+    position: fixed;
+    z-index: 998;
+    right: 35px;
+    bottom: 35px;
+    margin-bottom: 0;
+    padding-top: 15px;
+}
+
+
+
+.btn-floating {
+    width: 47px;
+    height: 47px;
+    position: relative;
+    z-index: 1;
+    vertical-align: middle;
+    display: inline-block;
+    overflow: hidden;
+    -webkit-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+    margin: 10px;
+    border-radius: 50%;
+    padding: 0;
+    cursor: pointer;
+    box-shadow: 0 5px 11px 0 rgba(0,0,0,.18), 0 4px 15px 0 rgba(0,0,0,.15);
+}
+
+.btn-floating.btn-lg {
+    width: 61.1px;
+    height: 61.1px;
+}
+
+.btn-floating:hover {
+    box-shadow: 0 8px 17px 0 rgba(0,0,0,.2), 0 6px 20px 0 rgba(0,0,0,.19);
+}
+
+.btn-floating i {
+    font-size: 1.25rem;
+    line-height: 47px;
+}
+
+.btn-floating i {
+    display: inline-block;
+    width: inherit;
+    text-align: center;
+    color: #fff;
+}
+
+.btn-floating.btn-lg i {
+    font-size: 1.625rem;
+    line-height: 61.1px;
 }

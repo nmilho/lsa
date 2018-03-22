@@ -22,7 +22,7 @@
     <link href="css/style.css" rel="stylesheet">
 </head>
 
-<body>
+<body id="body">
 
 <!-- Start your project here-->
 
@@ -37,13 +37,13 @@
             </a>
 
             <!-- Collapse button -->
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#basicExampleNav" aria-controls="basicExampleNav"
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#topnaVbar" aria-controls="topnaVbar"
                 aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
 
             <!-- Collapsible content -->
-            <div class="collapse navbar-collapse" id="basicExampleNav">
+            <div class="collapse navbar-collapse" id="topnaVbar">
 
                 <!-- Links -->
                 <ul class="navbar-nav ml-auto">
@@ -56,15 +56,15 @@
                         <a class="nav-link smooth-scroll" href="#about">Quem Somos</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Transferes</a>
+                        <a class="nav-link smooth-scroll" href="#transfers">Transferes</a>
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Tours</a>
+                        <a class="nav-link smooth-scroll" href="#tours">Tours</a>
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Contactos</a>
+                        <a class="nav-link smooth-scroll" href="#contacts">Contactos</a>
                     </li>
 
                 </ul>
@@ -368,7 +368,7 @@
                         <div class="col-md-6 mb-5">
                             
                             <!-- Card -->
-                            <div class="img-fluid" style="background-image: url(/photos/passeios.jpg);">
+                            <div class="card card-image" style="background-image: url(/photos/passeios.jpg);">
 
                                 <!-- Content -->
                                 <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
@@ -447,7 +447,7 @@
             <section id="pub" class="pub" style="background-image: url('/photos/adega02.jpg')">
                 
                 <!-- Content -->
-                <div class="text-white text-center d-flex align-items-center rgba-black-light">
+                <div class="text-white text-center d-flex align-items-center rgba-black-strong">
                     <div class="container">
                         <div class="col-md-6 mx-auto">
                             <h2 class="titlenoimg white-text">OS MELHORES VINHOS</h2>
@@ -478,7 +478,7 @@
                 </div>
 
                 <!--Carousel Wrapper-->
-                <div class="container">
+                <div class="container-fluid">
                     <ul class="clients-carousel list-unstyled">
                         <li>
                             <a href="http://ribafreixo.com/" target="_blank">
@@ -544,10 +544,103 @@
 
 
             <!--Section: Contact-->
-            <section id="contact">
+            <section id="contacts" class="py-5">
 
+                <!-- Section heading -->
+                <h2 class="text-center title wow fadeIn" data-wow-delay="0.2s" style="visibility: visible; animation-name: fadeIn; animation-delay: 0.2s;">
+                    Contactos
+                </h2>
 
+                <div class="container backink">
+                    
+                    <div class="row wow fadeIn" data-wow-delay="0.4s" style="visibility: visible; animation-name: fadeIn; animation-delay: 0.4s;">
 
+                        <!-- Grid column -->
+                        <div class="col-md-8 col-lg-8">
+                            <form>
+                                <!-- Grid row -->
+                                <div class="row">
+                                    <!-- Grid column -->
+                                    <div class="col-md-12">
+                                        <div class="md-form">
+                                            <div class="md-form">
+                                                <input type="text" id="form41" class="form-control">
+                                                <label for="form41" class="">Nome</label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Grid row -->
+
+                                <!-- Grid row -->
+                                <div class="row">
+                                    <!-- Grid column -->
+                                    <div class="col-md-12">
+                                        <div class="md-form">
+                                            <div class="md-form">
+                                                <input type="text" id="form52" class="form-control">
+                                                <label for="form52" class="">Email</label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Grid row -->
+
+                                <!-- Grid row -->
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <div class="md-form">
+                                            <input type="text" id="form51" class="form-control">
+                                            <label for="form51" class="">Assunto</label>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Grid row -->
+
+                                <!-- Grid row -->
+                                <div class="row">
+                                    <!-- Grid column -->
+                                    <div class="col-md-12">
+
+                                        <div class="md-form">
+                                            <textarea type="text" id="form76" class="md-textarea form-control" rows="3"></textarea>
+                                            <label for="form76" class="">Menssagem</label>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <!-- Grid row -->
+                            </form>
+
+                            <div class="text-center text-md-left mb-5 mt-4">
+                                <a class="btn btn-orange waves-effect waves-light">Enviar</a>
+                            </div>
+                        </div>
+                        <!-- Grid column -->
+
+                        <!-- Grid column -->
+                        <div class="col-md-4 col-lg-4">
+                            <ul class="contact-icons float-md-center list-unstyled pt-5 pl-5">
+                                <li>
+                                    <i class="fa fa-map-marker fa-2x orange-text"></i>
+                                    <p>BEJA, 7800, PORTUGAL</p>
+                                </li>
+
+                                <li>
+                                    <i class="fa fa-phone fa-2x orange-text"></i>
+                                    <p>+ 351 284 567 289</p>
+                                </li>
+
+                                <li>
+                                    <i class="fa fa-envelope fa-2x orange-text"></i>
+                                    <p>info@landseaalentejo.com</p>
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- Grid column -->
+
+                    </div>
+                </div>
             </section>
             <!--Section: Contact-->
 
@@ -671,7 +764,15 @@
     </footer>
     <!--/.Footer-->
                                             
-            
+
+    <!--BackToTop-->
+    <div class="fixed-action-btn backtotop d-none" style="bottom: 45px; right: 24px;">
+        <a href="#body" class="btn-floating btn-lg orange text-center waves-effect waves-light smooth-scroll">
+            <i class="fa fa-chevron-up white-text"></i>
+        </a>
+    </div>
+    <!--./BackToTop-->
+
     
 <!-- /Start your project here-->
 
