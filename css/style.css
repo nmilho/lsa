@@ -26,7 +26,8 @@ h1, h2, h3, h4, h5, h6,
     padding-right: 20px;
 }
 .top-nav-collapse {
-    background-color: #2196f3;
+    /*background-color: #2196f3;*/
+    background-color: #0f75e6;
 }
 
 
@@ -111,7 +112,7 @@ section .titlenoimg:after {
     display: block;
     width: 80px;
     height: 1px;
-    background-color: #2196f3;
+    background-color: #0f75e6;
     margin: 15px auto 20px;
 }
 
@@ -184,4 +185,13 @@ section .titlenoimg:after {
 .btn-floating.btn-lg i {
     font-size: 1.625rem;
     line-height: 61.1px;
+}
+
+
+.blue {
+	background-color: #0f75e6 !important;
+}
+
+.blue-text {
+	color: #0f75e6 !important;
 }

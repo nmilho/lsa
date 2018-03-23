@@ -33,7 +33,7 @@
             <div class="container">
             <!-- Navbar brand -->
             <a class="navbar-brand" href="#">
-                <img src="img/logo/logo_h_sm.png" height="30" alt="Land&Sea Alentejo">
+                <img src="img/logo/logo_h_md.png" height="42" alt="Land&Sea Alentejo">
             </a>
 
             <!-- Collapse button -->
@@ -319,8 +319,92 @@
                     <!--Grid row-->
                 </div>
             </section>
-            <!--Section: Transferss-->
-                                    
+            <!--./Section: Transfers-->
+
+            <!--Section: TransfersPrice-->
+            <section id="transferesprice" class="blue py-5 text-center">
+                <div class="container">
+                    <h2 class="titlenoimg white-text">
+                        Preços
+                    </h2>
+                    <div class="row">
+                        <div class="col-md-3 origem">
+                            <span class="white-text">
+                                Origem<br/>
+                            </span>
+                            <!-- Origem dropdown -->
+                            <div class="btn-group">
+                                <button class="btn origem btn-orange dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Origem</button>
+
+                                <div class="dropdown-menu origem">
+                                    <a class="dropdown-item" data-destino="Beja" href="#/">Albufeira</a>
+                                    <a class="dropdown-item" data-destino="Todos" href="#/">Beja</a>
+                                    <a class="dropdown-item" data-destino="Beja"  href="#/">Évora</a>
+                                    <a class="dropdown-item" data-destino="Beja" href="#/">Faro Apt</a>
+                                    <a class="dropdown-item" data-destino="Beja" href="#/">Lagos</a>
+                                    <a class="dropdown-item" data-destino="Beja" href="#/">Lisboa Apt</a>
+                                    <a class="dropdown-item" data-destino="Beja" href="#/">Sevilha</a>
+                                    <a class="dropdown-item" data-destino="Beja" href="#/">Sines</a>
+                                    <a class="dropdown-item" data-destino="Beja" href="#/">V. Real Stº António</a>
+                                    <a class="dropdown-item" data-destino="Beja" href="#/">Zambujeira</a>
+                                    <a class="dropdown-item" href="#/">Outro</a>
+                                </div>
+                            </div>
+                            <!--./ Origem dropdown -->
+                        </div>
+                        <div class="col-md-3 destino">
+                            <span class="white-text">
+                                Destino<br/>
+                            </span>
+                            <!-- Destino dropdown -->
+                            <div class="btn-group">
+                                <button class="btn destino btn-orange dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Destino</button>
+
+                                <div class="dropdown-menu destino">
+                                    <a class="dropdown-item" data-origem="Beja" href="#/">Albufeira</a>
+                                    <a class="dropdown-item" data-origem="Todas" href="#/">Beja</a>
+                                    <a class="dropdown-item" data-origem="Beja"  href="#/">Évora</a>
+                                    <a class="dropdown-item" data-origem="Beja" href="#/">Faro Apt</a>
+                                    <a class="dropdown-item" data-origem="Beja" href="#/">Lagos</a>
+                                    <a class="dropdown-item" data-origem="Beja" href="#/">Lisboa Apt</a>
+                                    <a class="dropdown-item" data-origem="Beja" href="#/">Sevilha</a>
+                                    <a class="dropdown-item" data-origem="Beja" href="#/">Sines</a>
+                                    <a class="dropdown-item" data-origem="Beja" href="#/">V. Real Stº António</a>
+                                    <a class="dropdown-item" data-origem="Beja" href="#/">Zambujeira</a>
+                                    <a class="dropdown-item" href="#/">Outro</a>
+                                </div>
+                            </div>
+                            <!--./ Destino dropdown -->
+                        </div>
+                        <div class="col-md-3 passageiros">
+                            <span class="white-text">
+                                Nº Passageiros<br/>
+                            </span>
+                            <!-- Passageiros dropdown -->
+                            <div class="btn-group">
+                                <button class="btn passageiros btn-orange dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Nº Passageiros</button>
+
+                                <div class="dropdown-menu passageiros">
+                                    <a class="dropdown-item" href="#/">1-4</a>
+                                    <a class="dropdown-item" href="#/">5-7</a>
+                                </div>
+                            </div>
+                            <!--./ Origem dropdown -->
+                        </div>
+                        <div class="col-md-3 preco">
+                            <span class="white-text">
+                                Preço<br/>
+                            </span>
+                            <!-- Preco input -->
+                            <div class="md-form mt-0">
+                                <input type="text" id="inputPreco" class="form-control" disabled>
+                                <label for="inputPreco" class="disabled">Preço</label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!--./Section: TransfersPrice-->          
 
 
 
@@ -547,7 +631,7 @@
             <section id="contacts" class="py-5">
 
                 <!-- Section heading -->
-                <h2 class="text-center title wow fadeIn" data-wow-delay="0.2s" style="visibility: visible; animation-name: fadeIn; animation-delay: 0.2s;">
+                <h2 class="text-center title dark-grey-text wow fadeIn" data-wow-delay="0.2s" style="visibility: visible; animation-name: fadeIn; animation-delay: 0.2s;">
                     Contactos
                 </h2>
 
@@ -789,6 +873,8 @@
     <script type="text/javascript" src="js/mdb.min.js"></script>
     <!-- Smooth-Scroll JavaScript -->
     <script type="text/javascript" src="js/smooth-scroll.js"></script>
+    <!-- Precos Script -->
+    <script type="text/javascript" src="js/precos.js"></script>
 </body>
 
 </html>
