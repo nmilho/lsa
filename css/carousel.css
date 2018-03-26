@@ -21,16 +21,16 @@ header,
     background-position: center center;
 }
 #landing-carousel .carousel-item:nth-child(1) {
-    background-image: url("/photos/vinha04.jpg");
+    background-image: url("/photos/girasol.jpg");
 }
 #landing-carousel .carousel-item:nth-child(2) {
-    background-image: url("/photos/vinha03.jpg");
+    background-image: url("/photos/outono.jpg");
 }
 #landing-carousel .carousel-item:nth-child(3) {
-    background-image: url("/photos/balao.jpg");
+    background-image: url("/photos/alqueva.jpg");
 }
 #landing-carousel .carousel-item:nth-child(4) {
-    background-image: url("/photos/vinha02.jpg");
+    background-image: url("/photos/ralo.jpg");
 }
 
 #landing-carousel.carousel .carousel-indicators li {
