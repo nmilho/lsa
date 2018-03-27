@@ -21,16 +21,16 @@ header,
     background-position: center center;
 }
 #landing-carousel .carousel-item:nth-child(1) {
-    background-image: url("/photos/girasol.jpg");
+    background-image: url("/photos/carousel/baloes.jpg");
 }
 #landing-carousel .carousel-item:nth-child(2) {
-    background-image: url("/photos/outono.jpg");
+    background-image: url("/photos/carousel/farol.jpg");
 }
 #landing-carousel .carousel-item:nth-child(3) {
-    background-image: url("/photos/alqueva.jpg");
+    background-image: url("/photos/carousel/paoforma.jpg");
 }
 #landing-carousel .carousel-item:nth-child(4) {
-    background-image: url("/photos/ralo.jpg");
+    background-image: url("/photos/carousel/estradamonte.jpg");
 }
 
 #landing-carousel.carousel .carousel-indicators li {

@@ -1,0 +1,94 @@
+table {
+	font-family: "Oswald";
+    color: #808080;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 26px;
+    word-spacing: 2px;
+    -webkit-font-smoothing: antialiased;
+}
+
+table.rounded-corners thead tr:first-child th:first-child {
+	border-top-left-radius: 5px;
+}
+table.rounded-corners thead tr:first-child th:last-child {
+	border-top-right-radius: 5px;
+}
+
+table.rounded-corners thead {
+	text-align: center;
+    background-color: #0d548a;
+    padding: 20px;
+    border-bottom: 1px solid #cceeff;
+}
+
+.table td, .table th {
+	border-top: 1px solid #fff;
+}
+
+.table thead th {
+    vertical-align: bottom;
+    border-bottom: none;
+}
+
+table td, table th {
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+table.rounded-corners tbody {
+	text-align: center;
+}
+
+table.rounded-corners tbody tr > th {
+	background-color: #0d548a;
+	color: white;
+	text-align: center;
+} 
+
+table.rounded-corners tbody tr:last-child th:first-child {
+	border-bottom-left-radius: 5px;
+}
+table.rounded-corners tbody tr:last-child th:last-child {
+	border-bottom-right-radius: 5px;
+}
+
+table.rounded-corners tbody tr td:last-child {
+	background-color: #0e79d0;
+	color: white;
+}
+
+table.rounded-corners tbody tr td {
+	background-color: #79c5ff;
+	color: #333;
+}
+
+table.rounded-corners tbody tr:last-child th{
+	font-size: .85rem;
+	padding-top: 0.5rem;
+	padding-bottom: 0.5rem;
+}
+
+
+table.rounded-corners tbody tr:hover td {
+	background-color: #fff;
+	color: #333;
+}
+
+table.rounded-corners tbody tr:hover > th {
+	background-color: rgba(13,84,138,.83);
+} 
+
+table.rounded-corners tbody tr:hover {
+	cursor: pointer;
+}
+
+table.rounded-corners tbody tr:last-child:hover th {
+	background-color: #0d548a;
+	cursor: default;
+}
+
+
+.modal-body p {
+	line-height: 14px;
+}

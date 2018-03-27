@@ -18,6 +18,8 @@
     <link href="css/carousel.css" rel="stylesheet">
     <!-- OWL carousel -->
     <link href="css/owl.carousel.css" rel="stylesheet">
+    <!-- Your custom table styles (optional) -->
+    <link href="css/table_price.css" rel="stylesheet">
     <!-- Your custom styles (optional) -->
     <link href="css/style.css" rel="stylesheet">
 </head>
@@ -48,7 +50,7 @@
                 <!-- Links -->
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item active">
-                        <a class="nav-link" href="#">Início
+                        <a class="nav-link" href="#body">Início
                             <span class="sr-only">(current)</span>
                         </a>
                     </li>
@@ -537,15 +539,17 @@
 
                         <!-- Grid column -->
                         <div class="col-md-8 col-lg-8">
-                            <form>
+
+                            <!-- Form -->
+                            <form id="contactform" action="#" method="POST" enctype="multipart/form-data">
                                 <!-- Grid row -->
                                 <div class="row">
                                     <!-- Grid column -->
                                     <div class="col-md-12">
                                         <div class="md-form">
                                             <div class="md-form">
-                                                <input type="text" id="form41" class="form-control">
-                                                <label for="form41" class="">Nome</label>
+                                                <input type="text" id="name" name="name" class="form-control">
+                                                <label for="name" class="required">Nome</label>
                                             </div>
                                         </div>
                                     </div>
@@ -558,8 +562,8 @@
                                     <div class="col-md-12">
                                         <div class="md-form">
                                             <div class="md-form">
-                                                <input type="text" id="form52" class="form-control">
-                                                <label for="form52" class="">Email</label>
+                                                <input type="text" id="email" name="email" class="form-control">
+                                                <label for="email" class="required">Email</label>
                                             </div>
                                         </div>
                                     </div>
@@ -570,8 +574,8 @@
                                 <div class="row">
                                     <div class="col-md-12">
                                         <div class="md-form">
-                                            <input type="text" id="form51" class="form-control">
-                                            <label for="form51" class="">Assunto</label>
+                                            <input type="text" id="subject" name="subject" class="form-control">
+                                            <label for="subject" class="required">Assunto</label>
                                         </div>
                                     </div>
                                 </div>
@@ -583,14 +587,15 @@
                                     <div class="col-md-12">
 
                                         <div class="md-form">
-                                            <textarea type="text" id="form76" class="md-textarea form-control" rows="3"></textarea>
-                                            <label for="form76" class="">Menssagem</label>
+                                            <textarea type="text" id="message" name="message" class="md-textarea form-control" rows="3"></textarea>
+                                            <label for="message" class="required">Menssagem</label>
                                         </div>
 
                                     </div>
                                 </div>
                                 <!-- Grid row -->
                             </form>
+                            <!-- ./Form -->
 
                             <div class="text-center text-md-left mb-5 mt-4">
                                 <a class="btn btn-orange waves-effect waves-light">Enviar</a>
@@ -608,7 +613,7 @@
 
                                 <li>
                                     <i class="fa fa-phone fa-2x orange-text"></i>
-                                    <p>+ 351 284 567 289</p>
+                                    <p>+351 965 589 291</p>
                                 </li>
 
                                 <li>
@@ -693,10 +698,9 @@
                         <strong>Contactos</strong>
                     </h6>
                     <hr class="orange accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
-                    <p>
-                        <i class="fa fa-envelope orange-text mr-3"></i> info@landseaalentejo.com</p>
-                    <p>
-                        <i class="fa fa-phone orange-text mr-3"></i> +351 284 567 488</p>
+                    <p><i class="fa fa-map-marker orange-text"></i> BEJA, 7800, PORTUGAL</p>
+                    <p><i class="fa fa-phone orange-text"></i> +351 965 589 291</p>
+                    <p><i class="fa fa-envelope orange-text"></i> info@landseaalentejo.com</p>
                 </div>
                 <!--/.Fourth column-->
 
@@ -748,12 +752,18 @@
                 </button>
             </div>
             <div class="modal-body">
+                <p><small>Temos o transfer à sua medida, vamos ter consigo à zona das chegadas do Aeroporto e acompanhá-lo ao veículo.
+                    Garantimos pontualidade, segurança e conforto a bordo de uma viatura Mercedes V220 com serviço de internet e águas frescas.
+                    Fazemos qualquer tipo de transfer para qualquer cidade sobe orçamento.</small></p>
+
+                <p><small>Valores calculados com partida/chegada a Beja.<br/>
+                Distancias superiores sujeitas a ajustamento.</small></p>
                 
                 <!--Table-->
-                <table class="table table-responsive">
+                <table class="table rounded-corners table-hover">
 
                     <!--Table head-->
-                    <thead class="blue">
+                    <thead>
                         <tr class="text-white">
                             <th>Trajecto</th>
                             <th>1-4 pax</th>
@@ -809,16 +819,12 @@
                             <td>230€</td>
                             <td>260€</td>
                         </tr>
-                    </tbody>
-                    <!--Table body-->
-                    <!--Table footer-->
-                    <tfooter class="blue">
                         <tr>
-                            <th>20% adicional entre as 21 horas e as 7 horas.</th>
-                            <th colspan="2">Valores com IVA incluido à taxa de 6%</th>
+                            <th scope="row">* 20% adicional entre as 21 horas e as 7 horas.</th>
+                            <th colspan="2">* Valores com IVA incluido à taxa de 6%</th>
                         </tr>
-                    </tfooter>
-                    <!--Table head-->
+                    </tbody>
+
                 </table>
                 <!--./Table-->
 
@@ -846,7 +852,7 @@
     <!-- MDB core JavaScript -->
     <script type="text/javascript" src="js/mdb.min.js"></script>
     <!-- Smooth-Scroll JavaScript -->
-    <script type="text/javascript" src="js/smooth-scroll.js"></script>
+    <script type="text/javascript" src="js/scripts.js"></script>
     <!-- Precos Script -->
     <script type="text/javascript" src="js/precos.js"></script>
 </body>
