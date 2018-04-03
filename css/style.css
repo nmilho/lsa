@@ -200,3 +200,7 @@ section .titlenoimg:after {
 .w-auto {
 	width: auto;
 }
+
+.text-upper {
+	text-transform: uppercase !important;
+}
