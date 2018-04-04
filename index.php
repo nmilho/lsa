@@ -564,6 +564,11 @@
                             </a>
                         </li>
                         <li>
+                            <a href="https://www.herdade-dos-grous.com" target="_blank">
+                                <img src="/photos/sponsors/logo-grous2.png" class="img-responsive" alt="Herdade dos Grous">
+                            </a>
+                        </li>
+                        <li>
                             <a href="http://skydiveeurope.com/" target="_blank">
                                 <img src="/photos/sponsors/skydiveeurope.png" class="img-responsive" alt="Skydive Europe">
                             </a>
@@ -828,7 +833,7 @@
             </div>
             <div class="modal-body">
                 <p><small>Valores calculados com partida/chegada a Beja.<br/>
-                Distancias superiores sujeitas a ajustamento.<br/><strong>
+                Distâncias superiores sujeitas a ajustamento.<br/><strong>
                 Em caso de viagem de ida/volta 25% de desconto na viagem de regresso.</strong></small></p>
                 
                 <!--Table-->
@@ -882,7 +887,7 @@
                             <td>230€</td>
                         </tr>
                         <tr>
-                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Vila Real St.º António</th>
+                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Vila Real Sto. António</th>
                             <td>170€</td>
                             <td>200€</td>
                         </tr>
