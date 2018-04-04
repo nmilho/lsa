@@ -602,14 +602,14 @@
                         <div class="col-md-8 col-lg-8">
 
                             <!-- Form -->
-                            <form id="contactform" action="#" method="POST" enctype="multipart/form-data">
+                            <form id="ajax-contact" method="post" action="mailer.php">
                                 <!-- Grid row -->
                                 <div class="row">
                                     <!-- Grid column -->
                                     <div class="col-md-12">
                                         <div class="md-form">
                                             <div class="md-form">
-                                                <input type="text" id="name" name="name" class="form-control">
+                                                <input type="text" id="name" name="name" class="form-control" required>
                                                 <label for="name" class="required">Nome</label>
                                             </div>
                                         </div>
@@ -623,7 +623,7 @@
                                     <div class="col-md-12">
                                         <div class="md-form">
                                             <div class="md-form">
-                                                <input type="text" id="email" name="email" class="form-control">
+                                                <input type="email" id="email" name="email" class="form-control" required>
                                                 <label for="email" class="required">Email</label>
                                             </div>
                                         </div>
@@ -635,7 +635,7 @@
                                 <div class="row">
                                     <div class="col-md-12">
                                         <div class="md-form">
-                                            <input type="text" id="subject" name="subject" class="form-control">
+                                            <input type="text" id="subject" name="subject" class="form-control" required>
                                             <label for="subject" class="required">Assunto</label>
                                         </div>
                                     </div>
@@ -648,19 +648,23 @@
                                     <div class="col-md-12">
 
                                         <div class="md-form">
-                                            <textarea type="text" id="message" name="message" class="md-textarea form-control" rows="3"></textarea>
+                                            <textarea id="message" name="message" class="md-textarea form-control" rows="3" required></textarea>
                                             <label for="message" class="required">Menssagem</label>
                                         </div>
 
                                     </div>
                                 </div>
                                 <!-- Grid row -->
+                                
+                                <div id="form-messages"></div>
+
+                                <div class="text-center text-md-left mb-5 mt-4">
+                                    <button type="submit" class="btn btn-orange waves-effect waves-light">Enviar</button>
+                                </div>
                             </form>
                             <!-- ./Form -->
 
-                            <div class="text-center text-md-left mb-5 mt-4">
-                                <a class="btn btn-orange waves-effect waves-light">Enviar</a>
-                            </div>
+                            
                         </div>
                         <!-- Grid column -->
 
@@ -923,6 +927,8 @@
     <script type="text/javascript" src="js/scripts.js"></script>
     <!-- Precos Script -->
     <script type="text/javascript" src="js/precos.js"></script>
+    <!-- Ajax-form Script -->
+    <script type="text/javascript" src="js/app.js"></script>
 </body>
 
 </html>
