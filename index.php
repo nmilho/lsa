@@ -544,6 +544,11 @@
                             </a>
                         </li>
                         <li>
+                            <a href="http://www.santavitoria.pt/" target="_blank">
+                                <img src="/photos/sponsors/logo-santavitoria.svg" width="187" height="102" class="img-responsive" alt="Santa Vitória Vinhos">
+                            </a>
+                        </li>
+                        <li>
                             <a href="https://www.surfalentejo.com/" target="_blank">
                                 <img src="/photos/sponsors/logo-escolalitoralalentejano.png" class="img-responsive" alt="Escola Surf Litoral Alentejano">
                             </a>
