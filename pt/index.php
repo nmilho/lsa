@@ -28,17 +28,17 @@
     <!-- Google Fonts - OpenSans and Oswald -->
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,800italic,800,700italic,700,600italic,400italic,600,300italic,300|Oswald:400,300,700' rel='stylesheet' type='text/css'>
     <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
     <!-- Material Design Bootstrap -->
-    <link href="css/mdb.min.css" rel="stylesheet">
+    <link href="/css/mdb.min.css" rel="stylesheet">
     <!-- Your custom carousel slides (optional) -->
-    <link href="css/carousel.css" rel="stylesheet">
+    <link href="/css/carousel.css" rel="stylesheet">
     <!-- OWL carousel -->
-    <link href="css/owl.carousel.css" rel="stylesheet">
+    <link href="/css/owl.carousel.css" rel="stylesheet">
     <!-- Your custom table styles (optional) -->
-    <link href="css/table_price.css" rel="stylesheet">
+    <link href="/css/table_price.css" rel="stylesheet">
     <!-- Your custom styles (optional) -->
-    <link href="css/style.css" rel="stylesheet">
+    <link href="/css/style.css" rel="stylesheet">
 </head>
 
 <body id="body">
@@ -52,7 +52,7 @@
             <div class="container">
             <!-- Navbar brand -->
             <a class="navbar-brand" href="#">
-                <img src="img/logo/logo_h_md.png" height="42" alt="Land&Sea Alentejo">
+                <img src="/img/logo/logo_h_md.png" height="42" alt="Land&Sea Alentejo">
             </a>
 
             <!-- Collapse button -->
@@ -86,7 +86,7 @@
                         <a class="nav-link smooth-scroll" href="#contacts">Contatos</a>
                     </li>
                     <!-- Dropdown -->
-                    <li class="nav-item dropdown ml-10">
+                    <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">PT</a>
                         <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuLink">
                             <a class="dropdown-item" href="/en/">EN</a>
@@ -948,21 +948,21 @@
 
     <!-- SCRIPTS -->
     <!-- JQuery -->
-    <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="/js/jquery-3.2.1.min.js"></script>
     <!-- Bootstrap tooltips -->
-    <script type="text/javascript" src="js/popper.min.js"></script>
+    <script type="text/javascript" src="/js/popper.min.js"></script>
     <!-- Bootstrap core JavaScript -->
-    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/js/bootstrap.min.js"></script>
     <!-- OWL Carousel JavaScript -->
-    <script type="text/javascript" src="js/owl.carousel.min.js"></script>
+    <script type="text/javascript" src="/js/owl.carousel.min.js"></script>
     <!-- MDB core JavaScript -->
-    <script type="text/javascript" src="js/mdb.min.js"></script>
+    <script type="text/javascript" src="/js/mdb.min.js"></script>
     <!-- Smooth-Scroll JavaScript -->
-    <script type="text/javascript" src="js/scripts.js"></script>
+    <script type="text/javascript" src="/js/scripts.js"></script>
     <!-- Precos Script -->
-    <script type="text/javascript" src="js/precos.js"></script>
+    <script type="text/javascript" src="/js/precos.js"></script>
     <!-- Ajax-form Script -->
-    <script type="text/javascript" src="js/app.js"></script>
+    <script type="text/javascript" src="/js/app.js"></script>
 </body>
 
 </html>
