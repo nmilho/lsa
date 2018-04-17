@@ -204,3 +204,8 @@ section .titlenoimg:after {
 .text-upper {
 	text-transform: uppercase !important;
 }
+
+
+.dropdown-menu {
+    min-width: 4rem;
+}
