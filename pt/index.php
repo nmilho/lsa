@@ -7,7 +7,7 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Land&Sea Alentejo | Tranfers, passeios e Enoturismo</title>
 
-    <meta name="description" content="Transferes e tours à medida de cada cliente. Temos os melhores passeios por Lisboa, Alentejo e Algarve">
+    <meta name="description" content="Transferes e passeios por Lisboa, Beja, Évora, e Algarve. Turismo, aventura e enoturismo pelo Alentejo.">
 
     <link rel="canonical" href="http://www.landseaalentejo.com/">
 
@@ -21,7 +21,7 @@
     <meta property="og:title" content="Land&Sea Alentejo | Tranfers, passeios e Enoturismo">
     <meta property="og:url" content="http://www.landseaalentejo.com/">
     <meta property="og:type" content="website">
-    <meta property="og:description" content="Transferes e tours à medida de cada cliente. Temos os melhores passeios por Lisboa, Alentejo e Algarve">
+    <meta property="og:description" content="Transferes e passeios por Lisboa, Beja, Évora, e Algarve. Turismo, aventura e enoturismo pelo Alentejo.">
 
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
