@@ -209,3 +209,30 @@ section .titlenoimg:after {
 .dropdown-menu {
     min-width: 4rem;
 }
+
+
+#toursindex .nav-tabs .nav-link.active {
+    color: inherit;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+
+#toursindex .nav-tabs .nav-link:focus, 
+#toursindex .nav-tabs .nav-link:hover {
+    border-color: transparent;
+}
+
+#toursindex .nav-tabs .nav-link:focus .rgba-black-light, 
+#toursindex .nav-tabs .nav-link:hover .rgba-black-light {
+    background-color: rgba(0,0,0,0);
+}
+
+#toursindex .nav-tabs {
+    border-bottom: 0px none;
+}
+
+#toursindex .nav-tabs .nav-link.active .card {
+	box-shadow: 0 2px 18px 0 rgba(0,0,0,.16), 0 2px 23px 0 rgba(0,0,0,0.22);
+	zoom: 1.05;
+}

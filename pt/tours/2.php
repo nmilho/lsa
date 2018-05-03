@@ -7,7 +7,7 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Land&Sea Alentejo | Roteiros: Aventura, Cultura e Enoturismo</title>
 
-    <meta name="description" content="Passeios por Lisboa, Beja, Évora, e Algarve. Turismo, cultura, aventura, vinho e turismo pelo Alentejo.">
+    <meta name="description" content="Passeios por Lisboa, Beja, Évora, e Algarve. Turismo, cultura, aventura, vinho pelo Alentejo.">
 
     <link rel="canonical" href="http://www.landseaalentejo.com/">
 
@@ -21,7 +21,7 @@
     <meta property="og:title" content="Land&Sea Alentejo | Roteiros: Aventura, Cultura e Enoturismo">
     <meta property="og:url" content="http://www.landseaalentejo.com/">
     <meta property="og:type" content="website">
-    <meta property="og:description" content="Passeios por Lisboa, Beja, Évora, e Algarve. Turismo, cultura, aventura, vinho e turismo pelo Alentejo.">
+    <meta property="og:description" content="Passeios por Lisboa, Beja, Évora, e Algarve. Turismo, cultura, aventura, vinho pelo Alentejo.">
 
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -46,9 +46,9 @@
 <!-- Start your project here-->
 
     <!--Main Navigation-->
-    <header style="height: auto; margin-top: 75px;" >
+    <header >
         <!--Navbar-->
-        <nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar" style="background-color: #0f75e6;">
+        <nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar">
             <div class="container">
             <!-- Navbar brand -->
             <a class="navbar-brand" href="#">
@@ -103,7 +103,7 @@
 
         
 
-        <!--Mask--><!--
+        <!--Mask-->
         <div id="intro" class="view" >
 
             <div class="full-bg-img">
@@ -116,13 +116,13 @@
 
                             <div class="col-md-10">
 
-                                <!-- Heading --><!--
+                                <!-- Heading -->
                                 <h2 class="display-3 font-weight-bold white-text mb-2">Travel</h2>
 
-                                <!-- Divider --><!--
+                                <!-- Divider -->
                                 <hr class="hr-light">
 
-                                <!-- Description --><!--
+                                <!-- Description -->
                                 <h4 class="white-text my-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti consequuntur.</h4>
                                 <button type="button" class="btn btn-outline-white">Read more<i class="fa fa-book ml-2"></i></button>
 
@@ -148,161 +148,139 @@
     <!--Main layout-->
     <main class="mt-5">
 
-            
+            <!--Section: Tours Index-->
+            <section id="toursindex" class="text-center py-5">
 
-            
-            <!--Section: tours-->
-            <section id="tours" class="text-center py-5">
                 <div class="container">
-                    <!-- Heading -->
+                    <!-- Heading 
                     <h2 class="title dark-grey-text">Roteiros</h2>
-                    <p class="subtitle blue-text mb-5">Temos os melhores roteiros para si</p>
+                    <p class="subtitle blue-text mb-5">Temos os melhores roteiros para si</p>-->
 
                     <!--Grid row-->
                     <div class="row">
-                  
-                        <!--Grid column-->
-                        <div class="col-md-4 mb-5">
-                            
-                            <!-- Card -->
-                            <div class="card card-image" style="background-image: url(/photos/aventura.jpg);">
+                        <!--Column-->
+                        <div class="col-md-3 mb-5">
 
-                                <!-- Content -->
-                                <div class="text-white text-center d-flex align-items-center rgba-black-light py-5 px-4">
-                                    <div class="w-100">
-                                        <h5 class="orange-text"><i class="fa fa-bicycle"></i> Roteiros</h5>
-                                        <h3 class="card-title pt-2"><strong>Aventura</strong></h3>
-                                        <p>Venha aventurar-se nas actividades que lhe propomos.</p>
-                                        <a href="#adventuretours" class="btn btn-orange smooth-scroll"><i class="fa fa-clone left"></i> Ver Roteiros</a>
-                                    </div>
-                                </div>
-                                <!-- Content -->
-                                
-                            </div>
-                            <!-- Card -->
+
+                            <ul class="nav nav-tabs">                  
+                                <!--Grid column-->
+                                <li class="col-md-12 nav-item">
+                                    
+                                    <!-- Card -->
+                                    <a href="#adventuretours" class="nav-link" data-toggle="tab" role="tab">
+                                        <div class="card card-image" style="background-image: url(/photos/aventura.jpg);">
+
+                                        <!-- Content -->
+                                        
+                                            <div class="text-white text-center d-flex align-items-center rgba-black-light py-5 px-4">
+                                                <div class="w-100">
+                                                    <h5 class="orange-text"><i class="fa fa-bicycle"></i> Roteiros</h5>
+                                                    <h3 class="card-title pt-2"><strong>Aventura</strong></h3>
+                                                </div>
+                                            </div>
+                                        
+                                        <!-- Content -->
+                                        
+                                        </div>
+                                    </a>
+                                    <!-- Card -->
+
+                                </li>
+                                <!--Grid column-->
+
+                                <!--Grid column-->
+                                <li class="col-md-12 nav-item">
+                                    
+                                    <!-- Card -->
+                                    <a href="#culturetours" class="nav-link" data-toggle="tab" role="tab">
+                                        <div class="card card-image" style="background-image: url(/photos/passeios.jpg);">
+
+                                        <!-- Content -->
+                                        
+                                            <div class="text-white text-center d-flex align-items-center rgba-black-light py-5 px-4">
+                                                <div class="w-100">
+                                                    <h5 class="orange-text"><i class="fa fa-bus"></i> Roteiros</h5>
+                                                    <h3 class="card-title pt-2"><strong>Culturais</strong></h3>
+                                                </div>
+                                            </div>
+                                        <!-- Content -->
+                                        </div>
+                                    </a>
+                                    <!-- Card -->
+
+                                </li>
+                                <!--Grid column-->
+
+                                <!--Grid column-->
+                                <li class="col-md-12 nav-item">
+                                    
+                                    <!-- Card -->
+                                    <a href="#winetours"  class="nav-link" data-toggle="tab" role="tab">
+                                        <div class="card card-image" style="background-image: url(/photos/enoturismo.jpg);">
+
+                                        <!-- Content -->
+                                        
+                                            <div class="text-white text-center d-flex align-items-center rgba-black-light py-5 px-4">
+                                                <div class="w-100">
+                                                    <h5 class="orange-text"><i class="fa fa-glass"></i> Roteiros</h5>
+                                                    <h3 class="card-title pt-2"><strong>Enoturismo</strong></h3>
+                                                </div>
+                                            </div>
+                                        
+                                        <!-- Content -->
+                                        </div>
+                                    </a>
+                                    <!-- Card -->
+
+                                </li>
+                                <!--Grid column-->
+                            </ul>
 
                         </div>
-                        <!--Grid column-->
+                        <!--/.Column-->
 
-                        <!--Grid column-->
-                        <div class="col-md-4 mb-5">
-                            
-                            <!-- Card -->
-                            <div class="card card-image" style="background-image: url(/photos/passeios.jpg);">
+                        <!--Column-->
+                        <div class="col-md-9 mb-5">
 
-                                <!-- Content -->
-                                <div class="text-white text-center d-flex align-items-center rgba-black-slight py-5 px-4">
-                                    <div class="w-100">
-                                        <h5 class="orange-text"><i class="fa fa-bus"></i> Roteiros</h5>
-                                        <h3 class="card-title pt-2"><strong>Culturais</strong></h3>
-                                        <p>Passeios temáticos pelo alentejo, algarve e Lisboa.</p>
-                                        <a href="#culturetours" class="btn btn-orange smooth-scroll"><i class="fa fa-clone left"></i> Ver Roteiros</a>
-                                    </div>
+
+                            <!-- Tab panels -->
+                            <div class="tab-content">
+                                <!--Panel 1-->
+                                <div class="tab-pane fade in show active" id="adventuretours" role="tabpanel">
+                                    <!-- Heading -->
+                                    <h2 class="title dark-grey-text">Aventura</h2>
+                                    <p class="subtitle blue-text mb-5">Venha aventurar-se nas actividades que lhe propomos!</p>
                                 </div>
-                                <!-- Content -->
-                            </div>
-                            <!-- Card -->
+                                <!--/.Panel 1-->
+                                <!--Panel 2-->
+                                <div class="tab-pane fade" id="culturetours" role="tabpanel">
+                                    <!-- Heading -->
+                                    <h2 class="title dark-grey-text">Culturais</h2>
+                                    <p class="subtitle blue-text mb-5">Passeios temáticos pelo alentejo, algarve e Lisboa.</p>
+                                </div>
+                                <!--/.Panel 2-->
+                                <!--Panel 3-->
+                                <div class="tab-pane fade" id="winetours" role="tabpanel">
+                                    <!-- Heading -->
+                                    <h2 class="title dark-grey-text">Enoturismo</h2>
+                                    <p class="subtitle blue-text mb-5">Visite as melhores adegas e prove os melhores vinhos.</p>
+                                </div>
+                                <!--/.Panel 3-->
+                                </div>
+                            <!--/.Tab panels-->
+
 
                         </div>
-                        <!--Grid column-->
-
-                        <!--Grid column-->
-                        <div class="col-md-4 mb-5">
-                            
-                            <!-- Card -->
-                            <div class="card card-image" style="background-image: url(/photos/enoturismo.jpg);">
-
-                                <!-- Content -->
-                                <div class="text-white text-center d-flex align-items-center rgba-black-light py-5 px-4">
-                                    <div class="w-100">
-                                        <h5 class="orange-text"><i class="fa fa-glass"></i> Roteiros</h5>
-                                        <h3 class="card-title pt-2"><strong>Enoturismo</strong></h3>
-                                        <p>Visite as melhores adegas e prove os melhores vinhos.</p>
-                                        <a href="#winetours" class="btn btn-orange smooth-scroll"><i class="fa fa-clone left"></i> Ver Roteiros</a>
-                                    </div>
-                                </div>
-                                <!-- Content -->
-                            </div>
-                            <!-- Card -->
-
-                        </div>
-                        <!--Grid column-->
-
-                  
+                        <!--/.Column-->
                     </div>
-                    <!--Grid row-->
+                    <!--/Grid row-->
 
                 </div>
-            </section>
-            <!--Section: Tours-->
+                <!--/.Container-->
 
 
-
-
-
-            <!--Section: AdventureTours-->
-            <section id="adventuretours" class="text-center py-5">
-                <div class="container">
-                    <!-- Heading -->
-                    <h2 class="title dark-grey-text">Aventura</h2>
-                    <p class="subtitle blue-text mb-5">Venha aventurar-se nas actividades que lhe propomos!</p>
-                  
-                    <!--Grid row-->
-                    <div class="row">
-                  
-                        
-                    </div>
-                    <!--Grid row-->
-                </div>
-            </section>
-            <!--./Section: AdventureTours-->    
-
-
-
-
-
-            <!--Section: CultureTours-->
-            <section id="culturetours" class="text-center py-5">
-                <div class="container">
-                    <!-- Heading -->
-                    <h2 class="title dark-grey-text">Culturais</h2>
-                    <p class="subtitle blue-text mb-5">Passeios temáticos pelo alentejo, algarve e Lisboa.</p>
-                  
-                    <!--Grid row-->
-                    <div class="row">
-                  
-                        
-                    </div>
-                    <!--Grid row-->
-                </div>
-            </section>
-            <!--./Section: CultureTours--> 
-
-            
-
-
-
-
-
-            <!--Section: WineTours-->
-            <section id="winetours" class="text-center py-5">
-                <div class="container">
-                    <!-- Heading -->
-                    <h2 class="title dark-grey-text">Enoturismo</h2>
-                    <p class="subtitle blue-text mb-5">Visite as melhores adegas e prove os melhores vinhos.</p>
-                  
-                    <!--Grid row-->
-                    <div class="row">
-                  
-                        
-                    </div>
-                    <!--Grid row-->
-                </div>
-            </section>
-            <!--./Section: WineTours--> 
-
-            
-
+            <section id="toursindex" class="text-center py-5">
+            <!--/.Section: Tours Index-->
 
 
 
@@ -536,10 +514,11 @@
     <script type="text/javascript" src="/js/mdb.min.js"></script>
     <!-- Smooth-Scroll JavaScript -->
     <script type="text/javascript" src="/js/scripts.js"></script>
-    <!-- Precos Script -->
+    <!-- Precos Script 
     <script type="text/javascript" src="/js/precos.js"></script>
-    <!-- Ajax-form Script -->
+    <!-- Ajax-form Script 
     <script type="text/javascript" src="/js/app.js"></script>
+    -->
 </body>
 
 </html>
