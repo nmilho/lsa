@@ -210,7 +210,33 @@ section .titlenoimg:after {
     min-width: 4rem;
 }
 
+#toursindex .md-pills .nav-item {
+    padding: 0 5px;
+}
 
+#toursindex .md-pills .nav-link {
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12);
+    -webkit-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+#toursindex .md-pills .nav-link:hover {
+    box-shadow: 0 5px 11px 0 rgba(0,0,0,.18), 0 4px 15px 0 rgba(0,0,0,.15);
+}
+
+#toursindex .pills-primary .nav-link.active {
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12);
+    color: #fff;
+}
+
+#toursindex .md-pills .nav-link.active:hover {
+    box-shadow: 0 5px 11px 0 rgba(0,0,0,.18), 0 4px 15px 0 rgba(0,0,0,.15);
+}
+
+#toursindex .pills-primary .nav-link.active {
+    background-color: #0f75e6!important;
+}
+
+/*
 #toursindex .nav-tabs .nav-link.active {
     color: inherit;
     background-color: transparent;
@@ -235,4 +261,4 @@ section .titlenoimg:after {
 #toursindex .nav-tabs .nav-link.active .card {
 	box-shadow: 0 2px 18px 0 rgba(0,0,0,.16), 0 2px 23px 0 rgba(0,0,0,0.22);
 	zoom: 1.05;
-}
+}*/
