@@ -217,13 +217,13 @@
 
                                     <div class="row">
                                         <!-- Card -->
-                                        <div class="col-md-4">
+                                        <div class="col-md-4 col-sm-6">
                                             <a href="#adventuretours" class="nav-link" data-toggle="tab" role="tab">
                                                 <div class="card card-image" style="background-image: url(/photos/tours/aventura/btt.jpg);">
 
                                                 <!-- Content -->
                                                 
-                                                    <div class="text-white text-center d-flex align-items-center rgba-black-light py-5 px-4">
+                                                    <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
                                                         <div class="w-100">
                                                             <h3 class="orange-text card-title pt-2"><strong>BTT</strong></h3>
                                                             <h5 class="">Aventure-se num passeio de BTT.</h5>
@@ -238,13 +238,13 @@
                                         <!-- Card -->
 
                                         <!-- Card -->
-                                        <div class="col-md-4">
+                                        <div class="col-md-4 col-sm-6">
                                             <a href="#adventuretours" class="nav-link" data-toggle="tab" role="tab">
                                                 <div class="card card-image" style="background-image: url(/photos/tours/aventura/kart.jpg);">
 
                                                 <!-- Content -->
                                                 
-                                                    <div class="text-white text-center d-flex align-items-center rgba-black-light py-5 px-4">
+                                                    <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
                                                         <div class="w-100">
                                                             <h3 class="orange-text card-title pt-2"><strong>Kart</strong></h3>
                                                             <h5 class="">Venha fazer uma corrida de kart.</h5>
@@ -259,13 +259,13 @@
                                         <!-- Card -->
 
                                         <!-- Card -->
-                                        <div class="col-md-4">
+                                        <div class="col-md-4 col-sm-6">
                                             <a href="#adventuretours" class="nav-link" data-toggle="tab" role="tab">
                                                 <div class="card card-image" style="background-image: url(/photos/tours/aventura/skydive.jpg);">
 
                                                 <!-- Content -->
                                                 
-                                                    <div class="text-white text-center d-flex align-items-center rgba-black-light py-5 px-4">
+                                                    <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
                                                         <div class="w-100">
                                                             <h3 class="orange-text card-title pt-2"><strong>Queda Livre</strong></h3>
                                                             <h5 class="">Aventure-se num salto inesquecível!</h5>
@@ -280,13 +280,13 @@
                                         <!-- Card -->
 
                                         <!-- Card -->
-                                        <div class="col-md-4">
+                                        <div class="col-md-4 col-sm-6">
                                             <a href="#adventuretours" class="nav-link" data-toggle="tab" role="tab">
                                                 <div class="card card-image" style="background-image: url(/photos/tours/aventura/surf.jpg);">
 
                                                 <!-- Content -->
                                                 
-                                                    <div class="text-white text-center d-flex align-items-center rgba-black-slight py-5 px-4">
+                                                    <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
                                                         <div class="w-100">
                                                             <h3 class="orange-text card-title pt-2"><strong>Surf</strong></h3>
                                                             <h5 class="">Venha apanhar umas ondas na costa alentejana.</h5>
@@ -301,13 +301,13 @@
                                         <!-- Card -->
 
                                         <!-- Card -->
-                                        <div class="col-md-4">
+                                        <div class="col-md-4 col-sm-6">
                                             <a href="#adventuretours" class="nav-link" data-toggle="tab" role="tab">
                                                 <div class="card card-image" style="background-image: url(/photos/tours/aventura/vintage.jpg);">
 
                                                 <!-- Content -->
                                                 
-                                                    <div class="text-white text-center d-flex align-items-center rgba-black-light py-5 px-4">
+                                                    <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
                                                         <div class="w-100">
                                                             <h3 class="orange-text card-title pt-2"><strong>Vintage</strong></h3>
                                                             <h5 class="">Venha passear numa carrinha vintage.</h5>
@@ -334,13 +334,13 @@
 
                                     <div class="row">
                                         <!-- Card -->
-                                        <div class="col-md-4">
-                                            <a href="#adventuretours" class="nav-link" data-toggle="tab" role="tab">
+                                        <div class="col-md-4 col-sm-6">
+                                            <a href="#tourbeja" class="nav-link" data-toggle="modal" data-target="#tourbeja">
                                                 <div class="card card-image" style="background-image: url(/photos/tours/cultura/beja.jpg);">
 
                                                 <!-- Content -->
                                                 
-                                                    <div class="text-white text-center d-flex align-items-center rgba-black-light py-5 px-4">
+                                                    <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
                                                         <div class="w-100">
                                                             <h3 class="orange-text card-title pt-2"><strong>BEJA</strong></h3>
                                                             <h5 class="">Um passeio pela cidade de Beja.</h5>
@@ -355,13 +355,13 @@
                                         <!-- Card -->
 
                                         <!-- Card -->
-                                        <div class="col-md-4">
+                                        <div class="col-md-4 col-sm-6">
                                             <a href="#adventuretours" class="nav-link" data-toggle="tab" role="tab">
                                                 <div class="card card-image" style="background-image: url(/photos/tours/cultura/costalentejana.jpg);">
 
                                                 <!-- Content -->
                                                 
-                                                    <div class="text-white text-center d-flex align-items-center rgba-black-light py-5 px-4">
+                                                    <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
                                                         <div class="w-100">
                                                             <h3 class="orange-text card-title pt-2"><strong>Costa Alentejana</strong></h3>
                                                             <h5 class="">Um passeio pela costa Alentejana.</h5>
@@ -376,13 +376,13 @@
                                         <!-- Card -->
 
                                         <!-- Card -->
-                                        <div class="col-md-4">
+                                        <div class="col-md-4 col-sm-6">
                                             <a href="#adventuretours" class="nav-link" data-toggle="tab" role="tab">
                                                 <div class="card card-image" style="background-image: url(/photos/tours/cultura/evora.jpg);">
 
                                                 <!-- Content -->
                                                 
-                                                    <div class="text-white text-center d-flex align-items-center rgba-black-light py-5 px-4">
+                                                    <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
                                                         <div class="w-100">
                                                             <h3 class="orange-text card-title pt-2"><strong>ÉVORA</strong></h3>
                                                             <h5 class="">Um passeio pela cidade de Évora.</h5>
@@ -397,13 +397,13 @@
                                         <!-- Card -->
 
                                         <!-- Card -->
-                                        <div class="col-md-4">
+                                        <div class="col-md-4 col-sm-6">
                                             <a href="#adventuretours" class="nav-link" data-toggle="tab" role="tab">
                                                 <div class="card card-image" style="background-image: url(/photos/tours/cultura/serpamertola.jpg);">
 
                                                 <!-- Content -->
                                                 
-                                                    <div class="text-white text-center d-flex align-items-center rgba-black-slight py-5 px-4">
+                                                    <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
                                                         <div class="w-100">
                                                             <h3 class="orange-text card-title pt-2"><strong>Serpa e Mértola</strong></h3>
                                                             <h5 class="">Passeie por duas das mais lindas vilas do Alentejo.</h5>                                                       </div>
@@ -417,13 +417,13 @@
                                         <!-- Card -->
 
                                         <!-- Card -->
-                                        <div class="col-md-4">
+                                        <div class="col-md-4 col-sm-6">
                                             <a href="#adventuretours" class="nav-link" data-toggle="tab" role="tab">
                                                 <div class="card card-image" style="background-image: url(/photos/tours/cultura/algarve.jpg);">
 
                                                 <!-- Content -->
                                                 
-                                                    <div class="text-white text-center d-flex align-items-center rgba-black-light py-5 px-4">
+                                                    <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
                                                         <div class="w-100">
                                                             <h3 class="orange-text card-title pt-2"><strong>ALGARVE</strong></h3>
                                                             <h5 class="">Venha passear e descobrir o Algarve.</h5>
@@ -438,13 +438,13 @@
                                         <!-- Card -->
 
                                         <!-- Card -->
-                                        <div class="col-md-4">
+                                        <div class="col-md-4 col-sm-6">
                                             <a href="#adventuretours" class="nav-link" data-toggle="tab" role="tab">
                                                 <div class="card card-image" style="background-image: url(/photos/tours/cultura/lisboa.jpg);">
 
                                                 <!-- Content -->
                                                 
-                                                    <div class="text-white text-center d-flex align-items-center rgba-black-light py-5 px-4">
+                                                    <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
                                                         <div class="w-100">
                                                             <h3 class="orange-text card-title pt-2"><strong>LISBOA</strong></h3>
                                                             <h5 class="">Venha passear pela capital do país e da cultura.</h5>
@@ -459,13 +459,13 @@
                                         <!-- Card -->
 
                                         <!-- Card -->
-                                        <div class="col-md-4">
+                                        <div class="col-md-4 col-sm-6">
                                             <a href="#adventuretours" class="nav-link" data-toggle="tab" role="tab">
                                                 <div class="card card-image" style="background-image: url(/photos/tours/cultura/alqueva.jpg);">
 
                                                 <!-- Content -->
                                                 
-                                                    <div class="text-white text-center d-flex align-items-center rgba-black-light py-5 px-4">
+                                                    <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
                                                         <div class="w-100">
                                                             <h3 class="orange-text card-title pt-2"><strong>ALQUEVA</strong></h3>
                                                             <h5 class="">Venha passear e descobrir a barragem do Alqueva.</h5>
@@ -482,12 +482,103 @@
 
                                 </div>
                                 <!--/.Panel 2-->
+
+
                                 <!--Panel 3-->
                                 <div class="tab-pane fade" id="winetours" role="tabpanel">
                                     <!-- Heading -->
                                     <h4 class="dark-grey-text">Visite as melhores adegas e prove os melhores vinhos.</h4>
+
+                                    <div class="row">
+                                        <!-- Card -->
+                                        <div class="col-md-4 col-sm-6">
+                                            <a href="#adventuretours" class="nav-link" data-toggle="tab" role="tab">
+                                                <div class="card card-image" style="background-image: url(/photos/tours/enoturismo/mingorra.jpg);">
+
+                                                <!-- Content -->
+                                                
+                                                    <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
+                                                        <div class="w-100">
+                                                            <h3 class="orange-text card-title pt-2"><strong>Mingorra</strong></h3>
+                                                            <h5 class="">Lorem ipsum.</h5>
+                                                        </div>
+                                                    </div>
+                                                
+                                                <!-- Content -->
+                                                
+                                                </div>
+                                            </a>
+                                        </div>
+                                        <!-- Card -->
+
+                                        <!-- Card -->
+                                        <div class="col-md-4 col-sm-6">
+                                            <a href="#adventuretours" class="nav-link" data-toggle="tab" role="tab">
+                                                <div class="card card-image" style="background-image: url(/photos/tours/enoturismo/figueirinha.jpg);">
+
+                                                <!-- Content -->
+                                                
+                                                    <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
+                                                        <div class="w-100">
+                                                            <h3 class="orange-text card-title pt-2"><strong>Figueirinha</strong></h3>
+                                                            <h5 class="">Lorem ipsum...</h5>
+                                                        </div>
+                                                    </div>
+                                                
+                                                <!-- Content -->
+                                                
+                                                </div>
+                                            </a>
+                                        </div>
+                                        <!-- Card -->
+
+                                        <!-- Card -->
+                                        <div class="col-md-4 col-sm-6">
+                                            <a href="#adventuretours" class="nav-link" data-toggle="tab" role="tab">
+                                                <div class="card card-image" style="background-image: url(/photos/tours/enoturismo/quetzal.jpg);">
+
+                                                <!-- Content -->
+                                                
+                                                    <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
+                                                        <div class="w-100">
+                                                            <h3 class="orange-text card-title pt-2"><strong>Quetzal</strong></h3>
+                                                            <h5 class="">Lorem ipsum...</h5>
+                                                        </div>
+                                                    </div>
+                                                
+                                                <!-- Content -->
+                                                
+                                                </div>
+                                            </a>
+                                        </div>
+                                        <!-- Card -->
+
+                                        <!-- Card -->
+                                        <div class="col-md-4 col-sm-6">
+                                            <a href="#adventuretours" class="nav-link" data-toggle="tab" role="tab">
+                                                <div class="card card-image" style="background-image: url(/photos/tours/enoturismo/malhadinha.jpg);">
+
+                                                <!-- Content -->
+                                                
+                                                    <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
+                                                        <div class="w-100">
+                                                            <h3 class="orange-text card-title pt-2"><strong>Malhadinha Nova</strong></h3>
+                                                            <h5 class="">Lorem ipsum...</h5>
+                                                        </div>
+                                                    </div>
+                                                
+                                                <!-- Content -->
+                                                
+                                                </div>
+                                            </a>
+                                        </div>
+                                        <!-- Card -->
+                                    </div>
+
                                 </div>
                                 <!--/.Panel 3-->
+
+
                                 </div>
                             <!--/.Tab panels-->
 
@@ -628,88 +719,18 @@
     
 
 <!-- Modal -->
-<div class="modal fade" id="transfersprice" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade" id="tourbeja" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <h5 class="modal-title text-upper" id="exampleModalLabel">Transfers - Tabela de preços</h5>
+                <h5 class="modal-title text-upper" id="exampleModalLabel">Tour por Beja</h5>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                 </button>
             </div>
             <div class="modal-body">
-                <p><small>Valores calculados com partida/chegada a Beja.<br/>
-                Distâncias superiores sujeitas a ajustamento.<br/><strong>
-                Em caso de viagem de ida/volta 25% de desconto na viagem de regresso.</strong></small></p>
                 
-                <!--Table-->
-                <table class="table rounded-corners table-hover">
-
-                    <!--Table head-->
-                    <thead>
-                        <tr class="text-white">
-                            <th>Trajecto</th>
-                            <th>1-4 pax</th>
-                            <th>5-7 pax</th>
-                        </tr>
-                    </thead>
-                    <!--Table head-->
-
-                    <!--Table body-->
-                    <tbody>
-                        <tr>
-                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Lisboa Apt</th>
-                            <td>215€</td>
-                            <td>245€</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Faro Apt</th>
-                            <td>190€</td>
-                            <td>220€</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Sines</th>
-                            <td>110€</td>
-                            <td>140€</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Zambujeira</th>
-                            <td>140€</td>
-                            <td>170€</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Évora</th>
-                            <td>95€</td>
-                            <td>125€</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Albufeira</th>
-                            <td>170€</td>
-                            <td>200€</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Lagos</th>
-                            <td>200€</td>
-                            <td>230€</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Vila Real Sto. António</th>
-                            <td>170€</td>
-                            <td>200€</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Sevilha</th>
-                            <td>230€</td>
-                            <td>260€</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">* 20% adicional entre as 21 horas e as 7 horas.</th>
-                            <th colspan="2">* Valores com IVA incluido à taxa de 6%</th>
-                        </tr>
-                    </tbody>
-
-                </table>
-                <!--./Table-->
+                
 
             </div>
             <div class="modal-footer">

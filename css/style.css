@@ -236,6 +236,16 @@ section .titlenoimg:after {
     background-color: #0f75e6!important;
 }
 
+#toursindex a.nav-link:hover .rgba-black-strong {
+    background-color: rgba(0, 0, 0, 0.3); 
+    -webkit-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+
+.nav-link:focus {
+    outline: none;
+}
+
 /*
 #toursindex .nav-tabs .nav-link.active {
     color: inherit;
