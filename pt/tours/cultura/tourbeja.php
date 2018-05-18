@@ -5,9 +5,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Land&Sea Alentejo | Tour / Passeio por Beja</title>
+    <title>Land&Sea Alentejo | Roteiros: Tour e passeio por Beja</title>
 
-    <meta name="description" content="Passeio de um dia por Beja, com possibilidade de incluir guia, almoço, jantar e alojamneto.">
+    <meta name="description" content="Tour e passeio cultural por Beja">
 
     <link rel="canonical" href="http://www.landseaalentejo.com/">
 
@@ -18,10 +18,10 @@
 
     <meta property="og:locale" content="pt_PT">
     <meta property="og:site_name" content="Land and Sea Alentejo">
-    <meta property="og:title" content="Land&Sea Alentejo | Tour / Passeio por Beja">
+    <meta property="og:title" content="Land&Sea Alentejo | Roteiros: Tour e passeio por Beja">
     <meta property="og:url" content="http://www.landseaalentejo.com/">
     <meta property="og:type" content="website">
-    <meta property="og:description" content="Passeio de um dia por Beja, com possibilidade de incluir guia, almoço, jantar e alojamneto.">
+    <meta property="og:description" content="Tour e passeio cultural por Beja">
 
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -46,9 +46,9 @@
 <!-- Start your project here-->
 
     <!--Main Navigation-->
-    <header style="height: 75%;">
+    <header style="height: auto; margin-top: 75px;" >
         <!--Navbar-->
-        <nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar">
+        <nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar" style="background-color: #0f75e6;">
             <div class="container">
             <!-- Navbar brand -->
             <a class="navbar-brand" href="#">
@@ -70,20 +70,20 @@
                         <a class="nav-link" href="#body">Início</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#about">Quem Somos</a>
+                        <a class="nav-link smooth-scroll" href="#about">Quem Somos</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#transfers">Transfers</a>
+                        <a class="nav-link smooth-scroll" href="#transfers">Transfers</a>
                     </li>
 
                     <li class="nav-item active">
-                        <a class="nav-link" href="#tours">
-                            Roteiros <span class="sr-only">(current)</span>
+                        <a class="nav-link smooth-scroll" href="#tours">Roteiros
+                            <span class="sr-only">(current)</span>
                         </a>
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" href="#contacts">Contatos</a>
+                        <a class="nav-link smooth-scroll" href="#contacts">Contatos</a>
                     </li>
                     <!-- Dropdown -->
                     <li class="nav-item dropdown">
@@ -101,623 +101,182 @@
         </nav>
         <!--/.Navbar-->   
 
-        <!--Carousel Wrapper-->
-        <div id="landing-carousel" class="carousel slide carousel-fade" data-ride="carousel" data-interval="5000">
-
-            <!--Indicators-->
-            <ol class="carousel-indicators">
-                <li data-target="#landing-carousel" data-slide-to="0" class="active"></li>
-                <li data-target="#landing-carousel" data-slide-to="1"></li>
-                <li data-target="#landing-carousel" data-slide-to="2"></li>
-                <li data-target="#landing-carousel" data-slide-to="3"></li>
-            </ol>
-            <!--/.Indicators-->
-
-            <!--Slides-->
-            <div class="carousel-inner" role="listbox">
-
-                <!--First slide-->
-                <div class="carousel-item active">
-                    <!--Mask-->
-                    <div class="view">
-                        <div class="full-bg-img flex-center mask rgba-black-light white-text">
-                            <ul class="animated fadeIn col-md-12 list-unstyled list-inline">
-                                <li>
-                                    <p class="topsub-title text-uppercase">Enoturismo - Campo - Mar - Aventura</p>
-                                </li>
-                                <li>
-                                    <h1 class="title text-uppercase">Consigo pelo Alentejo</h1>
-                                </li>
-                                <li>
-                                    <p class="sub-title text-uppercase py-4">Tours à medida de cada cliente</p>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <!--/.Mask-->
-                </div>
-                <!--/.First slide-->
-
-                <!--Second slide -->
-                <div class="carousel-item">
-                    <!--Mask-->
-                    <div class="view">
-                        <div class="full-bg-img flex-center mask rgba-black-light white-text">
-                            <ul class="animated fadeIn col-md-12 list-unstyled">
-                                <li>
-                                    <p class="topsub-title text-uppercase">Enoturismo - Campo - Mar - Aventura</p>
-                                </li>
-                                <li>
-                                    <h1 class="title text-uppercase">VIVE E DISFRUTA</h1>
-                                </li>
-                                <li>
-                                    <p class="sub-title text-uppercase py-4">Do melhor que o Alentejo tem para oferecer</p>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <!--/.Mask-->
-                </div>
-                <!--/.Second slide -->
-
-                <!--Third slide-->
-                <div class="carousel-item">
-                    <!--Mask-->
-                    <div class="view">
-                        <div class="full-bg-img flex-center mask rgba-black-light white-text">
-                            <ul class="animated fadeIn col-md-12 list-unstyled">
-                                <li>
-                                    <p class="topsub-title text-uppercase">Enoturismo - Campo - Mar - Aventura</p>
-                                </li>
-                                <li>
-                                    <h1 class="title text-uppercase">MERGULHA NUMA AVENTURA</h1>
-                                </li>
-                                <li>
-                                    <p class="sub-title text-uppercase py-4">Cheia de adrenalina e de emoções radicais</p>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <!--/.Mask-->
-                </div>
-                <!--/.Third slide-->
-
-                <!--Fouth slide-->
-                <div class="carousel-item">
-                    <!--Mask-->
-                    <div class="view">
-                        <div class="full-bg-img flex-center mask rgba-black-light white-text">
-                            <ul class="animated fadeIn col-md-12 list-unstyled">
-                                <li>
-                                    <p class="topsub-title text-uppercase">Enoturismo - Campo - Mar - Aventura</p>
-                                </li>
-                                <li>
-                                    <h1 class="title text-uppercase">DA COSTA AO PROFUNDO ALENTEJO</h1>
-                                </li>
-                                <li>
-                                    <p class="sub-title text-uppercase py-4">Uma paisagem, um sabor, um paladar sem igual</p>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <!--/.Mask-->
-                </div>
-                <!--/.Fouth slide-->
-
-
-            </div>
-            <!--/.Slides-->
-
-            <!--Controls-->
-            <a class="carousel-control-prev" href="#landing-carousel" role="button" data-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
-            </a>
-            <a class="carousel-control-next" href="#landing-carousel" role="button" data-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
-            </a>
-            <!--/.Controls-->
-        </div>
-        <!--/.Carousel Wrapper-->
-
-        <!--Mask--><!--
-        <div id="intro" class="view">
-
-            <div class="full-bg-img">
-
-                <div class="mask rgba-black-strong">
-
-                    <div class="container-fluid d-flex align-items-center justify-content-center h-100">
-
-                        <div class="row d-flex justify-content-center text-center">
-
-                            <div class="col-md-10">
-
-                                <!-- Heading --><!--
-                                <h2 class="display-3 font-weight-bold white-text mb-2">Travel</h2>
-
-                                <!-- Divider --><!--
-                                <hr class="hr-light">
-
-                                <!-- Description --><!--
-                                <h4 class="white-text my-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti consequuntur.</h4>
-                                <button type="button" class="btn btn-outline-white">Read more<i class="fa fa-book ml-2"></i></button>
-
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-            </div>
-
-        </div>
-        <!--/.Mask-->
-
-                    
     </header>
     <!--Main Navigation-->
 
     <!--Main layout-->
-    <main class="mt-0">
+    <main class="mt-5">
 
-            
-
-            
-            <!--Section: About-->
-            <section id="about" class="text-center py-5">
+            <!--Section: Tours Index-->
+            <section id="toursindex" class="text-center py-5" style="background-color: #fff;">
                 <div class="container">
-                    <!-- Heading -->
-                    <h2 class="title dark-grey-text">Land & Sea Alentejo</h2>
-                    <p class="subtitle blue-text mb-5">O Alentejo mais perto de si</p>
-
-                    <!--Grid row-->
                     <div class="row">
+                        <div class="col-md-12 mb-4">
+                            <!-- Heading -->
+                            <h2 class="title dark-grey-text">Tour Beja</h2>
 
-                        <!--Grid column-->
-                        <div class="col-lg-5 col-xl-5 pb-3">
-                            <!--Featured image-->
-                            <div class="view overlay hm-dark-slight rounded z-depth-2">
-                                <img src="/photos/carrinha2.jpg" alt="Sample image for first version of blog listing" class="img-fluid">
-                                <a>
-                                    <div class="mask waves-effect waves-light"></div>
-                                </a>
-                            </div>
-                        </div>
-                        <!--Grid column-->
-
-                        <!--Grid column-->
-                        <div class="col-lg-7 col-xl-7">
-                            <p class="text-left">
-                                Com o objetivo de dar a conhecer e desenvolver o turismo local - da costa ao mais profundo
-                                Alentejo - foi criada a Empresa Land &amp; Sea Alentejo, com um serviço de qualidade em que o
-                                foco é satisfazer e fidelizar os nossos clientes.
-                            </p>
-                            <p class="text-left">
-                                Vamos fazer chegar até si o melhor que o nosso Alentejo tem para oferecer, desde tours às nossas cidades e vilas, bem como à nossa costa; explorar o enoturismo; viajar no lago do Alqueva ou ter grandes aventuras radicais - e claro, dar a oportunidade de provar as especialidades da gastronomia Alentejana.
-                            </p>
-                            <p class="text-left">
-                                Queremos também fazer chegar a si um pouco mais do nosso país, através de tours a Lisboa,
-                                Évora e Algarve.
-                                Todos os roteiros/tours podem ser ajustados às necessidades dos clientes.
-                            </p>
-
-                        </div>
-                        <!--Grid column-->
-
-                    </div>
-                    <!--./Grid row-->
-
-                  
-                    <!--Grid row-->
-                    <!--<div class="row d-flex justify-content-center mb-4">
-                  
-                        <!--Grid column-->
-                        <!--<div class="col-md-8">
-                  
-                            <!-- Description -->
-                            <!--<p class="grey-text">Vamos fazer chegar até si o melhor que o nosso Alentejo tem para oferecer, desde tours às nossas cidades e vilas, bem como à nossa costa; explorar o enoturismo; viajar no lago do Alqueva ou ter grandes aventuras radicais - e claro, dar a oportunidade de provar as especialidades da gastronomia Alentejana.</p>
-                  
-                        </div>
-                        <!--Grid column-->
-                  
-                    <!--</div>
-                    <!--Grid row-->
-                </div>
-            </section>
-            <!--Section: About-->
-
-
-
-
-
-            <!--Section: Transfers-->
-            <section id="transfers" class="text-center py-5">
-                <div class="container">
-                    <!-- Heading -->
-                    <h2 class="title dark-grey-text">Transfers</h2>
-                    <p class="subtitle blue-text mb-5">Segurança e Excelência</p>
-                  
-                    <!--Grid row-->
-                    <div class="row">
-                  
-                        <!--Grid column-->
-                        <div class="col-md-6 mb-5">
-                            <h4 class="my-4">Chegadas / Partidas</h4>
-                            <!--Featured image-->
-                            <div class="view overlay hm-dark-slight rounded z-depth-1 mb-1">
-                                <img src="/photos/carrinhaaero.jpg" alt="Sample image for first version of blog listing" class="img-fluid">
-                                <a>
-                                    <div class="mask waves-effect waves-light"></div>
-                                </a>
-                            </div>
-                            <p class="grey-text">Temos o transfer à sua medida, vamos ter consigo à zona das chegadas do Aeroporto e acompanhá-lo ao veículo. Garantimos pontualidade, segurança e conforto a bordo de uma viatura Mercedes V220 com serviço de internet e águas frescas. Fazemos qualquer tipo de transfer para qualquer cidade sobe orçamento.</p>
-                        </div>
-                        <!--Grid column-->
-                  
-                        <!--Grid column-->
-                        <div class="col-md-6 mb-5">
-                            <h4 class="my-4">Profissional</h4>
-                            <!--Featured image-->
-                            <div class="view overlay hm-dark-slight rounded z-depth-1 mb-1">
-                                <img src="/photos/handshake.jpg" alt="Sample image for first version of blog listing" class="img-fluid">
-                                <a>
-                                    <div class="mask waves-effect waves-light"></div>
-                                </a>
-                            </div>
-                            <p class="grey-text">Fazemos serviços de Motorista para que o seu negocio seja mais eficaz.<br/>
-                                                Garantimos otimização do seu tempo. Transportamos grupos para congressos, conferências e outros eventos de empresas.<br/>
-                                                Numa viatura com conforto e segurança, equipada com internet e águas frescas a bordo. Um serviço de excelência.
-                            </p>
-                        </div>
-                        <!--Grid column-->
-
-                        <!--Grid column-->
-                        <div class="col-md-12">
-                            <button type="button" class="btn btn-orange" data-toggle="modal" data-target="#transfersprice">
-                                Consultar Preços
-                            </button>
-                        </div>
-                        <!--Grid column-->
-                    </div>
-                    <!--Grid row-->
-                </div>
-            </section>
-            <!--./Section: Transfers-->    
-
-
-
-
-
-            <!--Section: Tours-->
-            <section id="tours" class="text-center py-5">
-                <div class="container">
-                    <!-- Heading -->
-                    <h2 class="title dark-grey-text">Roteiros</h2>
-                    <p class="subtitle blue-text mb-5">Temos os melhores roteiros para si</p>
-
-                    <!--Grid row-->
-                    <div class="row">
-                  
-                        <!--Grid column-->
-                        <div class="col-md-4 mb-5">
-                            
-                            <!-- Card -->
-                            <div class="card card-image" style="background-image: url(/photos/aventura.jpg);">
-
-                                <!-- Content -->
-                                <div class="text-white text-center d-flex align-items-center rgba-black-light py-5 px-4">
-                                    <div class="w-100">
-                                        <h5 class="orange-text"><i class="fa fa-bicycle"></i> Roteiros</h5>
-                                        <h3 class="card-title pt-2"><strong>Aventura</strong></h3>
-                                        <p>Venha aventurar-se nas actividades que lhe propomos.</p>
-                                        <a class="btn btn-orange"><i class="fa fa-clone left"></i> Ver Roteiros</a>
-                                    </div>
+                            <div class="card card-image" style="background: url(/photos/tours/cultura/beja/casteloese.jpg) -130px -160px; height: 300px;">
+                                <div class="text-white text-center d-flex align-items-center rgba-black-light py-5 px-4 rounded" style="height: 300px;">
+                                    
                                 </div>
-                                <!-- Content -->
-                                
-                            </div>
-                            <!-- Card -->
-
-                        </div>
-                        <!--Grid column-->
-
-                        <!--Grid column-->
-                        <div class="col-md-4 mb-5">
-                            
-                            <!-- Card -->
-                            <div class="card card-image" style="background-image: url(/photos/passeios.jpg);">
-
-                                <!-- Content -->
-                                <div class="text-white text-center d-flex align-items-center rgba-black-slight py-5 px-4">
-                                    <div class="w-100">
-                                        <h5 class="orange-text"><i class="fa fa-bus"></i> Roteiros</h5>
-                                        <h3 class="card-title pt-2"><strong>Culturais</strong></h3>
-                                        <p>Passeios temáticos pelo alentejo, algarve e Lisboa.</p>
-                                        <a class="btn btn-orange"><i class="fa fa-clone left"></i> Ver Roteiros</a>
-                                    </div>
-                                </div>
-                                <!-- Content -->
-                            </div>
-                            <!-- Card -->
-
-                        </div>
-                        <!--Grid column-->
-
-                        <!--Grid column-->
-                        <div class="col-md-4 mb-5">
-                            
-                            <!-- Card -->
-                            <div class="card card-image" style="background-image: url(/photos/enoturismo.jpg);">
-
-                                <!-- Content -->
-                                <div class="text-white text-center d-flex align-items-center rgba-black-light py-5 px-4">
-                                    <div class="w-100">
-                                        <h5 class="orange-text"><i class="fa fa-glass"></i> Roteiros</h5>
-                                        <h3 class="card-title pt-2"><strong>Enoturismo</strong></h3>
-                                        <p>Visite as melhores adegas e prove os melhores vinhos.</p>
-                                        <a class="btn btn-orange"><i class="fa fa-clone left"></i> Ver Roteiros</a>
-                                    </div>
-                                </div>
-                                <!-- Content -->
-                            </div>
-                            <!-- Card -->
-
-                        </div>
-                        <!--Grid column-->
-
-                  
-                    </div>
-                    <!--Grid row-->
-
-                </div>
-            </section>
-            <!--Section: Tours-->
-
-            
-
-
-
-
-
-            <!--Section: Pub-->
-            <section id="pub" class="pub" style="background-image: url('/photos/adega02.jpg')">
-                
-                <!-- Content -->
-                <div class="text-white text-center d-flex align-items-center rgba-black-light">
-                    <div class="container">
-                        <div class="col-md-9 mx-auto">
-                            <h2 class="titlenoimg white-text">OS MELHORES VINHOS</h2>
-                            <p>«Um cenário de sonho e vinhas de qualidade mundial fazem do Alentejo um paraíso para os amantes de vinho.»</p>
-                            <p>«Um dos melhores destinos europeus para fazer enoturismo. E porque a
-                                comida é sempre boa companheira do bom vinho, destaca-se a comida
-                                com mais alma em Portugal».
-                            </p>
-                            <small> in Condé Nast Traveler</small>
+                              </div>
                         </div>
                     </div>
-                </div>
-                <!-- Content -->
-
-            </section>
-            <!--Section: Pub-->
-
-            
-
-
-
-
-
-            <!--Section: Sponsors-->
-            <section class="parceiros text-center py-5">
-
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12 mx-auto">
-                            <h2 class="titlenoimg dark-grey-text">Parceiros</h2>
-                        </div>
-                    </div>
-                </div>
-
-                <!--Carousel Wrapper-->
-                <div class="container-fluid">
-                    <ul class="clients-carousel list-unstyled">
-                        <li>
-                            <a href="http://ribafreixo.com/" target="_blank">
-                                <img src="/photos/sponsors/logo-ribafreixo.png" class="img-responsive" alt="Ribafreixo Wines">
-                            </a>
-                        </li>
-                        <li>
-                            <a href="http://www.mingorra.com/" target="_blank">
-                                <img src="/photos/sponsors/logo-mingorra.png" class="img-responsive" alt="Herdade da Mingorra">
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.malhadinhanova.pt/" target="_blank">
-                                <img src="/photos/sponsors/logo-malhadinhanova.png" class="img-responsive" alt="Herdade da Malhadinha Nova">
-                            </a>
-                        </li>
-                        <li>
-                            <a href="http://montenovoefigueirinha.pt/" target="_blank">
-                                <img src="/photos/sponsors/logo-figueirinha.png" class="img-responsive" alt="Herdade da Figueirinha">
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://quintadoquetzal.com/" target="_blank">
-                                <img src="/photos/sponsors/logo-quetzal.png" class="img-responsive" alt="Quinta do Quetzal">
-                            </a>
-                        </li>
-                        <li>
-                            <a href="http://adegavidigueira.pt/" target="_blank">
-                                <img src="/photos/sponsors/logo-adegavidigueira.png" class="img-responsive" alt="Adega Cooperativa Vidigueira">
-                            </a>
-                        </li>
-                        <li>
-                            <a href="http://www.santavitoria.pt/" target="_blank">
-                                <img src="/photos/sponsors/logo-santavitoria.svg" width="187" height="102" class="img-responsive" alt="Santa Vitória Vinhos">
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.surfalentejo.com/" target="_blank">
-                                <img src="/photos/sponsors/logo-escolalitoralalentejano.png" class="img-responsive" alt="Escola Surf Litoral Alentejano">
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.amieiramarina.com/" target="_blank">
-                                <img src="/photos/sponsors/logo-amieiramarina.png" class="img-responsive" alt="Amieira Marina">
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.weride.pt/" target="_blank">
-                                <img src="/photos/sponsors/logo-weride.png" class="img-responsive" alt="WeRide Montain Bike Tours">
-                            </a>
-                        </li>
-                        <li>
-                            <a href="http://rocim.pt/" target="_blank">
-                                <img src="/photos/sponsors/logo-rocim.png" class="img-responsive" alt="Herdade do Rocim">
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.herdade-dos-grous.com" target="_blank">
-                                <img src="/photos/sponsors/logo-grous2.png" class="img-responsive" alt="Herdade dos Grous">
-                            </a>
-                        </li>
-                        <li>
-                            <a href="http://skydiveeurope.com/" target="_blank">
-                                <img src="/photos/sponsors/skydiveeurope.png" class="img-responsive" alt="Skydive Europe">
-                            </a>
-                        </li>
-                        <li>
-                            <a href="http://www.kartevora.pt/" target="_blank">
-                                <img src="/photos/sponsors/kartevora.jpg" class="img-responsive" alt="Kart Évora">
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-                <!--/.Carousel Wrapper-->
-
-
-
-            </section>
-            <!--Section: Sponsors-->
-
-
-
-
-
-            <!--Section: Contact-->
-            <section id="contacts" class="py-5">
-
-                <!-- Section heading -->
-                <h2 class="text-center title dark-grey-text wow fadeIn" data-wow-delay="0.2s" style="visibility: visible; animation-name: fadeIn; animation-delay: 0.2s;">
-                    Contatos
-                </h2>
-
-                <div class="container backink">
                     
-                    <div class="row wow fadeIn" data-wow-delay="0.4s" style="visibility: visible; animation-name: fadeIn; animation-delay: 0.4s;">
+                    <p class="text-left">Queremos dar-lhe a oportunidade de conhecer a cidade de Beja, com um vasto património cultural, natural e uma paisagem de sobreiros e oliveiras a perder de vista.<br/>Com uma diversidade arquitetónica e arqueológica riquíssima, Beja é uma cidade com uma forte alma histórica.</p>
 
-                        <!-- Grid column -->
-                        <div class="col-md-8 col-lg-8">
+                    <div class="row">
+                        <div class="col-md-12 mb-4">
 
-                            <!-- Form -->
-                            <form id="ajax-contact" method="post" action="mailer.php">
-                                <!-- Grid row -->
-                                <div class="row">
-                                    <!-- Grid column -->
-                                    <div class="col-md-12">
-                                        <div class="md-form">
-                                            <div class="md-form">
-                                                <input type="text" id="name" name="name" class="form-control" required>
-                                                <label for="name" class="required">Nome</label>
-                                            </div>
-                                        </div>
-                                    </div>
+                            <h2 class="dark-grey-text text-left">Locais a Visitar</h2>
+
+                            <div class="row">
+
+                                <div class="col-md-7">
+
+                                    <ul class="text-left">
+                                        <li>Castelo</li>
+                                        <li>Casa do governador</li>
+                                        <li>Museu Regional de Beja</li>
+                                        <li>Núcleo Visigótico do Museu Regional de Beja (Igreja Santo Amaro)</li>
+                                        <li>Núcleo Museológico da Rua do Sembrano</li>
+                                        <li>Museu Episcopal de Beja</li>
+                                        <li>Vila Romana de Pisões</li>
+                                        <li>Igreja da Misericórdia</li>
+                                        <li>Ermida de S. André</li>
+                                        <li>Sé Catedral</li>
+                                    </ul>
+
                                 </div>
-                                <!-- Grid row -->
 
-                                <!-- Grid row -->
-                                <div class="row">
-                                    <!-- Grid column -->
-                                    <div class="col-md-12">
-                                        <div class="md-form">
-                                            <div class="md-form">
-                                                <input type="email" id="email" name="email" class="form-control" required>
-                                                <label for="email" class="required">Email</label>
-                                            </div>
-                                        </div>
-                                    </div>
+                                <div class="col-md-5">
+                                    <figure class="figure">
+                                        <img src="/photos/tours/cultura/beja/museu.jpg" class="img-fluid rounded z-depth-1">
+                                        <figcaption class="figure-caption">Museu Rainha D. Isabel.</figcaption>
+                                    </figure>
                                 </div>
-                                <!-- Grid row -->
 
-                                <!-- Grid row -->
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <div class="md-form">
-                                            <input type="text" id="subject" name="subject" class="form-control" required>
-                                            <label for="subject" class="required">Assunto</label>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- Grid row -->
-
-                                <!-- Grid row -->
-                                <div class="row">
-                                    <!-- Grid column -->
-                                    <div class="col-md-12">
-
-                                        <div class="md-form">
-                                            <textarea id="message" name="message" class="md-textarea form-control" rows="3" required></textarea>
-                                            <label for="message" class="required">Menssagem</label>
-                                        </div>
-
-                                    </div>
-                                </div>
-                                <!-- Grid row -->
-                                
-                                <div id="form-messages"></div>
-
-                                <div class="text-center text-md-left mb-5 mt-4">
-                                    <button type="submit" class="btn btn-orange waves-effect waves-light">Enviar</button>
-                                </div>
-                            </form>
-                            <!-- ./Form -->
-
+                            </div>
                             
+                            
+
+                            <h2 class="dark-grey-text text-left">Onde Comer</h2>
+                            <p class="text-left">Com uma rica gastronomia, receitas simples com ingredientes locais em que a carne de porco e o pão são a base da cozinha tradicional, Beja tem para oferecer os famosos doces conventuais, chocolates e cerveja artesanal, queijarias de excelência, enchidos, azeite e muito mais!<br/>Com restaurantes típicos onde podemos degustar a rica gastronomia local, do mais simples ao mais sofisticado:</p>
+
+                            <div class="row">
+                                <div class="col-md-7">
+                                    <ul class="text-left">
+                                        <li>Vovó Joaquina (cozinha gourmet)</li>
+                                        <li>Adega Típica 25 de Abril (tradicional alentejana)</li>
+                                        <li>Tasca da Su (petiscos)</li>
+                                        <li>Pulo do Lobo (marisqueira e cozinha tradicional alentejana)</li>
+                                        <li>O Pereira (petiscos)</li>
+                                    </ul>
+                                </div>
+                                <div class="col-md-5">
+                                    <figure class="figure">
+                                        <img src="/photos/tours/cultura/beja/vovojoaquina.jpg" class="img-fluid rounded z-depth-1">
+                                        <figcaption class="figure-caption">Restaurante Vovó Joaquina</figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+                            <h2 class="dark-grey-text text-left">Onde Dormir</h2>
+                            <p class="text-left">Para descobrir a cidade pode ficar a pernoitar num dos seguintes locais:</p>
+
+                            <div class="row">
+                                <div class="col-md-7">
+                                    <ul class=" text-left">
+                                        <li>Beja Parque Hotel</li>
+                                        <li>Hotel Francis</li>
+                                        <li>Hotel Melius</li>
+                                        <li>Pousada de S. Francisco</li>
+                                        <li>Hotel Bejense</li>
+                                        <li>Hotel Santa Bárbara</li>
+                                        <li>Hospedaria D. Maria</li>
+                                    </ul>
+                                </div>
+                                <div class="col-md-5">
+                                    <figure class="figure">
+                                        <img src="/photos/tours/cultura/beja/hotelbejaparque.jpg" class="img-fluid rounded z-depth-1">
+                                        <figcaption class="figure-caption">Hotel Beja-Parque</figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+                            <h2 class="dark-grey-text text-left">Pacotes Disponíveis</h2>
+                            <div class="row">
+
+                                <div class="col-md-3 col-sm-6 col-xs-12 my-3">
+                                    <!-- Card -->
+                                    <div class="card align-items-center">
+                                        <!-- Card content -->
+                                        <div class="card-body text-center">
+                                            <!-- Category & Title -->
+                                            <h5><p class="dark-grey-text">Tranporte com oferta de mapa e informação local</p></h5>
+                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 90€</a>
+                                        </div>
+                                        <!-- ./Card content -->
+                                    </div>
+                                    <!-- ./Card -->
+                                </div>
+                                <div class="col-md-3 col-sm-6 col-xs-12 my-3">
+                                    <!-- Card -->
+                                    <div class="card align-items-center">
+                                        <!-- Card content -->
+                                        <div class="card-body text-center">
+                                            <!-- Category & Title -->
+                                            <h5><p class="dark-grey-text">Tranporte e passeio com guia local</p></h5>
+                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 120€</a>
+                                        </div>
+                                        <!-- ./Card content -->
+                                    </div>
+                                    <!-- ./Card -->
+                                </div>
+                                <div class="col-md-3 col-sm-6 col-xs-12 my-3">
+                                    <!-- Card -->
+                                    <div class="card align-items-center">
+                                        <!-- Card content -->
+                                        <div class="card-body text-center">
+                                            <!-- Category & Title -->
+                                            <h5><p class="dark-grey-text">Tranporte e passeio com almoço incluído</p></h5>
+                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 120€</a>
+                                        </div>
+                                        <!-- ./Card content -->
+                                    </div>
+                                    <!-- ./Card -->
+                                </div>
+                                <div class="col-md-3 col-sm-6 col-xs-12 my-3">
+                                    <!-- Card -->
+                                    <div class="card align-items-center">
+                                        <!-- Card content -->
+                                        <div class="card-body text-center">
+                                            <!-- Category & Title -->
+                                            <h5><p class="dark-grey-text">Tranporte e passeio com almoço, jantar e dormida</p></h5>
+                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 190€</a>
+                                        </div>
+                                        <!-- ./Card content -->
+                                    </div>
+                                    <!-- ./Card -->
+                                </div>
+
+                                <div class="col-md-12">
+                                    <p class="text-left">Podemos fazer um pacote à sua medida!!!<br/>Mais informação através do email info@landseaalentejo.com ou telm 965 589 291</p>
+                                </div>
+
+                            </div>
                         </div>
-                        <!-- Grid column -->
-
-                        <!-- Grid column -->
-                        <div class="col-md-4 col-lg-4">
-                            <ul class="contact-icons float-md-center list-unstyled pt-5 pl-5">
-                                <li>
-                                    <i class="fa fa-map-marker fa-2x orange-text"></i>
-                                    <p>BEJA, 7800, PORTUGAL</p>
-                                </li>
-
-                                <li>
-                                    <i class="fa fa-phone fa-2x orange-text"></i>
-                                    <p>+351 965 589 291</p>
-                                </li>
-
-                                <li>
-                                    <i class="fa fa-envelope fa-2x orange-text"></i>
-                                    <p>info@landseaalentejo.com</p>
-                                </li>
-                                <li><i class="fa fa-id-card fa-2x orange-text"></i>
-                                    <p>RNAVT 7728</p>
-                                </li>
-                            </ul>
-                        </div>
-                        <!-- Grid column -->
 
                     </div>
+
                 </div>
+
             </section>
-            <!--Section: Contact-->
+            <!--/.Section: Tours Index-->
+
+
+
+
 
     </main>
     <!--Main layout-->
@@ -836,7 +395,100 @@
     </div>
     <!--./BackToTop-->
 
+    
 
+<!-- Modal -->
+<div class="modal fade" id="transfersprice" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title text-upper" id="exampleModalLabel">Transfers - Tabela de preços</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p><small>Valores calculados com partida/chegada a Beja.<br/>
+                Distâncias superiores sujeitas a ajustamento.<br/><strong>
+                Em caso de viagem de ida/volta 25% de desconto na viagem de regresso.</strong></small></p>
+                
+                <!--Table-->
+                <table class="table rounded-corners table-hover">
+
+                    <!--Table head-->
+                    <thead>
+                        <tr class="text-white">
+                            <th>Trajecto</th>
+                            <th>1-4 pax</th>
+                            <th>5-7 pax</th>
+                        </tr>
+                    </thead>
+                    <!--Table head-->
+
+                    <!--Table body-->
+                    <tbody>
+                        <tr>
+                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Lisboa Apt</th>
+                            <td>215€</td>
+                            <td>245€</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Faro Apt</th>
+                            <td>190€</td>
+                            <td>220€</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Sines</th>
+                            <td>110€</td>
+                            <td>140€</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Zambujeira</th>
+                            <td>140€</td>
+                            <td>170€</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Évora</th>
+                            <td>95€</td>
+                            <td>125€</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Albufeira</th>
+                            <td>170€</td>
+                            <td>200€</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Lagos</th>
+                            <td>200€</td>
+                            <td>230€</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Vila Real Sto. António</th>
+                            <td>170€</td>
+                            <td>200€</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Sevilha</th>
+                            <td>230€</td>
+                            <td>260€</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">* 20% adicional entre as 21 horas e as 7 horas.</th>
+                            <th colspan="2">* Valores com IVA incluido à taxa de 6%</th>
+                        </tr>
+                    </tbody>
+
+                </table>
+                <!--./Table-->
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-blue" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- ./Modal -->
 
 
 <!-- /Start your project here-->
@@ -852,12 +504,13 @@
     <script type="text/javascript" src="/js/owl.carousel.min.js"></script>
     <!-- MDB core JavaScript -->
     <script type="text/javascript" src="/js/mdb.min.js"></script>
-    <!-- Smooth-Scroll JavaScript -->
+    <!-- Smooth-Scroll JavaScript
     <script type="text/javascript" src="/js/scripts.js"></script>
-    <!-- Precos Script -->
+    <!-- Precos Script 
     <script type="text/javascript" src="/js/precos.js"></script>
-    <!-- Ajax-form Script -->
+    <!-- Ajax-form Script 
     <script type="text/javascript" src="/js/app.js"></script>
+    -->
 </body>
 
 </html>
