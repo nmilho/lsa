@@ -439,7 +439,7 @@
 
                                         <!-- Card -->
                                         <div class="col-md-4 col-sm-6">
-                                            <a href="#adventuretours" class="nav-link" data-toggle="tab" role="tab">
+                                            <a href="cultura/tourlisboa.php" class="nav-link" >
                                                 <div class="card card-image" style="background-image: url(/photos/tours/cultura/lisboa.jpg);">
 
                                                 <!-- Content -->

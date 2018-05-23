@@ -6,6 +6,8 @@
 
     $http_accept_language = $_SERVER["HTTP_ACCEPT_LANGUAGE"]; // es,nl;q=0.8,en-us;q=0.5,en;q=0.3
 
+    //var_dump($http_accept_language); 
+
     preg_match_all('~([\w-]+)(?:[^,\d]+([\d.]+))?~', strtolower($http_accept_language), $matches, PREG_SET_ORDER);
 
     $available_languages = array();
@@ -19,7 +21,7 @@
         $available_languages[][$language_code] = $priority;
     }
 
-    //var_dump($available_languages);
+    //var_dump($available_languages); 
 
     $default_priority = (float) 0;
     $default_language_code = 'en';
@@ -32,7 +34,8 @@
         if ($priority > $default_priority && array_key_exists($language_code,$supported_languages))
         {
             $default_priority = $priority;
-            $default_language_code = $language_code;
+            //$default_language_code = $language_code;
+            $default_language_code = 'pt'; //TODO: remover linha após linguagem en pronta
 
             //var_dump($default_priority); // float(0.8)
             //var_dump($default_language_code); // string(2) "nl"

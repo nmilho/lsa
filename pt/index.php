@@ -426,7 +426,7 @@
                                         <h5 class="orange-text"><i class="fa fa-bicycle"></i> Roteiros</h5>
                                         <h3 class="card-title pt-2"><strong>Aventura</strong></h3>
                                         <p>Venha aventurar-se nas actividades que lhe propomos.</p>
-                                        <a class="btn btn-orange"><i class="fa fa-clone left"></i> Ver Roteiros</a>
+                                        <a href="/tours/adventure/" class="btn btn-orange"><i class="fa fa-clone left"></i> Ver Roteiros</a>
                                     </div>
                                 </div>
                                 <!-- Content -->
@@ -449,7 +449,7 @@
                                         <h5 class="orange-text"><i class="fa fa-bus"></i> Roteiros</h5>
                                         <h3 class="card-title pt-2"><strong>Culturais</strong></h3>
                                         <p>Passeios temáticos pelo alentejo, algarve e Lisboa.</p>
-                                        <a class="btn btn-orange"><i class="fa fa-clone left"></i> Ver Roteiros</a>
+                                        <a href="/pt/tours/cultura/" class="btn btn-orange"><i class="fa fa-clone left"></i> Ver Roteiros</a>
                                     </div>
                                 </div>
                                 <!-- Content -->
@@ -471,7 +471,7 @@
                                         <h5 class="orange-text"><i class="fa fa-glass"></i> Roteiros</h5>
                                         <h3 class="card-title pt-2"><strong>Enoturismo</strong></h3>
                                         <p>Visite as melhores adegas e prove os melhores vinhos.</p>
-                                        <a class="btn btn-orange"><i class="fa fa-clone left"></i> Ver Roteiros</a>
+                                        <a href="/tours/enoturism/" class="btn btn-orange"><i class="fa fa-clone left"></i> Ver Roteiros</a>
                                     </div>
                                 </div>
                                 <!-- Content -->
