@@ -123,130 +123,25 @@
                         </div>
                     </div>
                     
-                    <p class="text-left">Um dos melhores destinos de férias em toda a Europa, conhecido pelas fantásticas praias de areia branca e águas azuis cristalinas, pelo seu clima privilegiado e campos de golfe de alta qualidade.</p>
+                    <p class="text-left">O Alentejo não é só terra!! A beleza desta costa merece contemplação desde as suas pequenas praias envolvidas por escarpas xistosas até as praias longas e semi-desertas.<br/>Terra de pescadores com os sabores do peixe fresco acabadinho de pescar. Aqui e em todos os locais da Costa Alentejana onde encontrar tasquinhas e pequenos restaurantes junto às praias.</p>
 
                     <div class="row">
                         <div class="col-md-12 mb-4">
 
                             <div class="row">
                                 <div class="col-md-12 my-4">
-                                    <h2 class="dark-grey-text text-left">Pacote Lagos</h2>
+                                    <h2 class="dark-grey-text text-left">Pacote Zambujeira/Almograve</h2>
                                 </div>
 
                                 <div class="col-md-7">
-
-                                    <p class="text-left">A sua fama advém da associação à Era das Descobertas dos séculos XIV e XV. É conhecida pela cidade velha amuralhada, pelos penhascos e pelas praias atlânticas.<br/>A marina de Lagos oferece um ambiente mais contemporâneo. Ladeada por lojas, cafés e restaurantes, é um local excelente para tomar uma bebida e relaxar.</p>
-
-                                    <h2 class="dark-grey-text text-left">Locais a Visitar</h2>
-
-                                    <ul class="text-left">
-                                        <li>Lagos</li>
-                                        <li>Lagos</li>
-                                        <li>Lagos</li>
-                                        <li>Lagos</li>
-                                        <li>Lagos</li>
-                                    </ul>
-
-                                    <h2 class="dark-grey-text text-left">O Pacote Inclui</h2>
-
-                                    <ul class="text-left">
-                                        <li>Partida de Beja as 8.00 hrs da manhã com viagem de 1.45 hrs</li>
-                                        <li>Dia livre com oferta de guias/mapas turísticos</li>
-                                        <li>Regresso a Beja 18.00 hrs.</li>
-                                        <li>Horário pode ser ajustado à medida do cliente</li>
-                                        <li>Valores calculados com partida de Beja ou arredores</li>
-                                        <li>Distâncias superiores sujeitas a ajustamento.</li>
-                                    </ul>
-
-                                </div>
-
-                                <div class="col-md-5">
-                                    <figure class="figure">
-                                        <img src="/photos/tours/cultura/algarve/lagos.jpg" class="img-fluid rounded z-depth-1">
-                                        <figcaption class="figure-caption">Largo da Sé.</figcaption>
-                                    </figure>
-
-                                    <figure class="figure">
-                                        <img src="/photos/tours/cultura/algarve/lagos-marina.jpg" class="img-fluid rounded z-depth-1">
-                                        <figcaption class="figure-caption">Marina de Lagos.</figcaption>
-                                    </figure>
-                                </div>
-
-                            </div>
-
-                            <div class="row">
-
-                                <div class="col-md-12 my-4">
-                                    <h2 class="dark-grey-text text-left">Pacote Lagos/Sagres</h2>
-                                </div>
-                                <div class="col-md-7">
-
-                                    <p class="text-left">Sagres, onde a terra acaba e o mar começa. É impossível descrever a importância deste local e as sensações incríveis que lhe pode transmitir.<br/>As praias, a pureza das águas e a imensidade das suas paisagens levam o turista a querer voltar revisitar.</p>
-
-
-                                    <h2 class="dark-grey-text text-left">Locais a Visitar</h2>
-
-                                    <ul class="text-left">
-                                        <li>Lagos</li>
-                                        <li>Lagos</li>
-                                        <li>Lagos</li>
-                                        <li>Lagos</li>
-                                        <li>Lagos</li>
-                                    </ul>
-
-                                    <h2 class="dark-grey-text text-left">O Pacote Inclui</h2>
-
-                                    <ul class="text-left">
-                                        <li>Partida de Beja as 8.00 hrs da manhã com viagem de 2.15 hrs</li>
-                                        <li>Manhã livre em Sagres  com partida para Lagos por volta das 12.30 hrs</li>
-                                        <li>Tarde livre em Lagos com regresso a Beja por volta das 18 hrs</li>
-                                        <li>Horário pode ser ajustado à medida do cliente</li>
-                                        <li>Valores calculados com partida de Beja ou arredores</li>
-                                        <li>Distâncias superiores sujeitas a ajustamento.</li>
-                                    </ul>
-
-                                </div>
-
-                                <div class="col-md-5">
-                                    <figure class="figure">
-                                        <img src="/photos/tours/cultura/algarve/lagos-praia.jpg" class="img-fluid rounded z-depth-1">
-                                        <figcaption class="figure-caption">Lagos.</figcaption>
-                                    </figure>
-
-                                    <figure class="figure">
-                                        <img src="/photos/tours/cultura/algarve/sagres.jpg" class="img-fluid rounded z-depth-1">
-                                        <figcaption class="figure-caption">Sagres.</figcaption>
-                                    </figure>
-                                </div>
-
-                            </div>
-
-                            <div class="row">
-
-                                <div class="col-md-12 my-4">
-                                    <h2 class="dark-grey-text text-left">Pacote Faro</h2>
-                                </div>
-                                <div class="col-md-7">
-
-                                    <p class="text-left">Faro é a capital do distrito do Algarve situada  perto do Parque Natural da Ria Formosa.<br/>Há muitas praias na zona de Faro, desde a Ilha de Faro com os seus bares, restaurantes, à reclusão das dunas desabitadas da ilha da Barreta, que se estendem entre o mar e uma das lagoas do estuário.</p>
-
-
-                                    <h2 class="dark-grey-text text-left">Locais a Visitar</h2>
-
-                                    <ul class="text-left">
-                                        <li>Sé Catedral</li>
-                                        <li>Museu Municipal de Faro (instalado no Convento de Nossa Senhora da Assunção)</li>
-                                        <li>Museu Marítimo Almirante Ramalho Ortigão</li>
-                                        <li>Museu Regional do Algarve</li>
-                                        <li>Igreja da Ordem Terceira de São Francisco, de São Pedro</li>
-                                    </ul>
 
                                     <h2 class="dark-grey-text text-left">O Pacote Inclui</h2>
 
                                     <ul class="text-left">
                                         <li>Partida de Beja as 8.00 hrs da manhã com viagem de 1.30 hrs</li>
-                                        <li>Manhã livre no centro de Faro com oferta de mapas/guias turísticos</li>
-                                        <li>Pelas 14.30 partida para Ilha de Faro onde pode desfrutar da praia ou de uma esplanada</li>
+                                        <li>Manhã passada na Praia da Zambujeira</li>
+                                        <li>Almoço numa tasquinha perto da praia por volta das 13 hrs.</li>
+                                        <li>Tarde partida por volta das 14.30 com paragem na praia do  Almograve.</li>
                                         <li>Regresso a Beja 18 hrs</li>
                                         <li>Horário pode ser ajustado à medida do cliente</li>
                                         <li>Valores calculados com partida de Beja ou arredores</li>
@@ -257,40 +152,28 @@
 
                                 <div class="col-md-5">
                                     <figure class="figure">
-                                        <img src="/photos/tours/cultura/algarve/faro-marina.jpg" class="img-fluid rounded z-depth-1">
-                                        <figcaption class="figure-caption">Faro</figcaption>
-                                    </figure>
-
-                                    <figure class="figure">
-                                        <img src="/photos/tours/cultura/algarve/ilhafaro.jpg" class="img-fluid rounded z-depth-1">
-                                        <figcaption class="figure-caption">Ilha de Faro</figcaption>
+                                        <img src="/photos/tours/cultura/costaalentejana/zambujeirapraia1.jpg" class="img-fluid rounded z-depth-1">
+                                        <figcaption class="figure-caption">Zambujeira do Mar</figcaption>
                                     </figure>
                                 </div>
 
                             </div>
 
-                        </div>
-
-                        <div class="row">
+                            <div class="row">
 
                                 <div class="col-md-12 my-4">
-                                    <h2 class="dark-grey-text text-left">Pacote Albufeira</h2>
+                                    <h2 class="dark-grey-text text-left">Pacote Vila Nova de Milfontes/Porto Covo</h2>
                                 </div>
                                 <div class="col-md-7">
-
-                                    <p class="text-left">Com as muitas tonalidades das rochas e falésias. Aqui, a vida tem o ritmo das metrópoles turísticas.</p>
-
-
-                                    <h2 class="dark-grey-text text-left">Locais a Visitar</h2>
-
-                                    <p class="text-left">Há praias para todos os gostos e são todas irresistíveis, desde longos areais a perder de vista a enseadas rochosas, quase intimistas. Verdadeiros cartões de visita.</p>
 
                                     <h2 class="dark-grey-text text-left">O Pacote Inclui</h2>
 
                                     <ul class="text-left">
-                                        <li>Partida de Beja as 8.00 hrs da manhã com viagem de 1.30 hrs</li>
-                                        <li>Dia livre em Albufeira com a possibilidade de conhecer as praias das redondezas.</li>
-                                        <li>Temos ainda a possibilidade de criar um pacote dia com visita ao Zoomarine (sujeito a orçamento)</li>
+                                        <li>Partida de Beja as 8.00 hrs da manhã com viagem de 1.20 hrs</li>
+                                        <li>Manhã passada na aldeia e praia de Porto Covo</li>
+                                        <li>Almoço num restaurante local por volta das 13 hrs</li>
+                                        <li>Tarde partida por volta das 14.30</li>
+                                        <li>Passeio livre pela Vila de Milfontes ou disfrute da praia junto ao rio Mira</li>
                                         <li>Regresso a Beja 18 hrs</li>
                                         <li>Horário pode ser ajustado à medida do cliente</li>
                                         <li>Valores calculados com partida de Beja ou arredores</li>
@@ -301,19 +184,18 @@
 
                                 <div class="col-md-5">
                                     <figure class="figure">
-                                        <img src="/photos/tours/cultura/algarve/albufeira.jpg" class="img-fluid rounded z-depth-1">
-                                        <figcaption class="figure-caption">Albufeira</figcaption>
-                                    </figure>
-
-                                    <figure class="figure">
-                                        <img src="/photos/tours/cultura/algarve/albufeira2.jpg" class="img-fluid rounded z-depth-1">
-                                        <figcaption class="figure-caption">Praia dos Pescadores</figcaption>
+                                        <img src="/photos/tours/cultura/costaalentejana/milfontesfarol.jpg" class="img-fluid rounded z-depth-1">
+                                        <figcaption class="figure-caption">Vila Nova de Milfontes</figcaption>
                                     </figure>
                                 </div>
 
                             </div>
 
+
                         </div>
+
+
+                        <div class="col-md-12 my-4">
 
 
                             <h2 class="dark-grey-text text-left">Pacotes Disponíveis</h2>
@@ -325,9 +207,9 @@
                                         <!-- Card content -->
                                         <div class="card-body text-center">
                                             <!-- Category & Title -->
-                                            <h5><p class="dark-grey-text">Pacote Lagos</p></h5>
-                                            <p class="dark-grey-text">Mini. 3pax - Max 7pax</p>
-                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 75€</a>
+                                            <h5><p class="dark-grey-text">Pacote Zambujeira/Almograve</p></h5>
+                                            <p class="dark-grey-text">Viagem com Almoço<br/>Mini. 3pax - Max 7pax</p>
+                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 65€</a>
                                         </div>
                                         <!-- ./Card content -->
                                     </div>
@@ -339,9 +221,9 @@
                                         <!-- Card content -->
                                         <div class="card-body text-center">
                                             <!-- Category & Title -->
-                                            <h5><p class="dark-grey-text">Pacote Lagos/Sagres</p></h5>
-                                            <p class="dark-grey-text">Mini. 3pax - Max 7pax</p>
-                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 85€</a>
+                                            <h5><p class="dark-grey-text">Pacote Zambujeira/Almograve</p></h5>
+                                            <p class="dark-grey-text">Viagem sem Almoço<br/>Mini. 3pax - Max 7pax</p>
+                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 55€</a>
                                         </div>
                                         <!-- ./Card content -->
                                     </div>
@@ -353,9 +235,9 @@
                                         <!-- Card content -->
                                         <div class="card-body text-center">
                                             <!-- Category & Title -->
-                                            <h5><p class="dark-grey-text">Pacote Faro</p></h5>
-                                            <p class="dark-grey-text">Mini. 3pax - Max 7pax</p>
-                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 75€</a>
+                                            <h5><p class="dark-grey-text">Pacote Milfontes/Porto Covo</p></h5>
+                                            <p class="dark-grey-text">Viagem com Almoço<br/>Mini. 3pax - Max 7pax</p>
+                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 60€</a>
                                         </div>
                                         <!-- ./Card content -->
                                     </div>
@@ -367,9 +249,9 @@
                                         <!-- Card content -->
                                         <div class="card-body text-center">
                                             <!-- Category & Title -->
-                                            <h5><p class="dark-grey-text">Pacote Albufeira</p></h5>
-                                            <p class="dark-grey-text">Mini. 3pax - Max 7pax</p>
-                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 70€</a>
+                                            <h5><p class="dark-grey-text">Pacote Milfontes/Porto Covo</p></h5>
+                                            <p class="dark-grey-text">Viagem sem Almoço<br/>Mini. 3pax - Max 7pax</p>
+                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 50€</a>
                                         </div>
                                         <!-- ./Card content -->
                                     </div>
