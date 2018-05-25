@@ -192,8 +192,8 @@
 
                                 <!-- Card -->
                                 <div class="col-md-4 col-sm-6">
-                                    <a href="#adventuretours" class="nav-link">
-                                        <div class="card card-image" style="background-image: url(/photos/tours/cultura/costalentejana.jpg);">
+                                    <a href="tourcostaalentejana.php" class="nav-link">
+                                        <div class="card card-image" style="background-image: url(/photos/tours/cultura/costaalentejana.jpg);">
 
                                         <!-- Content -->
                                         
