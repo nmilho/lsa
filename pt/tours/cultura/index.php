@@ -192,7 +192,7 @@
 
                                 <!-- Card -->
                                 <div class="col-md-4 col-sm-6">
-                                    <a href="#adventuretours" class="nav-link" data-toggle="tab" role="tab">
+                                    <a href="#adventuretours" class="nav-link">
                                         <div class="card card-image" style="background-image: url(/photos/tours/cultura/costalentejana.jpg);">
 
                                         <!-- Content -->
@@ -234,7 +234,7 @@
 
                                 <!-- Card -->
                                 <div class="col-md-4 col-sm-6">
-                                    <a href="#adventuretours" class="nav-link" data-toggle="tab" role="tab">
+                                    <a href="#adventuretours" class="nav-link">
                                         <div class="card card-image" style="background-image: url(/photos/tours/cultura/serpamertola.jpg);">
 
                                         <!-- Content -->
@@ -254,7 +254,7 @@
 
                                 <!-- Card -->
                                 <div class="col-md-4 col-sm-6">
-                                    <a href="#adventuretours" class="nav-link" data-toggle="tab" role="tab">
+                                    <a href="touralgarve.php" class="nav-link">
                                         <div class="card card-image" style="background-image: url(/photos/tours/cultura/algarve.jpg);">
 
                                         <!-- Content -->
