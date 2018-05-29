@@ -5,9 +5,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Land&Sea Alentejo | Roteiros: Culturais</title>
+    <title>Land&Sea Alentejo | Roteiros: Aventura</title>
 
-    <meta name="description" content="Passeios por Alentejo, Algarve e Lisboa.">
+    <meta name="description" content="Queda livre, surf, paddle, btt, karting e passeios vintage.">
 
     <link rel="canonical" href="http://www.landseaalentejo.com/">
 
@@ -18,10 +18,10 @@
 
     <meta property="og:locale" content="pt_PT">
     <meta property="og:site_name" content="Land and Sea Alentejo">
-    <meta property="og:title" content="Land&Sea Alentejo | Roteiros: Culturais">
+    <meta property="og:title" content="Land&Sea Alentejo | Roteiros: Aventura">
     <meta property="og:url" content="http://www.landseaalentejo.com/">
     <meta property="og:type" content="website">
-    <meta property="og:description" content="Passeios por Alentejo, Algarve e Lisboa.">
+    <meta property="og:description" content="Queda livre, surf, paddle, btt, karting e passeios vintage.">
 
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -117,13 +117,13 @@
                             <div class="col-md-12">
 
                                 <!-- Heading -->
-                                <h2 class="display-3 font-weight-bold white-text mb-2">Roteiros Culturais</h2>
+                                <h2 class="display-3 font-weight-bold white-text mb-2">Roteiros Aventura</h2>
 
                                 <!-- Divider -->
                                 <hr class="hr-light">
 
                                 <!-- Description -->
-                                <h4 class="white-text my-4">Disfrute dos melhores passeios pelo Alentejo, Algarve e Lisboa.</h4>
+                                <h4 class="white-text my-4">O Alentejo desafia-o numa aventura por terra, ar ou água.</h4>
                                 <button type="button" class="btn btn-outline-white">Saiba mais</button>
 
                             </div>
@@ -160,8 +160,8 @@
                     <div class="row">
                         <!--Column-->
                         <div class="col-md-12 mb-5">
-                            <h2 class="title dark-grey-text">Roteiros Culturais</h2>
-                            <h4 class="dark-grey-text">Passeios temáticos pelo alentejo, algarve e Lisboa.</h4>
+                            <h2 class="title dark-grey-text">Roteiros Aventura</h2>
+                            <h4 class="dark-grey-text">Aventurare-se nas actividades que lhe propomos!</h4>
                         </div>
                         <!--/.Column-->
 
@@ -171,15 +171,15 @@
                             <div class="row">
                                 <!-- Card -->
                                 <div class="col-md-4 col-sm-6">
-                                    <a href="tourbeja.php" class="nav-link">
-                                        <div class="card card-image" style="background-image: url(/photos/tours/cultura/beja.jpg);">
+                                    <a href="tourbtt.php" class="nav-link">
+                                        <div class="card card-image" style="background-image: url(/photos/tours/aventura/btt.jpg); background-size: 350px; background-position: 0px;">
 
                                         <!-- Content -->
                                         
                                             <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
                                                 <div class="w-100">
-                                                    <h3 class="orange-text card-title pt-2"><strong>Beja</strong></h3>
-                                                    <h5 class="">Um passeio pela cidade de Beja.</h5>
+                                                    <h3 class="orange-text card-title pt-2"><strong>BTT</strong></h3>
+                                                    <h5 class="">Aventure-se num passeio de BTT.</h5>
                                                 </div>
                                             </div>
                                         
@@ -192,15 +192,15 @@
 
                                 <!-- Card -->
                                 <div class="col-md-4 col-sm-6">
-                                    <a href="tourcostaalentejana.php" class="nav-link">
-                                        <div class="card card-image" style="background-image: url(/photos/tours/cultura/costaalentejana.jpg);">
+                                    <a href="tourkart.php" class="nav-link">
+                                        <div class="card card-image" style="background-image: url(/photos/tours/aventura/kart.jpg); background-size: 350px; background-position: 0px;">
 
                                         <!-- Content -->
                                         
                                             <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
                                                 <div class="w-100">
-                                                    <h3 class="orange-text card-title pt-2"><strong>Costa Alentejana</strong></h3>
-                                                    <h5 class="">Um passeio pela costa Alentejana.</h5>
+                                                    <h3 class="orange-text card-title pt-2"><strong>Kart</strong></h3>
+                                                    <h5 class="">Venha fazer uma corrida de kart.</h5>
                                                 </div>
                                             </div>
                                         
@@ -213,15 +213,15 @@
 
                                 <!-- Card -->
                                 <div class="col-md-4 col-sm-6">
-                                    <a href="tourevora.php" class="nav-link">
-                                        <div class="card card-image" style="background-image: url(/photos/tours/cultura/evora.jpg);">
+                                    <a href="tourskydive.php" class="nav-link">
+                                        <div class="card card-image" style="background-image: url(/photos/tours/aventura/skydive.jpg); background-size: 320px; background-position: 0px;">
 
                                         <!-- Content -->
                                         
                                             <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
                                                 <div class="w-100">
-                                                    <h3 class="orange-text card-title pt-2"><strong>Évora</strong></h3>
-                                                    <h5 class="">Um passeio pela cidade de Évora.</h5>
+                                                    <h3 class="orange-text card-title pt-2"><strong>Queda Livre</strong></h3>
+                                                    <h5 class="">Aventure-se num salto inesquecível!</h5>
                                                 </div>
                                             </div>
                                         
@@ -234,35 +234,15 @@
 
                                 <!-- Card -->
                                 <div class="col-md-4 col-sm-6">
-                                    <a href="#adventuretours" class="nav-link">
-                                        <div class="card card-image" style="background-image: url(/photos/tours/cultura/serpamertola.jpg);">
+                                    <a href="toursurf.php" class="nav-link">
+                                        <div class="card card-image" style="background-image: url(/photos/tours/aventura/surf.jpg); background-size: 380px; background-position: 0px;">
 
                                         <!-- Content -->
                                         
                                             <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
                                                 <div class="w-100">
-                                                    <h3 class="orange-text card-title pt-2"><strong>Serpa e Mértola</strong></h3>
-                                                    <h5 class="">Passeie por duas das mais lindas vilas do Alentejo.</h5>                                                       </div>
-                                            </div>
-                                        
-                                        <!-- Content -->
-                                        
-                                        </div>
-                                    </a>
-                                </div>
-                                <!-- Card -->
-
-                                <!-- Card -->
-                                <div class="col-md-4 col-sm-6">
-                                    <a href="touralgarve.php" class="nav-link">
-                                        <div class="card card-image" style="background-image: url(/photos/tours/cultura/algarve.jpg);">
-
-                                        <!-- Content -->
-                                        
-                                            <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
-                                                <div class="w-100">
-                                                    <h3 class="orange-text card-title pt-2"><strong>Algarve</strong></h3>
-                                                    <h5 class="">Venha passear e descobrir o Algarve.</h5>
+                                                    <h3 class="orange-text card-title pt-2"><strong>Surf</strong></h3>
+                                                    <h5 class="">Venha apanhar umas ondas na costa alentejana.</h5>
                                                 </div>
                                             </div>
                                         
@@ -275,29 +255,8 @@
 
                                 <!-- Card -->
                                 <div class="col-md-4 col-sm-6">
-                                    <a href="tourlisboa.php" class="nav-link">
-                                        <div class="card card-image" style="background-image: url(/photos/tours/cultura/lisboa.jpg);">
-
-                                        <!-- Content -->
-                                        
-                                            <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
-                                                <div class="w-100">
-                                                    <h3 class="orange-text card-title pt-2"><strong>Lisboa</strong></h3>
-                                                    <h5 class="">Venha passear pela capital do país e da cultura.</h5>
-                                                </div>
-                                            </div>
-                                        
-                                        <!-- Content -->
-                                        
-                                        </div>
-                                    </a>
-                                </div>
-                                <!-- Card -->
-
-                                <!-- Card -->
-                                <div class="col-md-4 col-sm-6">
-                                    <a href="#adventuretours" class="nav-link" data-toggle="tab" role="tab">
-                                        <div class="card card-image" style="background-image: url(/photos/tours/cultura/alqueva.jpg);">
+                                    <a href="touralqueva.php" class="nav-link">
+                                        <div class="card card-image" style="background-image: url(/photos/tours/aventura/alqueva.jpg); background-size: 350px; background-position: 0px;">
 
                                         <!-- Content -->
                                         
@@ -314,6 +273,28 @@
                                     </a>
                                 </div>
                                 <!-- Card -->
+
+                                <!-- Card -->
+                                <div class="col-md-4 col-sm-6">
+                                    <a href="tourvintage.php" class="nav-link">
+                                        <div class="card card-image" style="background-image: url(/photos/tours/aventura/vintage.jpg); background-size: 320px; background-position: 0px -15px;">
+
+                                        <!-- Content -->
+                                        
+                                            <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
+                                                <div class="w-100">
+                                                    <h3 class="orange-text card-title pt-2"><strong>Vintage</strong></h3>
+                                                    <h5 class="">Venha passear numa carrinha vintage.</h5>
+                                                </div>
+                                            </div>
+                                        
+                                        <!-- Content -->
+                                        
+                                        </div>
+                                    </a>
+                                </div>
+                                <!-- Card -->
+
                             </div>
 
 
