@@ -5,9 +5,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Land&Sea Alentejo | Roteiros: Tour e passeio pela Costa Alentejana</title>
+    <title>Land&Sea Alentejo | Roteiros: Tour aventura de karting</title>
 
-    <meta name="description" content="Tour e passeio cultural pela Costa Alentejana - Almograve, Porto Covo, Vila Nova de Milfontes, Zambujeira do Mar">
+    <meta name="description" content="Passeio ao kartodromo de Évora para que disfrute da velociadade e adrenalina numa corrida entre amogos.">
 
     <link rel="canonical" href="http://www.landseaalentejo.com/">
 
@@ -18,10 +18,10 @@
 
     <meta property="og:locale" content="pt_PT">
     <meta property="og:site_name" content="Land and Sea Alentejo">
-    <meta property="og:title" content="Land&Sea Alentejo | Roteiros: Tour e passeio pela Costa Alentejana">
+    <meta property="og:title" content="Land&Sea Alentejo | Roteiros: Tour aventura de karting">
     <meta property="og:url" content="http://www.landseaalentejo.com/">
     <meta property="og:type" content="website">
-    <meta property="og:description" content="Tour e passeio cultural pela Costa Alentejana - Almograve, Porto Covo, Vila Nova de Milfontes, Zambujeira do Mar">
+    <meta property="og:description" content="Passeio ao kartodromo de Évora para que disfrute da velociadade e adrenalina numa corrida entre amogos.">
 
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -113,9 +113,9 @@
                     <div class="row">
                         <div class="col-md-12 mb-4">
                             <!-- Heading -->
-                            <h2 class="title dark-grey-text">Tour Costa Alentejana</h2>
+                            <h2 class="title dark-grey-text">Tour Karting</h2>
 
-                            <div class="card card-image" style="background: url(/photos/tours/cultura/costaalentejana/zambujeirapraia3.jpg) -130px -160px; height: 300px;">
+                            <div class="card card-image" style="background: url(/photos/tours/aventura/kart/pole.jpg) -130px -315px; height: 300px;">
                                 <div class="text-white text-center d-flex align-items-center rgba-black-light py-5 px-4 rounded" style="height: 300px;">
                                     
                                 </div>
@@ -123,69 +123,46 @@
                         </div>
                     </div>
                     
-                    <p class="text-left">O Alentejo não é só terra!! A beleza desta costa merece contemplação desde as suas pequenas praias envolvidas por escarpas xistosas até as praias longas e semi-desertas.<br/>Terra de pescadores com os sabores do peixe fresco acabadinho de pescar. Aqui e em todos os locais da Costa Alentejana onde encontrar tasquinhas e pequenos restaurantes junto às praias.</p>
+                    <p class="text-left">Convida os teus amigos e desfrutem de um dia de diversão e adrenalina!!!</p>
 
                     <div class="row">
                         <div class="col-md-12 mb-4">
 
                             <div class="row">
                                 <div class="col-md-12 my-4">
-                                    <h2 class="dark-grey-text text-left">Pacote Zambujeira/Almograve</h2>
+                                    <h2 class="dark-grey-text text-left">Pacote Karting em Évora</h2>
                                 </div>
 
                                 <div class="col-md-7">
 
-                                    <h2 class="dark-grey-text text-left">O Pacote Inclui</h2>
+                                    <p class="text-left">
+                                        Situado à entrada da cidade  Património Mundial, sentido de Lisboa, o kartódromo de Évora foi inaugurado em Novembro de 1987. Ao ser uma das primeiras infra-estruturas de karting em Portugal, contribuiu para o desenvolvimento da modalidade no nosso país. Desde a primeira hora, pretendeu levar a vertente de lazer à modalidade, iniciando o aluguer individual de karts. Mais tarde foi pioneiro na realização de provas para grupos.
+                                    </p>
 
+                                    <p class="text-left">
+                                        Hoje tem uma pista que conjuga o traçado técnico com a velocidade, com um perímetro de 908 metros e sete de largura constante, oferece uma frota de aluguer de mais de 70 karts, bancada panorâmica, oficina, balneários, bar e recepção.
+                                    </p>
+
+
+                                    <h2 class="dark-grey-text text-left">Aluguer individual de kart</h2>
+                                    <h5 class="light-grey-text text-left">Preço por pessoa (valores a pagar directamente no kartódromo)</h5>
                                     <ul class="text-left">
-                                        <li>Partida de Beja as 8.00 hrs da manhã com viagem de 1.30 hrs</li>
-                                        <li>Manhã passada na Praia da Zambujeira</li>
-                                        <li>Almoço numa tasquinha perto da praia por volta das 13 hrs.</li>
-                                        <li>Tarde partida por volta das 14.30 com paragem na praia do  Almograve.</li>
-                                        <li>Regresso a Beja 18 hrs</li>
-                                        <li>Horário pode ser ajustado à medida do cliente</li>
-                                        <li>Valores calculados com partida de Beja ou arredores</li>
-                                        <li>Distâncias superiores sujeitas a ajustamento.</li>
+                                        <li>15min - 15€</li>
+                                        <li>30min - 30€</li>
+                                        <li>45min - 35€</li>
                                     </ul>
 
                                 </div>
 
                                 <div class="col-md-5">
                                     <figure class="figure">
-                                        <img src="/photos/tours/cultura/costaalentejana/zambujeirapraia1.jpg" class="img-fluid rounded z-depth-1">
-                                        <figcaption class="figure-caption">Zambujeira do Mar</figcaption>
+                                        <img src="/photos/tours/aventura/kart/pista.jpg" class="img-fluid rounded z-depth-1">
+                                        <figcaption class="figure-caption">Pista de karts em Évora</figcaption>
                                     </figure>
-                                </div>
 
-                            </div>
-
-                            <div class="row">
-
-                                <div class="col-md-12 my-4">
-                                    <h2 class="dark-grey-text text-left">Pacote Vila Nova de Milfontes/Porto Covo</h2>
-                                </div>
-                                <div class="col-md-7">
-
-                                    <h2 class="dark-grey-text text-left">O Pacote Inclui</h2>
-
-                                    <ul class="text-left">
-                                        <li>Partida de Beja as 8.00 hrs da manhã com viagem de 1.20 hrs</li>
-                                        <li>Manhã passada na aldeia e praia de Porto Covo</li>
-                                        <li>Almoço num restaurante local por volta das 13 hrs</li>
-                                        <li>Tarde partida por volta das 14.30</li>
-                                        <li>Passeio livre pela Vila de Milfontes ou disfrute da praia junto ao rio Mira</li>
-                                        <li>Regresso a Beja 18 hrs</li>
-                                        <li>Horário pode ser ajustado à medida do cliente</li>
-                                        <li>Valores calculados com partida de Beja ou arredores</li>
-                                        <li>Distâncias superiores sujeitas a ajustamento.</li>
-                                    </ul>
-
-                                </div>
-
-                                <div class="col-md-5">
                                     <figure class="figure">
-                                        <img src="/photos/tours/cultura/costaalentejana/milfontesfarol.jpg" class="img-fluid rounded z-depth-1">
-                                        <figcaption class="figure-caption">Vila Nova de Milfontes</figcaption>
+                                        <img src="/photos/tours/aventura/kart/curva.jpg" class="img-fluid rounded z-depth-1">
+                                        <figcaption class="figure-caption">Corrida de karts em Évora</figcaption>
                                     </figure>
                                 </div>
 
@@ -198,7 +175,7 @@
                         <div class="col-md-12 my-4">
 
 
-                            <h2 class="dark-grey-text text-left">Pacotes Disponíveis</h2>
+                            <h2 class="dark-grey-text text-left">Valores da viagem</h2>
                             <div class="row">
 
                                 <div class="col-md-3 col-sm-6 col-xs-12 my-3">
@@ -207,9 +184,8 @@
                                         <!-- Card content -->
                                         <div class="card-body text-center">
                                             <!-- Category & Title -->
-                                            <h5><p class="dark-grey-text">Pacote Zambujeira/Almograve</p></h5>
-                                            <p class="dark-grey-text">Viagem com Almoço<br/>Mini. 3pax - Max 7pax</p>
-                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 65€</a>
+                                            <h5><p class="dark-grey-text">De 1 a 3 pax</p></h5>
+                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 30€</a>
                                         </div>
                                         <!-- ./Card content -->
                                     </div>
@@ -221,45 +197,17 @@
                                         <!-- Card content -->
                                         <div class="card-body text-center">
                                             <!-- Category & Title -->
-                                            <h5><p class="dark-grey-text">Pacote Zambujeira/Almograve</p></h5>
-                                            <p class="dark-grey-text">Viagem sem Almoço<br/>Mini. 3pax - Max 7pax</p>
-                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 55€</a>
-                                        </div>
-                                        <!-- ./Card content -->
-                                    </div>
-                                    <!-- ./Card -->
-                                </div>
-                                <div class="col-md-3 col-sm-6 col-xs-12 my-3">
-                                    <!-- Card -->
-                                    <div class="card align-items-center">
-                                        <!-- Card content -->
-                                        <div class="card-body text-center">
-                                            <!-- Category & Title -->
-                                            <h5><p class="dark-grey-text">Pacote Milfontes/Porto Covo</p></h5>
-                                            <p class="dark-grey-text">Viagem com Almoço<br/>Mini. 3pax - Max 7pax</p>
-                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 60€</a>
-                                        </div>
-                                        <!-- ./Card content -->
-                                    </div>
-                                    <!-- ./Card -->
-                                </div>
-                                <div class="col-md-3 col-sm-6 col-xs-12 my-3">
-                                    <!-- Card -->
-                                    <div class="card align-items-center">
-                                        <!-- Card content -->
-                                        <div class="card-body text-center">
-                                            <!-- Category & Title -->
-                                            <h5><p class="dark-grey-text">Pacote Milfontes/Porto Covo</p></h5>
-                                            <p class="dark-grey-text">Viagem sem Almoço<br/>Mini. 3pax - Max 7pax</p>
-                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 50€</a>
+                                            <h5><p class="dark-grey-text">De 4 a 7 pax</p></h5>
+                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 25€</a>
                                         </div>
                                         <!-- ./Card content -->
                                     </div>
                                     <!-- ./Card -->
                                 </div>
 
+
                                 <div class="col-md-12">
-                                    <p class="text-left">Podemos fazer um pacote à sua medida!!!<br/>Mais informação através do email info@landseaalentejo.com ou telm 965 589 291</p>
+                                    <p class="text-left">Valores calculados com partida de Beja.<br/>Distâncias superiores sujeitas a ajustamento<br/>Mais informação através do email info@landseaalentejo.com ou telm 965 589 291</p>
                                 </div>
 
                             </div>
