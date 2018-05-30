@@ -46,6 +46,9 @@ header,
     -o-background-size: cover;
     background-size: cover;
 }
+#intro.adv {
+    background: url("/photos/tours/aventura/surf/costazul.jpg")no-repeat center center fixed;
+}
 /*./ Necessary for full page intro*/
 
 

@@ -493,14 +493,14 @@
                                     <div class="row">
                                         <!-- Card -->
                                         <div class="col-md-4 col-sm-6">
-                                            <a href="#adventuretours" class="nav-link" data-toggle="tab" role="tab">
-                                                <div class="card card-image" style="background-image: url(/photos/tours/enoturismo/mingorra.jpg);">
+                                            <a href="enoturismo/enofigueirinha.php" class="nav-link">
+                                                <div class="card card-image" style="background-image: url(/photos/tours/enoturismo/figueirinha.jpg);">
 
                                                 <!-- Content -->
                                                 
                                                     <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
                                                         <div class="w-100">
-                                                            <h3 class="orange-text card-title pt-2"><strong>Mingorra</strong></h3>
+                                                            <h3 class="orange-text card-title pt-2"><strong>Figueirinha</strong></h3>
                                                             <h5 class="">Lorem ipsum.</h5>
                                                         </div>
                                                     </div>
@@ -514,14 +514,14 @@
 
                                         <!-- Card -->
                                         <div class="col-md-4 col-sm-6">
-                                            <a href="#adventuretours" class="nav-link" data-toggle="tab" role="tab">
-                                                <div class="card card-image" style="background-image: url(/photos/tours/enoturismo/figueirinha.jpg);">
+                                            <a href="enoturismo/enorocim.php" class="nav-link">
+                                                <div class="card card-image" style="background-image: url(/photos/tours/enoturismo/rocim.jpg);">
 
                                                 <!-- Content -->
                                                 
                                                     <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
                                                         <div class="w-100">
-                                                            <h3 class="orange-text card-title pt-2"><strong>Figueirinha</strong></h3>
+                                                            <h3 class="orange-text card-title pt-2"><strong>Rocim</strong></h3>
                                                             <h5 class="">Lorem ipsum...</h5>
                                                         </div>
                                                     </div>
@@ -535,7 +535,7 @@
 
                                         <!-- Card -->
                                         <div class="col-md-4 col-sm-6">
-                                            <a href="#adventuretours" class="nav-link" data-toggle="tab" role="tab">
+                                            <a href="enoturismo/enoquetzal.php" class="nav-link">
                                                 <div class="card card-image" style="background-image: url(/photos/tours/enoturismo/quetzal.jpg);">
 
                                                 <!-- Content -->
@@ -556,7 +556,70 @@
 
                                         <!-- Card -->
                                         <div class="col-md-4 col-sm-6">
-                                            <a href="#adventuretours" class="nav-link" data-toggle="tab" role="tab">
+                                            <a href="enoturismo/enoribafreixo.php" class="nav-link">
+                                                <div class="card card-image" style="background-image: url(/photos/tours/enoturismo/ribafreixo.jpg);">
+
+                                                <!-- Content -->
+                                                
+                                                    <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
+                                                        <div class="w-100">
+                                                            <h3 class="orange-text card-title pt-2"><strong>Ribafreixo</strong></h3>
+                                                            <h5 class="">Lorem ipsum...</h5>
+                                                        </div>
+                                                    </div>
+                                                
+                                                <!-- Content -->
+                                                
+                                                </div>
+                                            </a>
+                                        </div>
+                                        <!-- Card -->
+
+                                        <!-- Card -->
+                                        <div class="col-md-4 col-sm-6">
+                                            <a href="enoturismo/enovidigueira.php" class="nav-link">
+                                                <div class="card card-image" style="background-image: url(/photos/tours/enoturismo/vidigueira.jpg);">
+
+                                                <!-- Content -->
+                                                
+                                                    <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
+                                                        <div class="w-100">
+                                                            <h3 class="orange-text card-title pt-2"><strong>Vidigueira</strong></h3>
+                                                            <h5 class="">Lorem ipsum...</h5>
+                                                        </div>
+                                                    </div>
+                                                
+                                                <!-- Content -->
+                                                
+                                                </div>
+                                            </a>
+                                        </div>
+                                        <!-- Card -->
+
+                                        <!-- Card -->
+                                        <div class="col-md-4 col-sm-6">
+                                            <a href="enoturismo/enomingorra.php" class="nav-link">
+                                                <div class="card card-image" style="background-image: url(/photos/tours/enoturismo/mingorra.jpg);">
+
+                                                <!-- Content -->
+                                                
+                                                    <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
+                                                        <div class="w-100">
+                                                            <h3 class="orange-text card-title pt-2"><strong>Mingorra</strong></h3>
+                                                            <h5 class="">Lorem ipsum...</h5>
+                                                        </div>
+                                                    </div>
+                                                
+                                                <!-- Content -->
+                                                
+                                                </div>
+                                            </a>
+                                        </div>
+                                        <!-- Card -->
+
+                                        <!-- Card -->
+                                        <div class="col-md-4 col-sm-6">
+                                            <a href="enoturismo/enomalhadinha.php" class="nav-link">
                                                 <div class="card card-image" style="background-image: url(/photos/tours/enoturismo/malhadinha.jpg);">
 
                                                 <!-- Content -->
@@ -574,6 +637,49 @@
                                             </a>
                                         </div>
                                         <!-- Card -->
+
+                                        <!-- Card -->
+                                        <div class="col-md-4 col-sm-6">
+                                            <a href="enoturismo/enogrous.php" class="nav-link">
+                                                <div class="card card-image" style="background-image: url(/photos/tours/enoturismo/grous.jpg);">
+
+                                                <!-- Content -->
+                                                
+                                                    <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
+                                                        <div class="w-100">
+                                                            <h3 class="orange-text card-title pt-2"><strong>Grous</strong></h3>
+                                                            <h5 class="">Lorem ipsum...</h5>
+                                                        </div>
+                                                    </div>
+                                                
+                                                <!-- Content -->
+                                                
+                                                </div>
+                                            </a>
+                                        </div>
+                                        <!-- Card -->
+
+                                        <!-- Card -->
+                                        <div class="col-md-4 col-sm-6">
+                                            <a href="enoturismo/enosvitoria.php" class="nav-link">
+                                                <div class="card card-image" style="background-image: url(/photos/tours/enoturismo/santavitoria.jpg);">
+
+                                                <!-- Content -->
+                                                
+                                                    <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
+                                                        <div class="w-100">
+                                                            <h3 class="orange-text card-title pt-2"><strong>Santa Vitória</strong></h3>
+                                                            <h5 class="">Lorem ipsum...</h5>
+                                                        </div>
+                                                    </div>
+                                                
+                                                <!-- Content -->
+                                                
+                                                </div>
+                                            </a>
+                                        </div>
+                                        <!-- Card -->
+
                                     </div>
 
                                 </div>

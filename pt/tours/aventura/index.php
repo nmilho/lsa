@@ -104,7 +104,7 @@
         
 
         <!--Mask-->
-        <div id="intro" class="view" >
+        <div id="intro" class="view adv" >
 
             <div class="full-bg-img">
 
