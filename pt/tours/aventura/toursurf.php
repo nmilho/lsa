@@ -5,9 +5,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Land&Sea Alentejo | Roteiros: Tour e passeio por Lisboa</title>
+    <title>Land&Sea Alentejo | Roteiros: Tour e passeio com aula de surf</title>
 
-    <meta name="description" content="Tour e passeio cultural por Lisboa">
+    <meta name="description" content="Tour e passeio com aula de surf na costa alentejana">
 
     <link rel="canonical" href="http://www.landseaalentejo.com/">
 
@@ -18,10 +18,10 @@
 
     <meta property="og:locale" content="pt_PT">
     <meta property="og:site_name" content="Land and Sea Alentejo">
-    <meta property="og:title" content="Land&Sea Alentejo | Roteiros: Tour e passeio por Lisboa">
+    <meta property="og:title" content="Land&Sea Alentejo | Roteiros: Tour e passeio com aula de surf">
     <meta property="og:url" content="http://www.landseaalentejo.com/">
     <meta property="og:type" content="website">
-    <meta property="og:description" content="Tour e passeio cultural por Lisboa">
+    <meta property="og:description" content="Tour e passeio com aula de surf na costa alentejana">
 
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -113,9 +113,9 @@
                     <div class="row">
                         <div class="col-md-12 mb-4">
                             <!-- Heading -->
-                            <h2 class="title dark-grey-text">Tour Lisboa</h2>
+                            <h2 class="title dark-grey-text">Tour Surf</h2>
 
-                            <div class="card card-image" style="background: url(/photos/tours/cultura/lisboa/lisboa.jpg) -0 -30px; height: 300px;">
+                            <div class="card card-image" style="background: url(/photos/tours/aventura/surf/surf2.png) -0 -80px; background-size: 1110px; height: 300px;">
                                 <div class="text-white text-center d-flex align-items-center rgba-black-light py-5 px-4 rounded" style="height: 300px;">
                                     
                                 </div>
@@ -123,71 +123,100 @@
                         </div>
                     </div>
                     
-                    <p class="text-left">Todo o tempo do mundo não chegará para desfrutar de tudo o que há para ver e fazer.<br/>Faça a sua escolha e deixe-se conquistar por Lisboa. As zonas mais visitadas e conhecidas da cidade estão aqui.</p>
+                    <p class="text-left">Vem ter a tua melhor experiência de Surf!!<br/>O surf não  tem idade, não tem limite e é por isso que queremos que todos sintam a experiência  de deslizar sobre as ondas!!<br/></p>
 
                     <div class="row">
                         <div class="col-md-12 mb-4">
 
-                            <h2 class="dark-grey-text text-left">Locais a Visitar</h2>
+                            <h2 class="dark-grey-text text-left">Pacote aula</h2>
 
                             <div class="row">
 
                                 <div class="col-md-7">
+                                    <p class="text-left">Partida de Beja com hora a combinar, depende  das condições do mar e das mares.</p>
 
-                                    <ul class="text-left">
-                                        <li>Centro Histórico</li>
-                                        <li>Baixa Pombalina</li>
-                                        <li>Bairro alto, Alfama e Castelo de S. Jorge.</li>
-                                        <li>Torre de Belém</li>
-                                        <li>Mosteiros dos Jerónimos</li>
-                                        <li>Os famosos pastéis de Belém</li>
-                                    </ul>
+                                    <div class="row">
+                                        <div class="col-md-7">
+                                            <ul class="text-left">
+                                                <li>Viagem</li>
+                                                <li>Aula de 1h30</li>
+                                                <li>Fato neopreme</li>
+                                                <li>Prancha</li>
+                                                <li>Seguro</li>
+                                            </ul>
+                                        </div>
+
+                                        <div class="col-md-5">
+                                            <!-- Card -->
+                                            <div class="card align-items-center">
+                                                <!-- Card content -->
+                                                <div class="card-body text-center">
+                                                    <!-- Category & Title -->
+                                                    <p class="dark-grey-text">Mini. 3pax - Max 7pax</p>
+                                                    <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 50€/pax</a>
+                                                </div>
+                                                <!-- ./Card content -->
+                                            </div>
+                                            <!-- ./Card -->
+                                        </div>
+                                    </div>
+
 
                                 </div>
 
                                 <div class="col-md-5">
                                     <figure class="figure">
-                                        <img src="/photos/tours/cultura/lisboa/torrebelem2.jpg" class="img-fluid rounded z-depth-1">
-                                        <figcaption class="figure-caption">Torre de Belém</figcaption>
+                                        <img src="/photos/tours/aventura/surf/surf3.png" class="img-fluid rounded z-depth-1">
+                                        <figcaption class="figure-caption">Aula de surf</figcaption>
                                     </figure>
                                 </div>
 
                             </div>
                             
+                            <h2 class="dark-grey-text text-left">Pacote livre</h2>
 
-                            <h2 class="dark-grey-text text-left">O Pacote Inclui</h2>
                             <div class="row">
 
                                 <div class="col-md-7">
+                                    <p class="text-left">Aluguer de material para quem já não necessita de acompanhamento profissional.</p>
 
-                                    <ul class="text-left">
-                                        <li>Partida de Beja as 8.00 hrs com 2hrs de viagem</li>
-                                        <li>Manhã na baixa da cidade onde pode visitar toda a zona envolvente (Alfama e Bairro Alto)</li>
-                                        <li>Almoço livre</li>
-                                        <li>Visita a Belém com partidas as 14.30 hrs</li>
-                                        <li>Regresso a Beja 18.30 hrs</li>
-                                        <li>Horário pode ser ajustado à medida do cliente</li>
-                                        <li>Valores calculados com partida de Beja ou arredores</li>
-                                        <li>Distâncias superiores sujeitas a ajustamento.</li>
-                                    </ul>
+                                    <div class="row">
+                                        <div class="col-md-7">
+
+                                            <ul class="text-left">
+                                                <li>Viagem</li>
+                                                <li>Aluguer de fato neopreme</li>
+                                                <li>Aluguer de prancha</li>
+                                                <li>Duração 2h</li>
+                                            </ul>
+                                        </div>
+
+                                        <div class="col-md-5">
+                                            <!-- Card -->
+                                            <div class="card align-items-center">
+                                                <!-- Card content -->
+                                                <div class="card-body text-center">
+                                                    <!-- Category & Title -->
+                                                    <p class="dark-grey-text">Mini. 3pax - Max 7pax</p>
+                                                    <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 40€/pax</a>
+                                                </div>
+                                                <!-- ./Card content -->
+                                            </div>
+                                            <!-- ./Card -->
+                                        </div>
+                                    </div>
 
                                 </div>
 
                                 <div class="col-md-5">
-                                    <!-- Card -->
-                                    <div class="card align-items-center">
-                                        <!-- Card content -->
-                                        <div class="card-body text-center">
-                                            <!-- Category & Title -->
-                                            <h5><p class="dark-grey-text">Pacote único com minimo 3 e máximo de 7 pessoas</p></h5>
-                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 85€ por pessoa</a>
-                                        </div>
-                                        <!-- ./Card content -->
-                                    </div>
-                                    <!-- ./Card -->
+                                    <figure class="figure">
+                                        <img src="/photos/tours/aventura/surf/surf4.png" class="img-fluid rounded z-depth-1">
+                                        <figcaption class="figure-caption">Surf livre</figcaption>
+                                    </figure>
                                 </div>
 
                             </div>
+                            
                         </div>
 
                     </div>
