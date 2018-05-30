@@ -5,9 +5,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Land&Sea Alentejo | Roteiros: Tour e passeio por Beja</title>
+    <title>Land&Sea Alentejo | Roteiros: Tour BTT Radical</title>
 
-    <meta name="description" content="Tour e passeio cultural por Beja">
+    <meta name="description" content="Tour e passeio radical de btt">
 
     <link rel="canonical" href="http://www.landseaalentejo.com/">
 
@@ -18,10 +18,10 @@
 
     <meta property="og:locale" content="pt_PT">
     <meta property="og:site_name" content="Land and Sea Alentejo">
-    <meta property="og:title" content="Land&Sea Alentejo | Roteiros: Tour e passeio por Beja">
+    <meta property="og:title" content="Land&Sea Alentejo | Roteiros: Tour BTT Radical">
     <meta property="og:url" content="http://www.landseaalentejo.com/">
     <meta property="og:type" content="website">
-    <meta property="og:description" content="Tour e passeio cultural por Beja">
+    <meta property="og:description" content="Tour e passeio radical de btt">
 
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -113,9 +113,9 @@
                     <div class="row">
                         <div class="col-md-12 mb-4">
                             <!-- Heading -->
-                            <h2 class="title dark-grey-text">Tour Beja</h2>
+                            <h2 class="title dark-grey-text">Tour BTT Radical</h2>
 
-                            <div class="card card-image" style="background: url(/photos/tours/cultura/beja/casteloese.jpg) -130px -160px; height: 300px;">
+                            <div class="card card-image" style="background: url(/photos/tours/aventura/btt/btt1.jpg) 0 -340px; background-size: 1250px; height: 300px;">
                                 <div class="text-white text-center d-flex align-items-center rgba-black-light py-5 px-4 rounded" style="height: 300px;">
                                     
                                 </div>
@@ -123,36 +123,51 @@
                         </div>
                     </div>
                     
-                    <p class="text-left">Queremos dar-lhe a oportunidade de conhecer a cidade de Beja, com um vasto património cultural, natural e uma paisagem de sobreiros e oliveiras a perder de vista.<br/>Com uma diversidade arquitetónica e arqueológica riquíssima, Beja é uma cidade com uma forte alma histórica.</p>
+                    <p class="text-left">Com  WERIDE você vai ter a oportunidade de ter uma experiência Radical! Portugal tem a melhor previsão do tempo da Europa para desfrutar de trilhos fantásticas e uma variedade de terrenos dos mais montanhosas ao litoral, com infinitos dias de sol e valiosos parques naturais durante todo o ano.</p>
 
                     <div class="row">
                         <div class="col-md-12 mb-4">
 
-                            <h2 class="dark-grey-text text-left">Locais a Visitar</h2>
+                            <h2 class="dark-grey-text text-left">Coastline Ride</h2>
 
                             <div class="row">
 
                                 <div class="col-md-7">
 
+                                    <p class="text-left">Ride  junto às falésias com partida da Sra. da Rocha em direcção a Carvoeiro com uma bicicleta Top de suspensão total.</p>
                                     <ul class="text-left">
-                                        <li>Castelo</li>
-                                        <li>Casa do governador</li>
-                                        <li>Museu Regional de Beja</li>
-                                        <li>Núcleo Visigótico do Museu Regional de Beja (Igreja Santo Amaro)</li>
-                                        <li>Núcleo Museológico da Rua do Sembrano</li>
-                                        <li>Museu Episcopal de Beja</li>
-                                        <li>Vila Romana de Pisões</li>
-                                        <li>Igreja da Misericórdia</li>
-                                        <li>Ermida de S. André</li>
-                                        <li>Sé Catedral</li>
+                                        <li>PVP - 70€ por pessoa + 50€ bicicleta</li>
                                     </ul>
 
                                 </div>
 
                                 <div class="col-md-5">
                                     <figure class="figure">
-                                        <img src="/photos/tours/cultura/beja/museu.jpg" class="img-fluid rounded z-depth-1">
-                                        <figcaption class="figure-caption">Museu Rainha D. Isabel.</figcaption>
+                                        <img src="/photos/tours/aventura/btt/btt2.jpg" class="img-fluid rounded z-depth-1">
+                                        <figcaption class="figure-caption">Passeio junto à costa</figcaption>
+                                    </figure>
+                                </div>
+
+                            </div>
+
+                            <h2 class="dark-grey-text text-left">Enduro Ride</h2>
+
+                            <div class="row">
+
+                                <div class="col-md-7">
+
+                                    <p class="text-left">Ride na serra de Monchique, São Brás de Alportel ou na Costa Vicentina.</p>
+                                    <ul class="text-left">
+                                        <li>PVP - 70€ por pessoa + 50€ bicicleta</li>
+                                        <li>Uplifts +45€</li>
+                                    </ul>
+
+                                </div>
+
+                                <div class="col-md-5">
+                                    <figure class="figure">
+                                        <img src="/photos/tours/aventura/btt/btt3.jpg" class="img-fluid rounded z-depth-1">
+                                        <figcaption class="figure-caption">Enduro pela serra</figcaption>
                                     </figure>
                                 </div>
 
@@ -160,111 +175,7 @@
                             
                             
 
-                            <h2 class="dark-grey-text text-left">Onde Comer</h2>
-                            <p class="text-left">Com uma rica gastronomia, receitas simples com ingredientes locais em que a carne de porco e o pão são a base da cozinha tradicional, Beja tem para oferecer os famosos doces conventuais, chocolates e cerveja artesanal, queijarias de excelência, enchidos, azeite e muito mais!<br/>Com restaurantes típicos onde podemos degustar a rica gastronomia local, do mais simples ao mais sofisticado:</p>
 
-                            <div class="row">
-                                <div class="col-md-7">
-                                    <ul class="text-left">
-                                        <li>Vovó Joaquina (cozinha gourmet)</li>
-                                        <li>Adega Típica 25 de Abril (tradicional alentejana)</li>
-                                        <li>Tasca da Su (petiscos)</li>
-                                        <li>Pulo do Lobo (marisqueira e cozinha tradicional alentejana)</li>
-                                        <li>O Pereira (petiscos)</li>
-                                    </ul>
-                                </div>
-                                <div class="col-md-5">
-                                    <figure class="figure">
-                                        <img src="/photos/tours/cultura/beja/vovojoaquina.jpg" class="img-fluid rounded z-depth-1">
-                                        <figcaption class="figure-caption">Restaurante Vovó Joaquina</figcaption>
-                                    </figure>
-                                </div>
-                            </div>
-
-                            <h2 class="dark-grey-text text-left">Onde Dormir</h2>
-                            <p class="text-left">Para descobrir a cidade pode ficar a pernoitar num dos seguintes locais:</p>
-
-                            <div class="row">
-                                <div class="col-md-7">
-                                    <ul class=" text-left">
-                                        <li>Beja Parque Hotel</li>
-                                        <li>Hotel Francis</li>
-                                        <li>Hotel Melius</li>
-                                        <li>Pousada de S. Francisco</li>
-                                        <li>Hotel Bejense</li>
-                                        <li>Hotel Santa Bárbara</li>
-                                        <li>Hospedaria D. Maria</li>
-                                    </ul>
-                                </div>
-                                <div class="col-md-5">
-                                    <figure class="figure">
-                                        <img src="/photos/tours/cultura/beja/hotelbejaparque.jpg" class="img-fluid rounded z-depth-1">
-                                        <figcaption class="figure-caption">Hotel Beja-Parque</figcaption>
-                                    </figure>
-                                </div>
-                            </div>
-
-                            <h2 class="dark-grey-text text-left">Pacotes Disponíveis</h2>
-                            <div class="row">
-
-                                <div class="col-md-3 col-sm-6 col-xs-12 my-3">
-                                    <!-- Card -->
-                                    <div class="card align-items-center">
-                                        <!-- Card content -->
-                                        <div class="card-body text-center">
-                                            <!-- Category & Title -->
-                                            <h5><p class="dark-grey-text">Tranporte com oferta de mapa e informação local</p></h5>
-                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 90€</a>
-                                        </div>
-                                        <!-- ./Card content -->
-                                    </div>
-                                    <!-- ./Card -->
-                                </div>
-                                <div class="col-md-3 col-sm-6 col-xs-12 my-3">
-                                    <!-- Card -->
-                                    <div class="card align-items-center">
-                                        <!-- Card content -->
-                                        <div class="card-body text-center">
-                                            <!-- Category & Title -->
-                                            <h5><p class="dark-grey-text">Tranporte e passeio com guia local</p></h5>
-                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 120€</a>
-                                        </div>
-                                        <!-- ./Card content -->
-                                    </div>
-                                    <!-- ./Card -->
-                                </div>
-                                <div class="col-md-3 col-sm-6 col-xs-12 my-3">
-                                    <!-- Card -->
-                                    <div class="card align-items-center">
-                                        <!-- Card content -->
-                                        <div class="card-body text-center">
-                                            <!-- Category & Title -->
-                                            <h5><p class="dark-grey-text">Tranporte e passeio com almoço incluído</p></h5>
-                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 120€</a>
-                                        </div>
-                                        <!-- ./Card content -->
-                                    </div>
-                                    <!-- ./Card -->
-                                </div>
-                                <div class="col-md-3 col-sm-6 col-xs-12 my-3">
-                                    <!-- Card -->
-                                    <div class="card align-items-center">
-                                        <!-- Card content -->
-                                        <div class="card-body text-center">
-                                            <!-- Category & Title -->
-                                            <h5><p class="dark-grey-text">Tranporte e passeio com almoço, jantar e dormida</p></h5>
-                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 190€</a>
-                                        </div>
-                                        <!-- ./Card content -->
-                                    </div>
-                                    <!-- ./Card -->
-                                </div>
-
-                                <div class="col-md-12">
-                                    <p class="text-left">Podemos fazer um pacote à sua medida!!!<br/>Mais informação através do email info@landseaalentejo.com ou telm 965 589 291</p>
-                                </div>
-
-                            </div>
                         </div>
 
                     </div>

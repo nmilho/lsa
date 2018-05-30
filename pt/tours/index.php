@@ -218,7 +218,7 @@
                                     <div class="row">
                                         <!-- Card -->
                                         <div class="col-md-4 col-sm-6">
-                                            <a href="#adventuretours" class="nav-link" data-toggle="tab" role="tab">
+                                            <a href="aventura/tourbtt.php" class="nav-link">
                                                 <div class="card card-image" style="background-image: url(/photos/tours/aventura/btt.jpg); background-size: 350px; background-position: 0px;">
 
                                                 <!-- Content -->
@@ -239,7 +239,7 @@
 
                                         <!-- Card -->
                                         <div class="col-md-4 col-sm-6">
-                                            <a href="#adventuretours" class="nav-link" data-toggle="tab" role="tab">
+                                            <a href="aventura/tourkart.php" class="nav-link">
                                                 <div class="card card-image" style="background-image: url(/photos/tours/aventura/kart.jpg); background-size: 350px; background-position: 0px;">
 
                                                 <!-- Content -->
@@ -260,7 +260,7 @@
 
                                         <!-- Card -->
                                         <div class="col-md-4 col-sm-6">
-                                            <a href="#adventuretours" class="nav-link" data-toggle="tab" role="tab">
+                                            <a href="aventura/tourskydive.php" class="nav-link">
                                                 <div class="card card-image" style="background-image: url(/photos/tours/aventura/skydive.jpg); background-size: 320px; background-position: 0px;">
 
                                                 <!-- Content -->
@@ -281,7 +281,7 @@
 
                                         <!-- Card -->
                                         <div class="col-md-4 col-sm-6">
-                                            <a href="#adventuretours" class="nav-link" data-toggle="tab" role="tab">
+                                            <a href="aventura/toursurf.php" class="nav-link">
                                                 <div class="card card-image" style="background-image: url(/photos/tours/aventura/surf.jpg); background-size: 380px; background-position: 0px;">
 
                                                 <!-- Content -->
@@ -302,7 +302,7 @@
 
                                         <!-- Card -->
                                         <div class="col-md-4 col-sm-6">
-                                            <a href="#adventuretours" class="nav-link" data-toggle="tab" role="tab">
+                                            <a href="aventura/touralqueva.php" class="nav-link">
                                                 <div class="card card-image" style="background-image: url(/photos/tours/aventura/alqueva.jpg); background-size: 350px; background-position: 0px;">
 
                                                 <!-- Content -->
@@ -323,7 +323,7 @@
 
                                         <!-- Card -->
                                         <div class="col-md-4 col-sm-6">
-                                            <a href="#adventuretours" class="nav-link" data-toggle="tab" role="tab">
+                                            <a href="aventura/tourvintage.php" class="nav-link">
                                                 <div class="card card-image" style="background-image: url(/photos/tours/aventura/vintage.jpg); background-size: 320px; background-position: 0px -15px;">
 
                                                 <!-- Content -->
