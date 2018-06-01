@@ -298,26 +298,6 @@
                                 </div>
                                 <!-- Card -->
 
-                                <!-- Card -->
-                                <div class="col-md-4 col-sm-6">
-                                    <a href="#adventuretours" class="nav-link" data-toggle="tab" role="tab">
-                                        <div class="card card-image" style="background-image: url(/photos/tours/cultura/alqueva.jpg);">
-
-                                        <!-- Content -->
-                                        
-                                            <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
-                                                <div class="w-100">
-                                                    <h3 class="orange-text card-title pt-2"><strong>Alqueva</strong></h3>
-                                                    <h5 class="">Venha passear e descobrir a barragem do Alqueva.</h5>
-                                                </div>
-                                            </div>
-                                        
-                                        <!-- Content -->
-                                        
-                                        </div>
-                                    </a>
-                                </div>
-                                <!-- Card -->
                             </div>
 
 
