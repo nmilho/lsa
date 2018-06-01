@@ -5,9 +5,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Land&Sea Alentejo | Roteiros: Tour Alqueva</title>
+    <title>Land&Sea Alentejo | Roteiros: Tour Enoturismo - Herdade da Figueirinha</title>
 
-    <meta name="description" content="Tour Alqueva - Passeio de barco ou paddle na barragem de Alqueva.">
+    <meta name="description" content="Herdade da Figueirinha é um lugar especial, resultado de um trabalho de excelência, de máxima qualidade e, acima de tudo, o amor pelo vinho, pelo azeite e pela família.">
 
     <link rel="canonical" href="http://www.landseaalentejo.com/">
 
@@ -18,10 +18,10 @@
 
     <meta property="og:locale" content="pt_PT">
     <meta property="og:site_name" content="Land and Sea Alentejo">
-    <meta property="og:title" content="Land&Sea Alentejo | Roteiros: Tour Alqueva">
+    <meta property="og:title" content="Land&Sea Alentejo | Roteiros: Tour Enoturismo - Herdade da Figueirinha">
     <meta property="og:url" content="http://www.landseaalentejo.com/">
     <meta property="og:type" content="website">
-    <meta property="og:description" content="Tour Alqueva - Passeio de barco ou paddle na barragem de Alqueva.">
+    <meta property="og:description" content="Herdade da Figueirinha é um lugar especial, resultado de um trabalho de excelência, de máxima qualidade e, acima de tudo, o amor pelo vinho, pelo azeite e pela família.">
 
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -76,10 +76,14 @@
                         <a class="nav-link smooth-scroll" href="#transfers">Transfers</a>
                     </li>
 
-                    <li class="nav-item active">
-                        <a class="nav-link smooth-scroll" href="#tours">Roteiros
-                            <span class="sr-only">(current)</span>
-                        </a>
+                    <!-- Dropdown -->
+                    <li class="nav-item dropdown active">
+                        <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Roteiros</a>
+                        <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" href="/pt/tours/aventura">Aventura</a>
+                            <a class="dropdown-item" href="/pt/tours/cultura">Culturais</a>
+                            <a class="dropdown-item" href="/pt/tours/enoturismo">Enoturismo</a>
+                        </div>
                     </li>
 
                     <li class="nav-item">
@@ -115,7 +119,7 @@
                             <!-- Heading -->
                             <h2 class="title dark-grey-text">Tour Alqueva</h2>
 
-                            <div class="card card-image" style="background: url(/photos/tours/aventura/alqueva/alqueva.jpg) 0 -700px; background-size: 1120px; height: 300px;">
+                            <div class="card card-image" style="background: url(/photos/tours/enoturismo/figueirinha/figueirinha.jpg) 0 -700px; background-size: 1120px; height: 300px;">
                                 <div class="text-white text-center d-flex align-items-center rgba-black-light py-5 px-4 rounded" style="height: 300px;">
                                     
                                 </div>
@@ -123,7 +127,7 @@
                         </div>
                     </div>
                     
-                    <p class="text-left">Venha passar um dia inesquecível com partidas de Beja ou arredores com hora a combinar.</p>
+                    <p class="text-left">A cinco minutos de Beja, a Herdade da Figueirinha é um lugar especial, resultado de um trabalho de excelência, de máxima qualidade e, acima de tudo, o amor pelo vinho, pelo azeite e pela família.</p>
 
                     <div class="row">
 

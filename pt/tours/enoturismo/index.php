@@ -76,10 +76,14 @@
                         <a class="nav-link smooth-scroll" href="#transfers">Transfers</a>
                     </li>
 
-                    <li class="nav-item active">
-                        <a class="nav-link smooth-scroll" href="#tours">Roteiros
-                            <span class="sr-only">(current)</span>
-                        </a>
+                    <!-- Dropdown -->
+                    <li class="nav-item dropdown active">
+                        <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Roteiros</a>
+                        <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" href="/pt/tours/aventura">Aventura</a>
+                            <a class="dropdown-item" href="/pt/tours/cultura">Culturais</a>
+                            <a class="dropdown-item" href="/pt/tours/enoturismo">Enoturismo</a>
+                        </div>
                     </li>
 
                     <li class="nav-item">
