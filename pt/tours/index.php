@@ -493,7 +493,7 @@
                                     <div class="row">
                                         <!-- Card -->
                                         <div class="col-md-4 col-sm-6">
-                                            <a href="enoturismo/enofigueirinha.php" class="nav-link">
+                                            <a href="enoturismo/tourfigueirinha.php" class="nav-link">
                                                 <div class="card card-image" style="background-image: url(/photos/tours/enoturismo/figueirinha.jpg);">
 
                                                 <!-- Content -->
@@ -514,7 +514,7 @@
 
                                         <!-- Card -->
                                         <div class="col-md-4 col-sm-6">
-                                            <a href="enoturismo/enorocim.php" class="nav-link">
+                                            <a href="enoturismo/tourrocim.php" class="nav-link">
                                                 <div class="card card-image" style="background-image: url(/photos/tours/enoturismo/rocim.jpg);">
 
                                                 <!-- Content -->
@@ -535,7 +535,7 @@
 
                                         <!-- Card -->
                                         <div class="col-md-4 col-sm-6">
-                                            <a href="enoturismo/enoquetzal.php" class="nav-link">
+                                            <a href="enoturismo/tourquetzal.php" class="nav-link">
                                                 <div class="card card-image" style="background-image: url(/photos/tours/enoturismo/quetzal.jpg);">
 
                                                 <!-- Content -->
@@ -556,7 +556,7 @@
 
                                         <!-- Card -->
                                         <div class="col-md-4 col-sm-6">
-                                            <a href="enoturismo/enoribafreixo.php" class="nav-link">
+                                            <a href="enoturismo/tourribafreixo.php" class="nav-link">
                                                 <div class="card card-image" style="background-image: url(/photos/tours/enoturismo/ribafreixo.jpg);">
 
                                                 <!-- Content -->
@@ -577,7 +577,7 @@
 
                                         <!-- Card -->
                                         <div class="col-md-4 col-sm-6">
-                                            <a href="enoturismo/enovidigueira.php" class="nav-link">
+                                            <a href="enoturismo/tourvidigueira.php" class="nav-link">
                                                 <div class="card card-image" style="background-image: url(/photos/tours/enoturismo/vidigueira.jpg);">
 
                                                 <!-- Content -->
@@ -598,7 +598,7 @@
 
                                         <!-- Card -->
                                         <div class="col-md-4 col-sm-6">
-                                            <a href="enoturismo/enomingorra.php" class="nav-link">
+                                            <a href="enoturismo/tourmingorra.php" class="nav-link">
                                                 <div class="card card-image" style="background-image: url(/photos/tours/enoturismo/mingorra.jpg);">
 
                                                 <!-- Content -->
@@ -619,8 +619,8 @@
 
                                         <!-- Card -->
                                         <div class="col-md-4 col-sm-6">
-                                            <a href="enoturismo/enomalhadinha.php" class="nav-link">
-                                                <div class="card card-image" style="background-image: url(/photos/tours/enoturismo/malhadinha.jpg);">
+                                            <a href="enoturismo/tourmalhadinha.php" class="nav-link">
+                                                <div class="card card-image" style="background-image: url(/photos/tours/enoturismo/malhadinhanova.jpg);">
 
                                                 <!-- Content -->
                                                 
@@ -640,7 +640,7 @@
 
                                         <!-- Card -->
                                         <div class="col-md-4 col-sm-6">
-                                            <a href="enoturismo/enogrous.php" class="nav-link">
+                                            <a href="enoturismo/tourgrous.php" class="nav-link">
                                                 <div class="card card-image" style="background-image: url(/photos/tours/enoturismo/grous.jpg);">
 
                                                 <!-- Content -->
@@ -661,7 +661,7 @@
 
                                         <!-- Card -->
                                         <div class="col-md-4 col-sm-6">
-                                            <a href="enoturismo/enosvitoria.php" class="nav-link">
+                                            <a href="enoturismo/toursantavitoria.php" class="nav-link">
                                                 <div class="card card-image" style="background-image: url(/photos/tours/enoturismo/santavitoria.jpg);">
 
                                                 <!-- Content -->
