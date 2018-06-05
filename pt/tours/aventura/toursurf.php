@@ -127,7 +127,7 @@
                         </div>
                     </div>
                     
-                    <p class="text-left">Vem ter a tua melhor experiência de Surf!!<br/>O surf não  tem idade, não tem limite e é por isso que queremos que todos sintam a experiência  de deslizar sobre as ondas!!<br/></p>
+                    <p class="text-left">Vem ter a tua melhor experiência de Surf na Escola de Surf do litoral Alentejano!!!<br/>O surf não  tem idade, não tem limite e é por isso que queremos que todos sintam a experiência  de deslizar sobre as ondas!!<br/></p>
 
                     <div class="row">
                         <div class="col-md-12 mb-4">

@@ -132,15 +132,25 @@
                     <div class="row">
                         <div class="col-md-12 mb-4">
 
-                            <h2 class="dark-grey-text text-left">Coastline Ride</h2>
+                            
 
                             <div class="row">
 
                                 <div class="col-md-7">
 
+                                    <p class="text-left">Apaixonada pelo nosso país, a WERIDE foi criada com a ambição de mostrar às pessoas um vasto leque de paisagens de tirar o fôlego e a multiplicidade cultural de Portugal, permitindo-lhe experimentar um estilo de vida inigualável de BTT.</p>
+
+                                    <h2 class="dark-grey-text text-left">Coastline Ride</h2>
                                     <p class="text-left">Ride  junto às falésias com partida da Sra. da Rocha em direcção a Carvoeiro com uma bicicleta Top de suspensão total.</p>
                                     <ul class="text-left">
-                                        <li>PVP - 70€ por pessoa + 50€ bicicleta</li>
+                                        <li>Preços sob consulta.</li>
+                                    </ul>
+
+
+                                    <h2 class="dark-grey-text text-left">Enduro Ride</h2>
+                                    <p class="text-left">Ride na serra de Monchique, São Brás de Alportel ou na Costa Vicentina.</p>
+                                    <ul class="text-left">
+                                        <li>Preços sob consulta.</li>
                                     </ul>
 
                                 </div>
@@ -150,25 +160,7 @@
                                         <img src="/photos/tours/aventura/btt/btt2.jpg" class="img-fluid rounded z-depth-1">
                                         <figcaption class="figure-caption">Passeio junto à costa</figcaption>
                                     </figure>
-                                </div>
 
-                            </div>
-
-                            <h2 class="dark-grey-text text-left">Enduro Ride</h2>
-
-                            <div class="row">
-
-                                <div class="col-md-7">
-
-                                    <p class="text-left">Ride na serra de Monchique, São Brás de Alportel ou na Costa Vicentina.</p>
-                                    <ul class="text-left">
-                                        <li>PVP - 70€ por pessoa + 50€ bicicleta</li>
-                                        <li>Uplifts +45€</li>
-                                    </ul>
-
-                                </div>
-
-                                <div class="col-md-5">
                                     <figure class="figure">
                                         <img src="/photos/tours/aventura/btt/btt3.jpg" class="img-fluid rounded z-depth-1">
                                         <figcaption class="figure-caption">Enduro pela serra</figcaption>
@@ -176,9 +168,6 @@
                                 </div>
 
                             </div>
-                            
-                            
-
 
                         </div>
 

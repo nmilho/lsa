@@ -197,7 +197,7 @@
                                 <!-- Card -->
                                 <div class="col-md-4 col-sm-6">
                                     <a href="tourcostaalentejana.php" class="nav-link">
-                                        <div class="card card-image" style="background-image: url(/photos/tours/cultura/costaalentejana.jpg);">
+                                        <div class="card card-image" style="background-image: url(/photos/tours/cultura/costaalentejana.jpg); background-size: 600px; background-position: 0;">
 
                                         <!-- Content -->
                                         
@@ -246,7 +246,8 @@
                                             <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
                                                 <div class="w-100">
                                                     <h3 class="orange-text card-title pt-2"><strong>Serpa e Mértola</strong></h3>
-                                                    <h5 class="">Passeie por duas das mais lindas vilas do Alentejo.</h5>                                                       </div>
+                                                    <h5 class="">Passeie por duas das mais lindas vilas do Alentejo.</h5>                                                       
+                                                </div>
                                             </div>
                                         
                                         <!-- Content -->
