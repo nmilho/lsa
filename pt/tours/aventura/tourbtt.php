@@ -67,13 +67,13 @@
                 <!-- Links -->
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="#body">Início</a>
+                        <a class="nav-link" href="/pt/#body">Início</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link smooth-scroll" href="#about">Quem Somos</a>
+                        <a class="nav-link smooth-scroll" href="/pt/about/">Quem Somos</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link smooth-scroll" href="#transfers">Transfers</a>
+                        <a class="nav-link smooth-scroll" href="/pt/transfers">Transfers</a>
                     </li>
 
                     <!-- Dropdown -->

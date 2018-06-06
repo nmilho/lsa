@@ -123,7 +123,7 @@
                                 <div class="text-white text-center d-flex align-items-center rgba-black-light py-5 px-4 rounded" style="height: 300px;">
                                     
                                 </div>
-                              </div>
+                            </div>
                         </div>
                     </div>
                     

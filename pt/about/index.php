@@ -7,7 +7,7 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Land&Sea Alentejo | Quem Somos</title>
 
-    <meta name="description" content="Transfers nacionais. Passeios, turismo, aventura e enoturismo pelo Alentejo.">
+    <meta name="description" content="Quem somos - Uma empresa de turismo, aluguer de viaturas, passeios, transfers e enoturismo.">
 
     <link rel="canonical" href="http://www.landseaalentejo.com/">
 
@@ -21,7 +21,7 @@
     <meta property="og:title" content="Land&Sea Alentejo | Quem Somos">
     <meta property="og:url" content="http://www.landseaalentejo.com/">
     <meta property="og:type" content="website">
-    <meta property="og:description" content="Transfers nacionais. Passeios, turismo, aventura e enoturismo pelo Alentejo.">
+    <meta property="og:description" content="Quem somos - Uma empresa de turismo, aluguer de viaturas, passeios, transfers e enoturismo.">
 
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -46,9 +46,9 @@
 <!-- Start your project here-->
 
     <!--Main Navigation-->
-    <header>
+    <header style="height: auto; margin-top: 75px;" >
         <!--Navbar-->
-        <nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar">
+         <nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar" style="background-color: #0f75e6;">
             <div class="container">
             <!-- Navbar brand -->
             <a class="navbar-brand" href="#">
@@ -106,164 +106,48 @@
         </div>
         </nav>
         <!--/.Navbar-->   
-
-        <!--Carousel Wrapper-->
-        <div id="landing-carousel" class="carousel slide carousel-fade" data-ride="carousel" data-interval="5000">
-
-            <!--Indicators-->
-            <ol class="carousel-indicators">
-                <li data-target="#landing-carousel" data-slide-to="0" class="active"></li>
-                <li data-target="#landing-carousel" data-slide-to="1"></li>
-                <li data-target="#landing-carousel" data-slide-to="2"></li>
-                <li data-target="#landing-carousel" data-slide-to="3"></li>
-            </ol>
-            <!--/.Indicators-->
-
-            <!--Slides-->
-            <div class="carousel-inner" role="listbox">
-
-                <!--First slide-->
-                <div class="carousel-item active">
-                    <!--Mask-->
-                    <div class="view">
-                        <div class="full-bg-img flex-center mask rgba-black-light white-text">
-                            <ul class="animated fadeIn col-md-12 list-unstyled list-inline">
-                                <li>
-                                    <p class="topsub-title text-uppercase">Enoturismo - Campo - Mar - Aventura</p>
-                                </li>
-                                <li>
-                                    <h1 class="title text-uppercase">Consigo pelo Alentejo</h1>
-                                </li>
-                                <li>
-                                    <p class="sub-title text-uppercase py-4">Tours à medida de cada cliente</p>
-                                </li>
-                                <li class="list-inline-item">
-                                    <a href="#about" class="btn btn-lg btn-outline-white ml-0 waves-effect waves-light smooth-scroll">Saiba mais</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <!--/.Mask-->
-                </div>
-                <!--/.First slide-->
-
-                <!--Second slide -->
-                <div class="carousel-item">
-                    <!--Mask-->
-                    <div class="view">
-                        <div class="full-bg-img flex-center mask rgba-black-light white-text">
-                            <ul class="animated fadeIn col-md-12 list-unstyled">
-                                <li>
-                                    <p class="topsub-title text-uppercase">Enoturismo - Campo - Mar - Aventura</p>
-                                </li>
-                                <li>
-                                    <h1 class="title text-uppercase">VIVE E DISFRUTA</h1>
-                                </li>
-                                <li>
-                                    <p class="sub-title text-uppercase py-4">Do melhor que o Alentejo tem para oferecer</p>
-                                </li>
-                                <li class="list-inline-item">
-                                    <a href="#about" class="btn btn-lg btn-outline-white ml-0 waves-effect waves-light smooth-scroll">Saiba mais</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <!--/.Mask-->
-                </div>
-                <!--/.Second slide -->
-
-                <!--Third slide-->
-                <div class="carousel-item">
-                    <!--Mask-->
-                    <div class="view">
-                        <div class="full-bg-img flex-center mask rgba-black-light white-text">
-                            <ul class="animated fadeIn col-md-12 list-unstyled">
-                                <li>
-                                    <p class="topsub-title text-uppercase">Enoturismo - Campo - Mar - Aventura</p>
-                                </li>
-                                <li>
-                                    <h1 class="title text-uppercase">MERGULHA NUMA AVENTURA</h1>
-                                </li>
-                                <li>
-                                    <p class="sub-title text-uppercase py-4">Cheia de adrenalina e de emoções radicais</p>
-                                </li>
-                                <li class="list-inline-item">
-                                    <a href="#about" class="btn btn-lg btn-outline-white ml-0 waves-effect waves-light smooth-scroll">Saiba mais</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <!--/.Mask-->
-                </div>
-                <!--/.Third slide-->
-
-                <!--Fouth slide-->
-                <div class="carousel-item">
-                    <!--Mask-->
-                    <div class="view">
-                        <div class="full-bg-img flex-center mask rgba-black-light white-text">
-                            <ul class="animated fadeIn col-md-12 list-unstyled">
-                                <li>
-                                    <p class="topsub-title text-uppercase">Enoturismo - Campo - Mar - Aventura</p>
-                                </li>
-                                <li>
-                                    <h1 class="title text-uppercase">DA COSTA AO PROFUNDO ALENTEJO</h1>
-                                </li>
-                                <li>
-                                    <p class="sub-title text-uppercase py-4">Uma paisagem, um sabor, um paladar sem igual</p>
-                                </li>
-                                <li class="list-inline-item">
-                                    <a href="#about" class="btn btn-lg btn-outline-white ml-0 waves-effect waves-light smooth-scroll">Saiba mais</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <!--/.Mask-->
-                </div>
-                <!--/.Fouth slide-->
-
-
-            </div>
-            <!--/.Slides-->
-
-            <!--Controls-->
-            <a class="carousel-control-prev" href="#landing-carousel" role="button" data-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
-            </a>
-            <a class="carousel-control-next" href="#landing-carousel" role="button" data-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
-            </a>
-            <!--/.Controls-->
-        </div>
-        <!--/.Carousel Wrapper-->
-
-                    
+     
     </header>
     <!--Main Navigation-->
 
     <!--Main layout-->
-    <main class="mt-0">
+    <main class="mt-5">
 
-            
-
-            
             <!--Section: About-->
             <section id="about" class="text-center py-5">
                 <div class="container">
-                    <!-- Heading -->
-                    <h2 class="title dark-grey-text">Land & Sea Alentejo</h2>
-                    <p class="subtitle blue-text mb-5">O Alentejo mais perto de si</p>
+
+                    <div class="row">
+                        <div class="col-md-12 mb-4">
+                            <!-- Heading -->
+                            <h2 class="title dark-grey-text">Land & Sea Alentejo</h2>
+                            <p class="subtitle blue-text mb-5">O Alentejo mais perto de si</p>
+
+                            <div class="card card-image" style="background: url(/photos/about/carrinha14.jpg) 0 -140px;">
+                                <div class="text-white text-center d-flex align-items-center rgba-black-light py-5 px-4 rounded" style="height: 300px;">
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
 
                     <!--Grid row-->
                     <div class="row">
+                        <!--Grid column-->
+                        <div class="col-lg-12 col-xl-12">
+                            <p class="text-left">
+                                Com o objetivo de dar a conhecer e desenvolver o turismo local - da costa ao mais profundo
+                                Alentejo - foi criada a Empresa Land &amp; Sea Alentejo, com um serviço de qualidade em que o
+                                foco é satisfazer e fidelizar os nossos clientes.
+                            </p>
+                        </div>
 
                         <!--Grid column-->
                         <div class="col-lg-5 col-xl-5 pb-3">
                             <!--Featured image-->
                             <div class="view overlay hm-dark-slight rounded z-depth-2">
-                                <img src="/photos/carrinha2.jpg" alt="Sample image for first version of blog listing" class="img-fluid">
+                                <img src="/photos/carrinha2.jpg" alt="Viatura Mercedes V220 com serviço de internet e águas frescas." class="img-fluid">
                                 <a>
                                     <div class="mask waves-effect waves-light"></div>
                                 </a>
@@ -274,11 +158,6 @@
                         <!--Grid column-->
                         <div class="col-lg-7 col-xl-7">
                             <p class="text-left">
-                                Com o objetivo de dar a conhecer e desenvolver o turismo local - da costa ao mais profundo
-                                Alentejo - foi criada a Empresa Land &amp; Sea Alentejo, com um serviço de qualidade em que o
-                                foco é satisfazer e fidelizar os nossos clientes.
-                            </p>
-                            <p class="text-left">
                                 Vamos fazer chegar até si o melhor que o nosso Alentejo tem para oferecer, desde tours às nossas cidades e vilas, bem como à nossa costa; explorar o enoturismo; viajar no lago do Alqueva ou ter grandes aventuras radicais - e claro, dar a oportunidade de provar as especialidades da gastronomia Alentejana.
                             </p>
                             <p class="text-left">
@@ -286,85 +165,89 @@
                                 Évora e Algarve.
                                 Todos os roteiros/tours podem ser ajustados às necessidades dos clientes.
                             </p>
+                        </div>
+                    </div>
 
+                    <div class="row mb-5">
+                        <!--Grid column-->
+                        <div class="col-lg-7 col-xl-7">
+                            <p class="text-left">
+                                A sua empresa pode usufruir de um serviço VIP para congressos, conferências, eventos ou reuniões, em que garantimos um serviço de qualidade com internet a bordo e águas frescas durante a sua viagem.
+                            </p>
+
+                            <p class="text-left">
+                                Oferecemos ainda tranfers para os principias aeroportos ou cidades, fornecendo um serviço de de qualidade e pontualidade.
+                            </p>
+
+                            <p class="text-left">
+                                O Alentejo mais perto si!!!
+                            </p>
+
+                        </div>
+                        <!--Grid column-->
+
+                        <!--Grid column-->
+                        <div class="col-lg-5 col-xl-5 pb-3">
+                            <!--Featured image-->
+                            <div class="view overlay hm-dark-slight rounded z-depth-2">
+                                <img src="/photos/about/carrinha15.jpg" alt="Venha usufruir de um serviço VIP." class="img-fluid">
+                                <a>
+                                    <div class="mask waves-effect waves-light"></div>
+                                </a>
+                            </div>
                         </div>
                         <!--Grid column-->
 
                     </div>
                     <!--./Grid row-->
+
+
+                    <div class="row">
+
+                        <!--Grid column-->
+                        <div class="col-lg-4 col-xl-4 my-3">
+                            <!--Featured image-->
+                            <figure class="figure">
+                                <img src="/photos/about/carrinha16.jpg" class="img-fluid rounded z-depth-1" alt="Viatura com conforto e segurança, equipada com internet e águas frescas.">
+                                <figcaption>Viatura com conforto e segurança, equipada com internet e águas frescas.</figcaption>
+                            </figure>
+                        </div>
+                        <!--Grid column-->
+
+                        <!--Grid column-->
+                        <div class="col-lg-4 col-xl-4 my-3">
+                            <!--Featured image-->
+                            <figure class="figure">
+                                <img src="/photos/about/carrinha17.jpg" class="img-fluid rounded z-depth-1" alt="Disfrute das localidades e paisagens alentejanas.">
+                                <figcaption>Disfrute das localidades e paisagens alentejanas.</figcaption>
+                            </figure>
+                        </div>
+                        <!--Grid column-->
+
+                        <!--Grid column-->
+                        <div class="col-lg-4 col-xl-4 my-3">
+                            <!--Featured image-->
+                            <figure class="figure">
+                                <img src="/photos/about/carrinha08.jpg" class="img-fluid rounded z-depth-1" alt="Um serviço de excelência.">
+                                <figcaption>Um serviço de excelência.</figcaption>
+                            </figure>
+                        </div>
+                        <!--Grid column-->
+
+                    </div>
+                    <!--./Grid row-->
+
                   
                 </div>
             </section>
             <!--Section: About-->
-
-
-
-
-
-            <!--Section: Transfers-->
-            <section id="transfers" class="text-center py-5">
-                <div class="container">
-                    <!-- Heading -->
-                    <h2 class="title dark-grey-text">Transfers</h2>
-                    <p class="subtitle blue-text mb-5">Segurança e Excelência</p>
-                  
-                    <!--Grid row-->
-                    <div class="row">
-                  
-                        <!--Grid column-->
-                        <div class="col-md-6 mb-5">
-                            <h4 class="my-4">Chegadas / Partidas</h4>
-                            <!--Featured image-->
-                            <div class="view overlay hm-dark-slight rounded z-depth-1 mb-1">
-                                <img src="/photos/carrinhaaero.jpg" alt="Sample image for first version of blog listing" class="img-fluid">
-                                <a>
-                                    <div class="mask waves-effect waves-light"></div>
-                                </a>
-                            </div>
-                            <p class="grey-text">Temos o transfer à sua medida, vamos ter consigo à zona das chegadas do Aeroporto e acompanhá-lo ao veículo. Garantimos pontualidade, segurança e conforto a bordo de uma viatura Mercedes V220 com serviço de internet e águas frescas. Fazemos qualquer tipo de transfer para qualquer cidade sobe orçamento.</p>
-                        </div>
-                        <!--Grid column-->
-                  
-                        <!--Grid column-->
-                        <div class="col-md-6 mb-5">
-                            <h4 class="my-4">Profissional</h4>
-                            <!--Featured image-->
-                            <div class="view overlay hm-dark-slight rounded z-depth-1 mb-1">
-                                <img src="/photos/handshake.jpg" alt="Sample image for first version of blog listing" class="img-fluid">
-                                <a>
-                                    <div class="mask waves-effect waves-light"></div>
-                                </a>
-                            </div>
-                            <p class="grey-text">Fazemos serviços de Motorista para que o seu negocio seja mais eficaz.<br/>
-                                                Garantimos otimização do seu tempo. Transportamos grupos para congressos, conferências e outros eventos de empresas.<br/>
-                                                Numa viatura com conforto e segurança, equipada com internet e águas frescas a bordo. Um serviço de excelência.
-                            </p>
-                        </div>
-                        <!--Grid column-->
-
-                        <!--Grid column-->
-                        <div class="col-md-12">
-                            <button type="button" class="btn btn-orange" data-toggle="modal" data-target="#transfersprice">
-                                Consultar Preços
-                            </button>
-                        </div>
-                        <!--Grid column-->
-                    </div>
-                    <!--Grid row-->
-                </div>
-            </section>
-            <!--./Section: Transfers-->    
-
-
-
-
 
             <!--Section: Contact-->
             <section id="contacts" class="py-5">
 
                 <!-- Section heading -->
                 <h2 class="text-center title dark-grey-text wow fadeIn" data-wow-delay="0.2s" style="visibility: visible; animation-name: fadeIn; animation-delay: 0.2s;">
-                    Contatos
+                    Reserve Já
                 </h2>
 
                 <div class="container backink">
@@ -586,101 +469,6 @@
         </a>
     </div>
     <!--./BackToTop-->
-
-    
-
-<!-- Modal -->
-<div class="modal fade" id="transfersprice" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-lg" role="document">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title text-upper" id="exampleModalLabel">Transfers - Tabela de preços</h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                </button>
-            </div>
-            <div class="modal-body">
-                <p><small>Valores calculados com partida/chegada a Beja.<br/>
-                Distâncias superiores sujeitas a ajustamento.<br/><strong>
-                Em caso de viagem de ida/volta 25% de desconto na viagem de regresso.</strong></small></p>
-                
-                <!--Table-->
-                <table class="table rounded-corners table-hover">
-
-                    <!--Table head-->
-                    <thead>
-                        <tr class="text-white">
-                            <th>Trajecto</th>
-                            <th>1-4 pax</th>
-                            <th>5-7 pax</th>
-                        </tr>
-                    </thead>
-                    <!--Table head-->
-
-                    <!--Table body-->
-                    <tbody>
-                        <tr>
-                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Lisboa Apt</th>
-                            <td>215€</td>
-                            <td>245€</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Faro Apt</th>
-                            <td>190€</td>
-                            <td>220€</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Sines</th>
-                            <td>110€</td>
-                            <td>140€</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Zambujeira</th>
-                            <td>140€</td>
-                            <td>170€</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Évora</th>
-                            <td>95€</td>
-                            <td>125€</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Albufeira</th>
-                            <td>170€</td>
-                            <td>200€</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Lagos</th>
-                            <td>200€</td>
-                            <td>230€</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Vila Real Sto. António</th>
-                            <td>170€</td>
-                            <td>200€</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Sevilha</th>
-                            <td>230€</td>
-                            <td>260€</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">* 20% adicional entre as 21 horas e as 7 horas.</th>
-                            <th colspan="2">* Valores com IVA incluido à taxa de 6%</th>
-                        </tr>
-                    </tbody>
-
-                </table>
-                <!--./Table-->
-
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-blue" data-dismiss="modal">Close</button>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- ./Modal -->
 
 
 <!-- /Start your project here-->
