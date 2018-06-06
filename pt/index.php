@@ -51,7 +51,7 @@
         <nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar">
             <div class="container">
             <!-- Navbar brand -->
-            <a class="navbar-brand" href="#">
+            <a class="navbar-brand" href="/pt/">
                 <img src="/img/logo/logo_h_md.png" height="42" alt="Land&Sea Alentejo">
             </a>
 
@@ -72,10 +72,10 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link smooth-scroll" href="#about">Quem Somos</a>
+                        <a class="nav-link" href="/pt/about">Quem Somos</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link smooth-scroll" href="#transfers">Transfers</a>
+                        <a class="nav-link" href="/pt/transfers">Transfers</a>
                     </li>
 
                     <!-- Dropdown -->
@@ -89,16 +89,16 @@
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link smooth-scroll" href="#contacts">Contatos</a>
+                        <a class="nav-link" href="/pt/contacts">Contatos</a>
                     </li>
-                    <!-- Dropdown -->
+                    <!-- Dropdown 
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">PT</a>
                         <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuLink">
                             <a class="dropdown-item" href="/en/">EN</a>
                             <a class="dropdown-item" href="/pt/">PT</a>
                         </div>
-                    </li>
+                    </li>-->
                 </ul>
                 <!-- Links -->
             </div>
@@ -771,10 +771,10 @@
                     </h6>
                     <hr class="orange accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
                     <p>
-                        <a href="#!">Partidas/Chegadas</a>
+                        <a href="/pt/transfers">Partidas/Chegadas</a>
                     </p>
                     <p>
-                        <a href="#!">Profissionais</a>
+                        <a href="/pt/transfers">Profissionais</a>
                     </p>
                 </div>
                 <!--/.Second column-->
@@ -786,13 +786,13 @@
                     </h6>
                     <hr class="orange accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
                     <p>
-                        <a href="#!">Aventura</a>
+                        <a href="/pt/tours/aventura">Aventura</a>
                     </p>
                     <p>
-                        <a href="#!">Culturais</a>
+                        <a href="/pt/tours/cultura">Culturais</a>
                     </p>
                     <p>
-                        <a href="#!">Enoturismo</a>
+                        <a href="/pt/tours/enoturismo">Enoturismo</a>
                     </p>
                 </div>
                 <!--/.Third column-->
