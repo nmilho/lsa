@@ -51,7 +51,7 @@
         <nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar" style="background-color: #0f75e6;">
             <div class="container">
             <!-- Navbar brand -->
-            <a class="navbar-brand" href="#">
+            <a class="navbar-brand" href="/pt/">
                 <img src="/img/logo/logo_h_md.png" height="42" alt="Land&Sea Alentejo">
             </a>
 
@@ -213,7 +213,7 @@
                                             <!-- Category & Title -->
                                             <h5><p class="dark-grey-text">Pacote Zambujeira/Almograve</p></h5>
                                             <p class="dark-grey-text">Viagem com Almoço<br/>Mini. 3pax - Max 7pax</p>
-                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 65€</a>
+                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 60€</a>
                                         </div>
                                         <!-- ./Card content -->
                                     </div>
@@ -227,7 +227,7 @@
                                             <!-- Category & Title -->
                                             <h5><p class="dark-grey-text">Pacote Zambujeira/Almograve</p></h5>
                                             <p class="dark-grey-text">Viagem sem Almoço<br/>Mini. 3pax - Max 7pax</p>
-                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 55€</a>
+                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 45€</a>
                                         </div>
                                         <!-- ./Card content -->
                                     </div>
@@ -241,7 +241,7 @@
                                             <!-- Category & Title -->
                                             <h5><p class="dark-grey-text">Pacote Milfontes/Porto Covo</p></h5>
                                             <p class="dark-grey-text">Viagem com Almoço<br/>Mini. 3pax - Max 7pax</p>
-                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 60€</a>
+                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 55€</a>
                                         </div>
                                         <!-- ./Card content -->
                                     </div>
@@ -255,7 +255,7 @@
                                             <!-- Category & Title -->
                                             <h5><p class="dark-grey-text">Pacote Milfontes/Porto Covo</p></h5>
                                             <p class="dark-grey-text">Viagem sem Almoço<br/>Mini. 3pax - Max 7pax</p>
-                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 50€</a>
+                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 40€</a>
                                         </div>
                                         <!-- ./Card content -->
                                     </div>

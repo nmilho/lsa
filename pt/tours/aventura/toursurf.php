@@ -51,7 +51,7 @@
         <nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar" style="background-color: #0f75e6;">
             <div class="container">
             <!-- Navbar brand -->
-            <a class="navbar-brand" href="#">
+            <a class="navbar-brand" href="/pt/">
                 <img src="/img/logo/logo_h_md.png" height="42" alt="Land&Sea Alentejo">
             </a>
 
@@ -157,7 +157,7 @@
                                                 <div class="card-body text-center">
                                                     <!-- Category & Title -->
                                                     <p class="dark-grey-text">Mini. 3pax - Max 7pax</p>
-                                                    <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 50€/pax</a>
+                                                    <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 45€/pax</a>
                                                 </div>
                                                 <!-- ./Card content -->
                                             </div>
@@ -202,7 +202,7 @@
                                                 <div class="card-body text-center">
                                                     <!-- Category & Title -->
                                                     <p class="dark-grey-text">Mini. 3pax - Max 7pax</p>
-                                                    <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 40€/pax</a>
+                                                    <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 35€/pax</a>
                                                 </div>
                                                 <!-- ./Card content -->
                                             </div>

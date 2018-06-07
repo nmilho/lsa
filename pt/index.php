@@ -290,7 +290,7 @@
                 <div class="container">
                     <!-- Heading -->
                     <h2 class="title dark-grey-text">Land & Sea Alentejo</h2>
-                    <p class="subtitle blue-text mb-5">O Alentejo mais perto de si</p>
+                    <p class="subtitle blue-text mb-5">Serviço de excelência!!</p>
 
                     <!--Grid row-->
                     <div class="row">
@@ -310,18 +310,15 @@
                         <!--Grid column-->
                         <div class="col-lg-7 col-xl-7">
                             <p class="text-left">
-                                Com o objetivo de dar a conhecer e desenvolver o turismo local - da costa ao mais profundo
-                                Alentejo - foi criada a Empresa Land &amp; Sea Alentejo, com um serviço de qualidade em que o
-                                foco é satisfazer e fidelizar os nossos clientes.
+                                Queremos mostrar tudo o que o Alentejo tem de melhor; sua cultura, paisagem e sua gastronomia!!
                             </p>
-                            <p class="text-left">
-                                Vamos fazer chegar até si o melhor que o nosso Alentejo tem para oferecer, desde tours às nossas cidades e vilas, bem como à nossa costa; explorar o enoturismo; viajar no lago do Alqueva ou ter grandes aventuras radicais - e claro, dar a oportunidade de provar as especialidades da gastronomia Alentejana.
-                            </p>
-                            <p class="text-left">
-                                Queremos também fazer chegar a si um pouco mais do nosso país, através de tours a Lisboa,
-                                Évora e Algarve.
-                                Todos os roteiros/tours podem ser ajustados às necessidades dos clientes.
-                            </p>
+                            <ul class="text-left">
+                                <li>Águas, WIFI e mapa da cidade grátis.</li>
+                                <li>Motorista com uma placa á sua espera.</li>
+                                <li>Pagamento exclusivo no final.</li>
+                                <li>Viaturas Mercedes recentes.</li>
+                                <li>Procedimento simples e eficiente.</li>
+                            </ul>
 
                         </div>
                         <!--Grid column-->
@@ -888,43 +885,43 @@
                     <tbody>
                         <tr>
                             <th scope="row">Beja <i class="fa fa-caret-right"></i> Lisboa Apt</th>
-                            <td>215€</td>
-                            <td>245€</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Faro Apt</th>
-                            <td>190€</td>
-                            <td>220€</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Sines</th>
-                            <td>110€</td>
-                            <td>140€</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Zambujeira</th>
-                            <td>140€</td>
-                            <td>170€</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Évora</th>
-                            <td>95€</td>
-                            <td>125€</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Albufeira</th>
-                            <td>170€</td>
-                            <td>200€</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Lagos</th>
                             <td>200€</td>
                             <td>230€</td>
                         </tr>
                         <tr>
+                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Faro Apt</th>
+                            <td>175€</td>
+                            <td>205€</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Sines</th>
+                            <td>100€</td>
+                            <td>130€</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Zambujeira</th>
+                            <td>120€</td>
+                            <td>150€</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Évora</th>
+                            <td>85€</td>
+                            <td>115€</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Albufeira</th>
+                            <td>150€</td>
+                            <td>180€</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Lagos</th>
+                            <td>180€</td>
+                            <td>210€</td>
+                        </tr>
+                        <tr>
                             <th scope="row">Beja <i class="fa fa-caret-right"></i> Vila Real Sto. António</th>
-                            <td>170€</td>
-                            <td>200€</td>
+                            <td>150€</td>
+                            <td>180€</td>
                         </tr>
                         <tr>
                             <th scope="row">Beja <i class="fa fa-caret-right"></i> Sevilha</th>

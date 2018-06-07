@@ -51,7 +51,7 @@
         <nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar" style="background-color: #0f75e6;">
             <div class="container">
             <!-- Navbar brand -->
-            <a class="navbar-brand" href="#">
+            <a class="navbar-brand" href="/pt/">
                 <img src="/img/logo/logo_h_md.png" height="42" alt="Land&Sea Alentejo">
             </a>
 
@@ -132,7 +132,12 @@
                     <div class="row">
 
                         <div class="col-md-7">
-                            <p class="text-left mb-5">A Amieira  Marina  nasce no lago do Alqueva, da vontade de proporcionar aos seus clientes uma oferta de excelência no que diz respeito ao turismo fluvial, por isso proporciona-lhes a descoberta da magia do Alentejo. Aqui, pode realizar diversas atividades, desde Pequenos Cruzeiros a Estadias em Barcos Casa ou em Casas Flutuantes repletas de experiências únicas, em pleno coração do Alentejo.</p>
+                            <p class="text-left mb-5">
+                                A Amieira  Marina  nasce no lago do Alqueva, da vontade de proporcionar aos seus clientes uma oferta de excelência no que diz respeito ao turismo fluvial, por isso proporciona-lhes a descoberta da magia do Alentejo. 
+                                Aqui, pode realizar diversas atividades, desde Pequenos Cruzeiros a Estadias em Barcos Casa ou em Casas Flutuantes repletas de experiências únicas, em pleno coração do Alentejo.
+                                <br/>
+                                Existem ainda a possibilidade de usufruir de outras atividades como stand up Paddle, canoagem, sky wake entre outros!!
+                            </p>
                             <h2 class="dark-grey-text text-left">Pacote com pernoita</h2>
                             <p class="text-left">De entre os produtos e serviços que oferecemos, destaco o Cruzeiro de 1 dia num Barco Casa: Aqui o Capitão da embarcação será o próprio cliente, não sendo necessário ter prévia experiência de navegação. Os técnicos responsáveis ministram uma formação teórico-prática (2h) cujo objetivo é preparar o Cliente para as técnicas básicas de navegação. Todos os Barcos Casa estão equipados com Sala Kitchenette, permitindo confecionar a refeição a bordo.  O valor (PVP) serão 300,00€ até 8pax e 360,00€ até 12pax.</p>
 
@@ -168,8 +173,8 @@
                                     <!-- Category & Title -->
                                     <h5><p class="dark-grey-text">Pacote com Pernoita</p></h5>
                                     <p class="dark-grey-text">Preço da viagem</p>
-                                    <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>De 1 a 3pax<br/><strong>Desde 55€/pax</strong></a>
-                                    <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>De 4 a 7pax<br/><strong>Desde 50€/pax</strong></a>
+                                    <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>De 1 a 3pax<br/><strong>Desde 50€/pax</strong></a>
+                                    <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>De 4 a 7pax<br/><strong>Desde 40€/pax</strong></a>
                                 </div>
                                 <!-- ./Card content -->
                             </div>
@@ -184,8 +189,8 @@
                                     <!-- Category & Title -->
                                     <h5><p class="dark-grey-text">Pacote dia</p></h5>
                                     <p class="dark-grey-text">Preço da viagem</p>
-                                    <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>De 1 a 3pax<br/><strong>Desde 35€/pax</strong></a>
-                                    <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>De 4 a 7pax<br/><strong>Desde 30€/pax</strong></a>
+                                    <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>De 1 a 3pax<br/><strong>Desde 30€/pax</strong></a>
+                                    <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>De 4 a 7pax<br/><strong>Desde 25€/pax</strong></a>
                                 </div>
                                 <!-- ./Card content -->
                             </div>

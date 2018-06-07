@@ -51,7 +51,7 @@
         <nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar" style="background-color: #0f75e6;">
             <div class="container">
             <!-- Navbar brand -->
-            <a class="navbar-brand" href="#">
+            <a class="navbar-brand" href="/pt/">
                 <img src="/img/logo/logo_h_md.png" height="42" alt="Land&Sea Alentejo">
             </a>
 
@@ -184,7 +184,7 @@
                                         <div class="card-body text-center">
                                             <!-- Category & Title -->
                                             <h5><p class="dark-grey-text">Pacote único com minimo 3 e máximo de 7 pessoas</p></h5>
-                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 85€ por pessoa</a>
+                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 65€ por pessoa</a>
                                         </div>
                                         <!-- ./Card content -->
                                     </div>

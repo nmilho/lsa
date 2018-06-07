@@ -51,7 +51,7 @@
          <nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar" style="background-color: #0f75e6;">
             <div class="container">
             <!-- Navbar brand -->
-            <a class="navbar-brand" href="#">
+            <a class="navbar-brand" href="/pt/">
                 <img src="/img/logo/logo_h_md.png" height="42" alt="Land&Sea Alentejo">
             </a>
 
@@ -452,43 +452,43 @@
                     <tbody>
                         <tr>
                             <th scope="row">Beja <i class="fa fa-caret-right"></i> Lisboa Apt</th>
-                            <td>215€</td>
-                            <td>245€</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Faro Apt</th>
-                            <td>190€</td>
-                            <td>220€</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Sines</th>
-                            <td>110€</td>
-                            <td>140€</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Zambujeira</th>
-                            <td>140€</td>
-                            <td>170€</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Évora</th>
-                            <td>95€</td>
-                            <td>125€</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Albufeira</th>
-                            <td>170€</td>
-                            <td>200€</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Lagos</th>
                             <td>200€</td>
                             <td>230€</td>
                         </tr>
                         <tr>
+                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Faro Apt</th>
+                            <td>175€</td>
+                            <td>205€</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Sines</th>
+                            <td>100€</td>
+                            <td>130€</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Zambujeira</th>
+                            <td>120€</td>
+                            <td>150€</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Évora</th>
+                            <td>85€</td>
+                            <td>115€</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Albufeira</th>
+                            <td>150€</td>
+                            <td>180€</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Beja <i class="fa fa-caret-right"></i> Lagos</th>
+                            <td>180€</td>
+                            <td>210€</td>
+                        </tr>
+                        <tr>
                             <th scope="row">Beja <i class="fa fa-caret-right"></i> Vila Real Sto. António</th>
-                            <td>170€</td>
-                            <td>200€</td>
+                            <td>150€</td>
+                            <td>180€</td>
                         </tr>
                         <tr>
                             <th scope="row">Beja <i class="fa fa-caret-right"></i> Sevilha</th>

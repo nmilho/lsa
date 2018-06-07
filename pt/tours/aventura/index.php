@@ -51,7 +51,7 @@
         <nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar">
             <div class="container">
             <!-- Navbar brand -->
-            <a class="navbar-brand" href="#">
+            <a class="navbar-brand" href="/pt/">
                 <img src="/img/logo/logo_h_md.png" height="42" alt="Land&Sea Alentejo">
             </a>
 
@@ -165,7 +165,7 @@
                         <!--Column-->
                         <div class="col-md-12 mb-5">
                             <h2 class="title dark-grey-text">Roteiros Aventura</h2>
-                            <h4 class="dark-grey-text">Aventurare-se nas actividades que lhe propomos!</h4>
+                            <h4 class="dark-grey-text">Aventurar-se nas actividades que lhe propomos!</h4>
                         </div>
                         <!--/.Column-->
 

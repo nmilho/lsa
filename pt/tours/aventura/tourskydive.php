@@ -5,9 +5,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Land&Sea Alentejo | Roteiros: Tour e passeio por Évora</title>
+    <title>Land&Sea Alentejo | Roteiros: Tour Skydive - Saltos Tandem</title>
 
-    <meta name="description" content="Tour e passeio cultural por Évora">
+    <meta name="description" content="Venha até ao Alentejo fazer um Salto Tandem na escola de paraquedismo Skydive Europe.">
 
     <link rel="canonical" href="http://www.landseaalentejo.com/">
 
@@ -18,10 +18,10 @@
 
     <meta property="og:locale" content="pt_PT">
     <meta property="og:site_name" content="Land and Sea Alentejo">
-    <meta property="og:title" content="Land&Sea Alentejo | Roteiros: Tour e passeio por Évora">
+    <meta property="og:title" content="Land&Sea Alentejo | Roteiros: Tour Skydive - Saltos Tandem">
     <meta property="og:url" content="http://www.landseaalentejo.com/">
     <meta property="og:type" content="website">
-    <meta property="og:description" content="Tour e passeio cultural por Évora">
+    <meta property="og:description" content="Venha até ao Alentejo fazer um Salto Tandem na escola de paraquedismo Skydive Europe.">
 
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -51,7 +51,7 @@
         <nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar" style="background-color: #0f75e6;">
             <div class="container">
             <!-- Navbar brand -->
-            <a class="navbar-brand" href="#">
+            <a class="navbar-brand" href="/pt/">
                 <img src="/img/logo/logo_h_md.png" height="42" alt="Land&Sea Alentejo">
             </a>
 
@@ -117,9 +117,9 @@
                     <div class="row">
                         <div class="col-md-12 mb-4">
                             <!-- Heading -->
-                            <h2 class="title dark-grey-text">Tour Évora</h2>
+                            <h2 class="title dark-grey-text">Tour Skydive</h2>
 
-                            <div class="card card-image" style="background: url(/photos/tours/cultura/evora/pracagiraldos.jpg) -0 -190px; height: 300px;">
+                            <div class="card card-image" style="background: url(/photos/tours/aventura/skydive/skydive05.jpg) -0 -190px; height: 300px;">
                                 <div class="text-white text-center d-flex align-items-center rgba-black-light py-5 px-4 rounded" style="height: 300px;">
                                     
                                 </div>
@@ -127,35 +127,39 @@
                         </div>
                     </div>
                     
-                    <p class="text-left">Cidade que te leva a viajar no tempo! A qual foi declarada património mundial em 1986 pela Unesco.<br/>Recorta-se sobre uma suave colina no vasto horizonte da planície alentejana, e guarda o seu centro histórico, rodeado de uma vasta cintura de muralhas, uma valiosa herança cultural.</p>
+                    <p class="text-left">Venha até ao Alentejo e será levado a fazer um Salto Tandem na escola de paraquedismo de Mário Pardo!</p>
 
                     <div class="row">
                         <div class="col-md-12 mb-4">
 
-                            <h2 class="dark-grey-text text-left">Locais a Visitar</h2>
+                            <h2 class="dark-grey-text text-left">A Skydive Europe leva-o a dar um "mergulho no céu"!</h2>
 
                             <div class="row">
 
                                 <div class="col-md-7">
 
-                                    <ul class="text-left">
-                                        <li>Praça do Giraldo</li>
-                                        <li>Catedral de Évora</li>
-                                        <li>Museu de Évora</li>
-                                        <li>Templo de Diana</li>
-                                        <li>Palácio Cadaval</li>
-                                        <li>Aqueduto da água da prata</li>
-                                        <li>Igreja da Misericórdia e da Graça e a de S. Francisco</li>
-                                        <li>Capela dos Ossos</li>
-                                        <li>Muralhas Medievais</li>
-                                    </ul>
+                                    <p class="text-left">
+                                        É a melhor experiência para quem deseja saber o que é Voar.
+                                        <br/>
+                                        A emoção sente-se desde o primeiro momento.
+                                        <br/>
+                                        Em pleno céu, a porta do avião abre-se e... a partir daí a adrenalina é total, no seu estado mais puro!
+                                        <br/>
+                                        É momento de sentir a queda-livre, uma acelerada descida pelos céus, acompanhada de um instrutor experiente que lhe dá muita confiança.
+                                        <br/>
+                                        Depois, o paraquedas abre.
+                                        <br/>
+                                        Aí, passará a desfrutar de uma sensação de paz e plenitude incrível, no corpo, mente e alma.
+                                        <br/>
+                                        Quando chega ao solo, numa aterragem suave, sente uma alegria imensa por ter realizado algo totalmente louco e grandioso!
+                                    </p>
 
                                 </div>
 
                                 <div class="col-md-5">
                                     <figure class="figure">
-                                        <img src="/photos/tours/cultura/evora/capelaossos.jpg" class="img-fluid rounded z-depth-1">
-                                        <figcaption class="figure-caption">Capela dos Ossos.</figcaption>
+                                        <img src="/photos/tours/aventura/skydive/skydive04.jpg" class="img-fluid rounded z-depth-1">
+                                        <figcaption class="figure-caption">Salto tandem</figcaption>
                                     </figure>
                                 </div>
 
@@ -168,25 +172,49 @@
                                 <div class="col-md-7">
 
                                     <ul class="text-left">
-                                        <li>Partida de Beja as 9.00 hrs com 50 min de viagem</li>
-                                        <li>Passeio livre pela cidade com oferta de guias/mapas turísticos</li>
-                                        <li>Almoço livre</li>
-                                        <li>Regresso a Beja 17.00</li>
-                                        <li>Horário pode ser ajustado à medida do cliente</li>
-                                        <li>Valores calculados com partida de Beja ou arredores</li>
-                                        <li>Distâncias superiores sujeitas a ajustamento.</li>
+                                        <li>Partida de Beja ou arredores com hora a combinar.</li>
+                                        <li>Regresso a Beja após salto.</li>
+                                        <li>O pagamento do salto é feito  directamente à SKYDIVE  EUROPE</li>
+                                        <li>Partidas de outros locais sujeitos a ajustamento.</li>
+                                        <li>Valores apresentados por passageiro com um mínimo de 3 pessoas.</li>
                                     </ul>
 
                                 </div>
 
                                 <div class="col-md-5">
+                                    <figure class="figure">
+                                        <img src="/photos/tours/aventura/skydive/skydive01.jpg" class="img-fluid rounded z-depth-1">
+                                        <figcaption class="figure-caption">Queda livre</figcaption>
+                                    </figure>
+                                </div>
+
+
+                            </div>
+
+                            <div class="row">
+
+                                <div class="col-md-6">
                                     <!-- Card -->
                                     <div class="card align-items-center">
                                         <!-- Card content -->
                                         <div class="card-body text-center">
                                             <!-- Category & Title -->
-                                            <h5><p class="dark-grey-text">Pacote único com minimo 3 e máximo de 7 pessoas</p></h5>
-                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 50€ por pessoa</a>
+                                            <h5><p class="dark-grey-text">Pacote de 1 a 3 pessoas</p></h5>
+                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 20€ por pessoa</a>
+                                        </div>
+                                        <!-- ./Card content -->
+                                    </div>
+                                    <!-- ./Card -->
+                                </div>
+
+                                <div class="col-md-6">
+                                    <!-- Card -->
+                                    <div class="card align-items-center">
+                                        <!-- Card content -->
+                                        <div class="card-body text-center">
+                                            <!-- Category & Title -->
+                                            <h5><p class="dark-grey-text">Pacote de 4 a 7 pessoas</p></h5>
+                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 17€ por pessoa</a>
                                         </div>
                                         <!-- ./Card content -->
                                     </div>
