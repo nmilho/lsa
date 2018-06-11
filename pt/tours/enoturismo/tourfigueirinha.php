@@ -117,9 +117,9 @@
                     <div class="row">
                         <div class="col-md-12 mb-4">
                             <!-- Heading -->
-                            <h2 class="title dark-grey-text">Tour Alqueva</h2>
+                            <h2 class="title dark-grey-text">Tour Herdade da Figueirinha</h2>
 
-                            <div class="card card-image" style="background: url(/photos/tours/enoturismo/figueirinha/figueirinha.jpg) 0 -700px; background-size: 1120px; height: 300px;">
+                            <div class="card card-image" style="background: url(/photos/tours/enoturismo/figueirinha/figueirinha01.jpg) 0 -300px; background-size: 1120px; height: 300px;">
                                 <div class="text-white text-center d-flex align-items-center rgba-black-light py-5 px-4 rounded" style="height: 300px;">
                                     
                                 </div>

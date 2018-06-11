@@ -866,7 +866,7 @@
             <div class="modal-body">
                 <p><small>Valores calculados com partida/chegada a Beja.<br/>
                 Distâncias superiores sujeitas a ajustamento.<br/><strong>
-                Em caso de viagem de ida/volta 25% de desconto na viagem de regresso.</strong></small></p>
+                Em caso de viagem de ida/volta 10% de desconto na viagem de regresso.</strong></small></p>
                 
                 <!--Table-->
                 <table class="table rounded-corners table-hover">
