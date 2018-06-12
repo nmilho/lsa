@@ -5,9 +5,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Land&Sea Alentejo | Roteiros: Culturais</title>
+    <title>Land&Sea Alentejo | Roteiros: Tour e passeio por Mértola e Serpa</title>
 
-    <meta name="description" content="Passeios por Alentejo, Algarve e Lisboa.">
+    <meta name="description" content="Tour e passeio cultural pelas vilas de Mértola e Serpa">
 
     <link rel="canonical" href="http://www.landseaalentejo.com/">
 
@@ -18,10 +18,10 @@
 
     <meta property="og:locale" content="pt_PT">
     <meta property="og:site_name" content="Land and Sea Alentejo">
-    <meta property="og:title" content="Land&Sea Alentejo | Roteiros: Culturais">
+    <meta property="og:title" content="Land&Sea Alentejo | Roteiros: Tour e passeio por Mértola e Serpa">
     <meta property="og:url" content="http://www.landseaalentejo.com/">
     <meta property="og:type" content="website">
-    <meta property="og:description" content="Passeios por Alentejo, Algarve e Lisboa.">
+    <meta property="og:description" content="Tour e passeio cultural pelas vilas de Mértola e Serpa">
 
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -46,9 +46,9 @@
 <!-- Start your project here-->
 
     <!--Main Navigation-->
-    <header >
+    <header style="height: auto; margin-top: 75px;" >
         <!--Navbar-->
-        <nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar">
+        <nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar" style="background-color: #0f75e6;">
             <div class="container">
             <!-- Navbar brand -->
             <a class="navbar-brand" href="/pt/">
@@ -105,213 +105,168 @@
         </nav>
         <!--/.Navbar-->   
 
-        
-
-        <!--Mask-->
-        <div id="intro" class="view" >
-
-            <div class="full-bg-img">
-
-                <div class="mask rgba-black-slight">
-
-                    <div class="container-fluid d-flex align-items-center justify-content-center h-100">
-
-                        <div class="row d-flex justify-content-center text-center">
-
-                            <div class="col-md-12">
-
-                                <!-- Heading -->
-                                <h2 class="display-3 font-weight-bold white-text mb-2">Roteiros Culturais</h2>
-
-                                <!-- Divider -->
-                                <hr class="hr-light">
-
-                                <!-- Description -->
-                                <h4 class="white-text my-4">Disfrute dos melhores passeios pelo Alentejo, Algarve e Lisboa.</h4>
-                                <button type="button" class="btn btn-outline-white">Saiba mais</button>
-
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-            </div>
-
-        </div>
-        <!--/.Mask-->
-
-
-
-                    
     </header>
     <!--Main Navigation-->
 
     <!--Main layout-->
-    <main>
+    <main class="mt-5">
 
             <!--Section: Tours Index-->
-            <section id="toursindex" class="text-center py-5">
-
+            <section id="toursindex" class="text-center py-5" style="background-color: #fff;">
                 <div class="container">
-                    <!-- Heading 
-                    <h2 class="title dark-grey-text">Roteiros</h2>
-                    <p class="subtitle blue-text mb-5">Temos os melhores roteiros para si</p>-->
-
-                    <!--Grid row-->
                     <div class="row">
-                        <!--Column-->
-                        <div class="col-md-12 mb-5">
-                            <h2 class="title dark-grey-text">Roteiros Culturais</h2>
-                            <h4 class="dark-grey-text">Passeios temáticos pelo alentejo, algarve e Lisboa.</h4>
-                        </div>
-                        <!--/.Column-->
+                        <div class="col-md-12 mb-4">
+                            <!-- Heading -->
+                            <h2 class="title dark-grey-text">Tour Mértola e Serpa</h2>
 
-                        <!--Column-->
-                        <div class="col-md-12 mb-5">
+                            <div class="card card-image" style="background: url(/photos/tours/cultura/mertolaserpa/mertola00.jpg) -0px -40px; background-size: 1110px; height: 300px;">
+                                <div class="text-white text-center d-flex align-items-center rgba-black-light py-5 px-4 rounded" style="height: 300px;">
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <p class="text-left">Serpa, cidade branca que surpreende quem visita com um património rico e uma gastronomia típica do Alentejo.</p>
+                    <p class="text-left">Mértola, vila Museu que nas suas ruas estreitas ficaram as marcas das civilizações romanas e islâmicas. Uma viagem ao passado.</p>
+                    
+
+                    <div class="row">
+                        <div class="col-md-12 mb-4">
+
+                            <h2 class="dark-grey-text text-left">Tour de 1 dia a Serpa e Mértola</h2>
 
                             <div class="row">
-                                <!-- Card -->
-                                <div class="col-md-4 col-sm-6">
-                                    <a href="tourbeja.php" class="nav-link">
-                                        <div class="card card-image" style="background-image: url(/photos/tours/cultura/beja.jpg);">
 
-                                        <!-- Content -->
-                                        
-                                            <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
-                                                <div class="w-100">
-                                                    <h3 class="orange-text card-title pt-2"><strong>Beja</strong></h3>
-                                                    <h5 class="">Um passeio pela cidade de Beja.</h5>
-                                                </div>
-                                            </div>
-                                        
-                                        <!-- Content -->
-                                        
-                                        </div>
-                                    </a>
+
+                                <div class="col-md-7">
+
+                                    <h3 class="dark-grey-text text-left">O passeio inclui</h3>
+                                    <ul class="text-left">
+                                        <li>Partida de Beja às 9.00 horas com viagem de 30 min.</li>
+                                        <li>Passeio livre pela cidade com oferta de guias/mapas turísticos.</li>
+                                        <li>Almoço às 12.30 do Restaurante típico “Molha-o-Bico”.</li>
+                                        <li>Partida para Mértola 14.30 com 45 min de viagem.</li>
+                                        <li>Passeio livre pela vila com oferta de guias/mapas turísticos.</li>
+                                        <li>Possibilidade, mediante de reserva previa, de ter um guia local (pagamento adicional).</li>
+                                        <li>Regresso a Beja por volta das 17.30</li>
+                                        <li>Horário pode ser ajustado à medida do cliente.</li>
+                                    </ul>
+
+
+                                    <h3 class="dark-grey-text text-left">Locais a não perder em Serpa</h3>
+
+                                    <ul class="text-left">
+                                        <li>Castelo, muralhas e aqueduto</li>
+                                        <li>Centro Histórico</li>
+                                        <li>Torre do Relógio</li>
+                                        <li>Palácio Ficalho</li>
+                                        <li>Museo Etnografico</li>
+                                        <li>Igreja do Salvador</li>
+                                        <li>Museo do Relógio</li>
+                                        <li>Museo Arqueológico</li>
+                                    </ul>
+
+                                    <h3 class="dark-grey-text text-left">Locais a não perder em Mértola</h3>
+
+                                    <ul class="text-left">
+                                        <li>Castelo</li>
+                                        <li>Antiga Mesquita / Igreja Matriz</li>
+                                        <li>Torre do Rio</li>
+                                        <li>Circuito de visitas de Alcáçovas</li>
+                                        <li>Museo de Mértola</li>
+                                        <li>Casa Amarela, casa Romana</li>
+                                    </ul>
+
                                 </div>
-                                <!-- Card -->
 
-                                <!-- Card -->
-                                <div class="col-md-4 col-sm-6">
-                                    <a href="tourcostaalentejana.php" class="nav-link">
-                                        <div class="card card-image" style="background-image: url(/photos/tours/cultura/costaalentejana.jpg); background-size: 600px; background-position: 0;">
+                                <div class="col-md-5">
+                                    <figure class="figure">
+                                        <img src="/photos/tours/cultura/mertolaserpa/serpa04.jpg" class="img-fluid rounded z-depth-1">
+                                        <figcaption class="figure-caption">Serpa</figcaption>
+                                    </figure>
 
-                                        <!-- Content -->
-                                        
-                                            <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
-                                                <div class="w-100">
-                                                    <h3 class="orange-text card-title pt-2"><strong>Costa Alentejana</strong></h3>
-                                                    <h5 class="">Um passeio pela costa Alentejana.</h5>
-                                                </div>
-                                            </div>
-                                        
-                                        <!-- Content -->
-                                        
-                                        </div>
-                                    </a>
+                                    <figure class="figure">
+                                        <img src="/photos/tours/cultura/mertolaserpa/mertola03.jpg" class="img-fluid rounded z-depth-1">
+                                        <figcaption class="figure-caption">Mértola</figcaption>
+                                    </figure>
                                 </div>
-                                <!-- Card -->
-
-                                <!-- Card -->
-                                <div class="col-md-4 col-sm-6">
-                                    <a href="tourevora.php" class="nav-link">
-                                        <div class="card card-image" style="background-image: url(/photos/tours/cultura/evora.jpg);">
-
-                                        <!-- Content -->
-                                        
-                                            <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
-                                                <div class="w-100">
-                                                    <h3 class="orange-text card-title pt-2"><strong>Évora</strong></h3>
-                                                    <h5 class="">Um passeio pela cidade de Évora.</h5>
-                                                </div>
-                                            </div>
-                                        
-                                        <!-- Content -->
-                                        
-                                        </div>
-                                    </a>
-                                </div>
-                                <!-- Card -->
-
-                                <!-- Card -->
-                                <div class="col-md-4 col-sm-6">
-                                    <a href="tourserpamertola.php" class="nav-link">
-                                        <div class="card card-image" style="background-image: url(/photos/tours/cultura/serpa.jpg);">
-
-                                        <!-- Content -->
-                                        
-                                            <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
-                                                <div class="w-100">
-                                                    <h3 class="orange-text card-title pt-2"><strong>Mértola e Serpa</strong></h3>
-                                                    <h5 class="">Passeie por duas das mais lindas vilas do Alentejo.</h5>                                                       
-                                                </div>
-                                            </div>
-                                        
-                                        <!-- Content -->
-                                        
-                                        </div>
-                                    </a>
-                                </div>
-                                <!-- Card -->
-
-                                <!-- Card -->
-                                <div class="col-md-4 col-sm-6">
-                                    <a href="touralgarve.php" class="nav-link">
-                                        <div class="card card-image" style="background-image: url(/photos/tours/cultura/algarve.jpg);">
-
-                                        <!-- Content -->
-                                        
-                                            <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
-                                                <div class="w-100">
-                                                    <h3 class="orange-text card-title pt-2"><strong>Algarve</strong></h3>
-                                                    <h5 class="">Venha passear e descobrir o Algarve.</h5>
-                                                </div>
-                                            </div>
-                                        
-                                        <!-- Content -->
-                                        
-                                        </div>
-                                    </a>
-                                </div>
-                                <!-- Card -->
-
-                                <!-- Card -->
-                                <div class="col-md-4 col-sm-6">
-                                    <a href="tourlisboa.php" class="nav-link">
-                                        <div class="card card-image" style="background-image: url(/photos/tours/cultura/lisboa.jpg);">
-
-                                        <!-- Content -->
-                                        
-                                            <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
-                                                <div class="w-100">
-                                                    <h3 class="orange-text card-title pt-2"><strong>Lisboa</strong></h3>
-                                                    <h5 class="">Venha passear pela capital do país e da cultura.</h5>
-                                                </div>
-                                            </div>
-                                        
-                                        <!-- Content -->
-                                        
-                                        </div>
-                                    </a>
-                                </div>
-                                <!-- Card -->
 
                             </div>
+                            
 
+                            <h2 class="dark-grey-text text-left">Pacotes Disponíveis</h2>
+                            <div class="row">
 
+                                <div class="col-md-3 col-sm-6 col-xs-12 my-3">
+                                    <!-- Card -->
+                                    <div class="card align-items-center">
+                                        <!-- Card content -->
+                                        <div class="card-body text-center">
+                                            <!-- Category & Title -->
+                                            <h5><p class="dark-grey-text">Pacote VIP (1 dia)</p></h5>
+                                            <p class="dark-grey-text">Viagem com Almoço<br/>Mini. 3pax - Max 7pax</p>
+                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 55€</a>
+                                        </div>
+                                        <!-- ./Card content -->
+                                    </div>
+                                    <!-- ./Card -->
+                                </div>
+                                <div class="col-md-3 col-sm-6 col-xs-12 my-3">
+                                    <!-- Card -->
+                                    <div class="card align-items-center">
+                                        <!-- Card content -->
+                                        <div class="card-body text-center">
+                                            <!-- Category & Title -->
+                                            <h5><p class="dark-grey-text">Pacote LowCost (1 dia)</p></h5>
+                                            <p class="dark-grey-text">Viagem sem Almoço<br/>Mini. 3pax - Max 7pax</p>
+                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 45€</a>
+                                        </div>
+                                        <!-- ./Card content -->
+                                    </div>
+                                    <!-- ./Card -->
+                                </div>
+                                <div class="col-md-3 col-sm-6 col-xs-12 my-3">
+                                    <!-- Card -->
+                                    <div class="card align-items-center">
+                                        <!-- Card content -->
+                                        <div class="card-body text-center">
+                                            <!-- Category & Title -->
+                                            <h5><p class="dark-grey-text">Pacote 1/2 dia a Serpa</p></h5>
+                                            <p class="dark-grey-text">Manhã ou Trade<br/>Mini. 3pax - Max 7pax</p>
+                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 22,50€</a>
+                                        </div>
+                                        <!-- ./Card content -->
+                                    </div>
+                                    <!-- ./Card -->
+                                </div>
+                                <div class="col-md-3 col-sm-6 col-xs-12 my-3">
+                                    <!-- Card -->
+                                    <div class="card align-items-center">
+                                        <!-- Card content -->
+                                        <div class="card-body text-center">
+                                            <!-- Category & Title -->
+                                            <h5><p class="dark-grey-text">Pacote 1/2 dia a Mértola</p></h5>
+                                            <p class="dark-grey-text">Manhã ou Trade<br/>Mini. 3pax - Max 7pax</p>
+                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 27,50€</a>
+                                        </div>
+                                        <!-- ./Card content -->
+                                    </div>
+                                    <!-- ./Card -->
+                                </div>
+
+                                <div class="col-md-12">
+                                    <p class="text-left">Valores calculados com partida de Beja ou arredores.<br/>Distâncias superiores sujeitas a ajustamento.<br/>Podemos fazer um pacote à sua medida!!!<br/>Mais informação através do email info@landseaalentejo.com ou telm 965 589 291</p>
+                                </div>
+
+                            </div>
                         </div>
-                        <!--/.Column-->
+
                     </div>
-                    <!--/Grid row-->
 
                 </div>
-                <!--/.Container-->
 
-
-            <section id="toursindex" class="text-center py-5">
+            </section>
             <!--/.Section: Tours Index-->
 
 
@@ -435,10 +390,6 @@
     </div>
     <!--./BackToTop-->
 
-    
-
-
-
 
 <!-- /Start your project here-->
 
@@ -453,7 +404,7 @@
     <script type="text/javascript" src="/js/owl.carousel.min.js"></script>
     <!-- MDB core JavaScript -->
     <script type="text/javascript" src="/js/mdb.min.js"></script>
-    <!-- Smooth-Scroll JavaScript -->
+    <!-- Smooth-Scroll JavaScript
     <script type="text/javascript" src="/js/scripts.js"></script>
     <!-- Precos Script 
     <script type="text/javascript" src="/js/precos.js"></script>
