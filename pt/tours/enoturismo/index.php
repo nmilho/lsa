@@ -238,7 +238,7 @@
 
                                 <!-- Card -->
                                 <div class="col-md-4 col-sm-6">
-                                    <a href="tourbafreixo.php" class="nav-link">
+                                    <a href="tourribafreixo.php" class="nav-link">
                                         <div class="card card-image" style="background-image: url(/photos/tours/enoturismo/ribafreixo.jpg);">
 
                                         <!-- Content -->

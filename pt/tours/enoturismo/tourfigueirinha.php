@@ -131,69 +131,71 @@
 
                     <div class="row">
 
-                        <div class="col-md-7">
-                            <p class="text-left mb-5">A Amieira  Marina  nasce no lago do Alqueva, da vontade de proporcionar aos seus clientes uma oferta de excelência no que diz respeito ao turismo fluvial, por isso proporciona-lhes a descoberta da magia do Alentejo. Aqui, pode realizar diversas atividades, desde Pequenos Cruzeiros a Estadias em Barcos Casa ou em Casas Flutuantes repletas de experiências únicas, em pleno coração do Alentejo.</p>
-                            <h2 class="dark-grey-text text-left">Pacote com pernoita</h2>
-                            <p class="text-left">De entre os produtos e serviços que oferecemos, destaco o Cruzeiro de 1 dia num Barco Casa: Aqui o Capitão da embarcação será o próprio cliente, não sendo necessário ter prévia experiência de navegação. Os técnicos responsáveis ministram uma formação teórico-prática (2h) cujo objetivo é preparar o Cliente para as técnicas básicas de navegação. Todos os Barcos Casa estão equipados com Sala Kitchenette, permitindo confecionar a refeição a bordo.  O valor (PVP) serão 300,00€ até 8pax e 360,00€ até 12pax.</p>
+                        <div class="col-md-4">
 
-                            <h2 class="dark-grey-text text-left">Pacote Dia</h2>
-
-                            <p class="text-left">Outra excelente opção será o Cruzeiro com almoço a bordo na nossa embarcação Guadiana (cap 120 pax), partindo da Amieira Marina e passando pelo Paredão da Barragem. Neste percurso o Cliente vai ter oportunidade de degustar a sua refeição, desfrutando da natureza envolvente (PVP 35,00€/pax).</p>
-
-                            <p class="text-left mt-5"><strong>*Todos os valores não incluiem a viagem.<br/>*Os valores dos produtos oferecidos pela Amieira Marina são pagos directamente.</strong></p>
+                            <figure class="figure">
+                                <img src="/photos/tours/enoturismo/figueirinha/figueirinha02.jpg" class="img-fluid rounded z-depth-1">
+                                <figcaption class="figure-caption">Visita guiada.</figcaption>
+                            </figure>
 
                         </div>
 
-                        <div class="col-md-5">
-                            <figure class="figure">
-                                <img src="/photos/tours/aventura/alqueva/alquevacruzeiros.jpg" class="img-fluid rounded z-depth-1">
-                                <figcaption class="figure-caption">Cruzeiros no Alqueva</figcaption>
-                            </figure>
+                        <div class="col-md-4">
 
                             <figure class="figure">
-                                <img src="/photos/tours/aventura/alqueva/alquevabarcoscasa.jpg" class="img-fluid rounded z-depth-1">
-                                <figcaption class="figure-caption">Barco Casa</figcaption>
+                                <img src="/photos/tours/enoturismo/figueirinha/figueirinha05.jpg" class="img-fluid rounded z-depth-1">
+                                <figcaption class="figure-caption">O Azeite</figcaption>
                             </figure>
+
+                        </div>
+
+                        <div class="col-md-4">
+
+                            <figure class="figure">
+                                <img src="/photos/tours/enoturismo/figueirinha/figueirinha04.jpg" class="img-fluid rounded z-depth-1">
+                                <figcaption class="figure-caption">O Vinho</figcaption>
+                            </figure>
+
                         </div>
 
                     </div>
+
                     <div class="row">
-                        <h2 class="col-md-12 dark-grey-text text-left">Pacotes Disponíveis</h2>
 
-                        <div class="col-md-6 col-sm-6 col-xs-12 my-3">
+                        <div class="col-md-6">                            
                             <!-- Card -->
                             <div class="card align-items-center">
                                 <!-- Card content -->
                                 <div class="card-body text-center">
                                     <!-- Category & Title -->
-                                    <h5><p class="dark-grey-text">Pacote com Pernoita</p></h5>
-                                    <p class="dark-grey-text">Preço da viagem</p>
-                                    <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>De 1 a 3pax<br/><strong>Desde 55€/pax</strong></a>
-                                    <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>De 4 a 7pax<br/><strong>Desde 50€/pax</strong></a>
+                                    <h5><p class="dark-grey-text">De 1 a 3pax</p></h5>
+                                    <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i><strong>Desde 15€/pax</strong></a>
                                 </div>
                                 <!-- ./Card content -->
                             </div>
                             <!-- ./Card -->
                         </div>
 
-                        <div class="col-md-6 col-sm-6 col-xs-12 my-3">
+                        <div class="col-md-6">                            
                             <!-- Card -->
                             <div class="card align-items-center">
                                 <!-- Card content -->
                                 <div class="card-body text-center">
                                     <!-- Category & Title -->
-                                    <h5><p class="dark-grey-text">Pacote dia</p></h5>
-                                    <p class="dark-grey-text">Preço da viagem</p>
-                                    <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>De 1 a 3pax<br/><strong>Desde 35€/pax</strong></a>
-                                    <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>De 4 a 7pax<br/><strong>Desde 30€/pax</strong></a>
+                                    <h5><p class="dark-grey-text">De 4 a 7pax</p></h5>
+                                    <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i><strong>Desde 12€/pax</strong></a>
                                 </div>
                                 <!-- ./Card content -->
                             </div>
                             <!-- ./Card -->
                         </div>
 
-                        <div class="col-md-12">
-                            <p class="text-left">Podemos fazer um pacote à sua medida!!!<br/>Mais informação através do email info@landseaalentejo.com ou telm 965 589 291</p>
+                    </div>
+
+                    <div class="row">
+
+                        <div class="col-md-12 my-5">
+                            <p class="text-left">Podemos fazer um pacote à sua medida!!!<br/>Peça informação através do email info@landseaalentejo.com ou telm 965 589 291</p>
                         </div>
 
                     </div>

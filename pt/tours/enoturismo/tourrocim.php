@@ -5,9 +5,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Land&Sea Alentejo | Roteiros: Tour BTT Radical</title>
+    <title>Land&Sea Alentejo | Roteiros: Tour Enoturismo - Herdade do Rocim</title>
 
-    <meta name="description" content="Tour e passeio radical de btt">
+    <meta name="description" content="Uma propriedade situada entre a Vidigueira e Cuba, no Baixo Alentejo, com cerca de 120 hectares, entre os quais 70 de vinha e 10 de olival.">
 
     <link rel="canonical" href="http://www.landseaalentejo.com/">
 
@@ -18,10 +18,10 @@
 
     <meta property="og:locale" content="pt_PT">
     <meta property="og:site_name" content="Land and Sea Alentejo">
-    <meta property="og:title" content="Land&Sea Alentejo | Roteiros: Tour BTT Radical">
+    <meta property="og:title" content="Land&Sea Alentejo | Roteiros: Tour Enoturismo - Herdade do Rocim">
     <meta property="og:url" content="http://www.landseaalentejo.com/">
     <meta property="og:type" content="website">
-    <meta property="og:description" content="Tour e passeio radical de btt">
+    <meta property="og:description" content="Uma propriedade situada entre a Vidigueira e Cuba, no Baixo Alentejo, com cerca de 120 hectares, entre os quais 70 de vinha e 10 de olival.">
 
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -117,9 +117,9 @@
                     <div class="row">
                         <div class="col-md-12 mb-4">
                             <!-- Heading -->
-                            <h2 class="title dark-grey-text">Tour BTT Radical</h2>
+                            <h2 class="title dark-grey-text">Tour Herdade do Rocim</h2>
 
-                            <div class="card card-image" style="background: url(/photos/tours/aventura/btt/btt1.jpg) 0 -340px; background-size: 1250px; height: 300px;">
+                            <div class="card card-image" style="background: url(/photos/tours/enoturismo/rocim/rocim12.jpg) -0px -270px; background-size: 1120px; height: 300px;">
                                 <div class="text-white text-center d-flex align-items-center rgba-black-light py-5 px-4 rounded" style="height: 300px;">
                                     
                                 </div>
@@ -127,64 +127,81 @@
                         </div>
                     </div>
                     
-                    <p class="text-left">Com  WERIDE você vai ter a oportunidade de ter uma experiência Radical! Portugal tem a melhor previsão do tempo da Europa para desfrutar de trilhos fantásticas e uma variedade de terrenos dos mais montanhosas ao litoral, com infinitos dias de sol e valiosos parques naturais durante todo o ano.</p>
+                    <p class="text-left">É uma propriedade situada entre a Vidigueira e Cuba, no Baixo Alentejo, com cerca de 120 hectares, entre os quais 70 de vinha e 10 de olival.</p>
+                    <p class="text-left">A falha da Vidigueira, um acidente natural que marca a divisão entre o Alto e o Baixo Alentejo, determina a razão de ser da Vidigueira, a sub-região vitivinícola mais a Sul do Alentejo. As escarpas de orientação Este-Oeste, com cerca de 50 quilómetros de comprimento, condicionam o clima da Vidigueira, convertendo-a, apesar da localização tão a Sul, numa das sub-regiões com o clima mais temperado do Alentejo.</p>
 
                     <div class="row">
-                        <div class="col-md-12 mb-4">
 
-                            <h2 class="dark-grey-text text-left">Coastline Ride</h2>
+                        <div class="col-md-4">
 
-                            <div class="row">
+                            <figure class="figure">
+                                <img src="/photos/tours/enoturismo/rocim/rocim01.jpg" height="" class="img-fluid rounded z-depth-1">
+                                <figcaption class="figure-caption">A Herdade</figcaption>
+                            </figure>
 
-                                <div class="col-md-7">
+                        </div>
 
-                                    <p class="text-left">Ride  junto às falésias com partida da Sra. da Rocha em direcção a Carvoeiro com uma bicicleta Top de suspensão total.</p>
-                                    <ul class="text-left">
-                                        <li>PVP - 70€ por pessoa + 50€ bicicleta</li>
-                                    </ul>
+                        <div class="col-md-4">
 
-                                </div>
+                            <figure class="figure">
+                                <img src="/photos/tours/enoturismo/rocim/rocim13.jpg" height="230" class="img-fluid rounded z-depth-1">
+                                <figcaption class="figure-caption">O Restaurante</figcaption>
+                            </figure>
 
-                                <div class="col-md-5">
-                                    <figure class="figure">
-                                        <img src="/photos/tours/aventura/btt/btt2.jpg" class="img-fluid rounded z-depth-1">
-                                        <figcaption class="figure-caption">Passeio junto à costa</figcaption>
-                                    </figure>
-                                </div>
+                        </div>
 
-                            </div>
+                        <div class="col-md-4">
 
-                            <h2 class="dark-grey-text text-left">Enduro Ride</h2>
-
-                            <div class="row">
-
-                                <div class="col-md-7">
-
-                                    <p class="text-left">Ride na serra de Monchique, São Brás de Alportel ou na Costa Vicentina.</p>
-                                    <ul class="text-left">
-                                        <li>PVP - 70€ por pessoa + 50€ bicicleta</li>
-                                        <li>Uplifts +45€</li>
-                                    </ul>
-
-                                </div>
-
-                                <div class="col-md-5">
-                                    <figure class="figure">
-                                        <img src="/photos/tours/aventura/btt/btt3.jpg" class="img-fluid rounded z-depth-1">
-                                        <figcaption class="figure-caption">Enduro pela serra</figcaption>
-                                    </figure>
-                                </div>
-
-                            </div>
-                            
-                            
-
+                            <figure class="figure">
+                                <img src="/photos/tours/enoturismo/rocim/rocim08.jpg" height="230" class="img-fluid rounded z-depth-1">
+                                <figcaption class="figure-caption">A Vinha</figcaption>
+                            </figure>
 
                         </div>
 
                     </div>
 
+                    <div class="row">
+
+                        <div class="col-md-6">                            
+                            <!-- Card -->
+                            <div class="card align-items-center">
+                                <!-- Card content -->
+                                <div class="card-body text-center">
+                                    <!-- Category & Title -->
+                                    <h5><p class="dark-grey-text">De 1 a 3pax</p></h5>
+                                    <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i><strong>Desde 25€/pax</strong></a>
+                                </div>
+                                <!-- ./Card content -->
+                            </div>
+                            <!-- ./Card -->
+                        </div>
+
+                        <div class="col-md-6">                            
+                            <!-- Card -->
+                            <div class="card align-items-center">
+                                <!-- Card content -->
+                                <div class="card-body text-center">
+                                    <!-- Category & Title -->
+                                    <h5><p class="dark-grey-text">De 4 a 7pax</p></h5>
+                                    <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i><strong>Desde 20€/pax</strong></a>
+                                </div>
+                                <!-- ./Card content -->
+                            </div>
+                            <!-- ./Card -->
+                        </div>
+
+                    </div>
+
+                    <div class="row">
+
+                        <div class="col-md-12 my-5">
+                            <p class="text-left">Podemos fazer um pacote à sua medida!!!<br/>Peça informação através do email info@landseaalentejo.com ou telm 965 589 291</p>
+                        </div>
+
+                    </div>
                 </div>
+
 
             </section>
             <!--/.Section: Tours Index-->

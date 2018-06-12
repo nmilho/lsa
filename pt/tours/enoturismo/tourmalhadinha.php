@@ -5,9 +5,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Land&Sea Alentejo | Roteiros: Tour e passeio por Évora</title>
+    <title>Land&Sea Alentejo | Roteiros: Tour Enoturismo - Herdade da Malhadinha Nova</title>
 
-    <meta name="description" content="Tour e passeio cultural por Évora">
+    <meta name="description" content="Visite a Herdade da Malhadinha Nova, traga a sua família e os seus amigos e leve consigo memórias para mais tarde recordar.">
 
     <link rel="canonical" href="http://www.landseaalentejo.com/">
 
@@ -18,10 +18,10 @@
 
     <meta property="og:locale" content="pt_PT">
     <meta property="og:site_name" content="Land and Sea Alentejo">
-    <meta property="og:title" content="Land&Sea Alentejo | Roteiros: Tour e passeio por Évora">
+    <meta property="og:title" content="Land&Sea Alentejo | Roteiros: Tour Enoturismo - Herdade da Malhadinha Nova">
     <meta property="og:url" content="http://www.landseaalentejo.com/">
     <meta property="og:type" content="website">
-    <meta property="og:description" content="Tour e passeio cultural por Évora">
+    <meta property="og:description" content="Visite a Herdade da Malhadinha Nova, traga a sua família e os seus amigos e leve consigo memórias para mais tarde recordar.">
 
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -117,9 +117,9 @@
                     <div class="row">
                         <div class="col-md-12 mb-4">
                             <!-- Heading -->
-                            <h2 class="title dark-grey-text">Tour Évora</h2>
+                            <h2 class="title dark-grey-text">Tour Herdade dos Grous</h2>
 
-                            <div class="card card-image" style="background: url(/photos/tours/cultura/evora/pracagiraldos.jpg) -0 -190px; height: 300px;">
+                            <div class="card card-image" style="background: url(/photos/tours/enoturismo/malhadinhanova/malhadinhanova04.jpg) -0px -300px; height: 300px;">
                                 <div class="text-white text-center d-flex align-items-center rgba-black-light py-5 px-4 rounded" style="height: 300px;">
                                     
                                 </div>
@@ -127,78 +127,81 @@
                         </div>
                     </div>
                     
-                    <p class="text-left">Cidade que te leva a viajar no tempo! A qual foi declarada património mundial em 1986 pela Unesco.<br/>Recorta-se sobre uma suave colina no vasto horizonte da planície alentejana, e guarda o seu centro histórico, rodeado de uma vasta cintura de muralhas, uma valiosa herança cultural.</p>
+                    <p class="text-left">Desde 2003, data de inauguração da Adega, que se implementou e estimulou a vinda de visitantes, inclusive durante as vindimas.</p>
+                    <p class="text-left">As perfeitas condições climatéricas do Alentejo, os solos xistosos e as suaves encostas bem drenadas da propriedade, as castas criteriosamente selecionadas, formam o Terroir da Malhadinha Nova com condições únicas para a produção de vinhos com carácter próprio e de grande qualidade.</p>
 
                     <div class="row">
-                        <div class="col-md-12 mb-4">
 
-                            <h2 class="dark-grey-text text-left">Locais a Visitar</h2>
+                        <div class="col-md-4">
 
-                            <div class="row">
+                            <figure class="figure">
+                                <img src="/photos/tours/enoturismo/malhadinhanova/malhadinhanova07.jpg" class="img-fluid rounded z-depth-1">
+                                <figcaption class="figure-caption">A Adega</figcaption>
+                            </figure>
 
-                                <div class="col-md-7">
+                        </div>
 
-                                    <ul class="text-left">
-                                        <li>Praça do Giraldo</li>
-                                        <li>Catedral de Évora</li>
-                                        <li>Museu de Évora</li>
-                                        <li>Templo de Diana</li>
-                                        <li>Palácio Cadaval</li>
-                                        <li>Aqueduto da água da prata</li>
-                                        <li>Igreja da Misericórdia e da Graça e a de S. Francisco</li>
-                                        <li>Capela dos Ossos</li>
-                                        <li>Muralhas Medievais</li>
-                                    </ul>
+                        <div class="col-md-4">
 
-                                </div>
+                            <figure class="figure">
+                                <img src="/photos/tours/enoturismo/malhadinhanova/malhadinhanova01.jpg" class="img-fluid rounded z-depth-1">
+                                <figcaption class="figure-caption">A Herdade</figcaption>
+                            </figure>
 
-                                <div class="col-md-5">
-                                    <figure class="figure">
-                                        <img src="/photos/tours/cultura/evora/capelaossos.jpg" class="img-fluid rounded z-depth-1">
-                                        <figcaption class="figure-caption">Capela dos Ossos.</figcaption>
-                                    </figure>
-                                </div>
+                        </div>
 
-                            </div>
-                            
+                        <div class="col-md-4">
 
-                            <h2 class="dark-grey-text text-left">O Pacote Inclui</h2>
-                            <div class="row">
+                            <figure class="figure">
+                                <img src="/photos/tours/enoturismo/malhadinhanova/malhadinhanova08.jpg" class="img-fluid rounded z-depth-1">
+                                <figcaption class="figure-caption">A Piscina</figcaption>
+                            </figure>
 
-                                <div class="col-md-7">
-
-                                    <ul class="text-left">
-                                        <li>Partida de Beja as 9.00 hrs com 50 min de viagem</li>
-                                        <li>Passeio livre pela cidade com oferta de guias/mapas turísticos</li>
-                                        <li>Almoço livre</li>
-                                        <li>Regresso a Beja 17.00</li>
-                                        <li>Horário pode ser ajustado à medida do cliente</li>
-                                        <li>Valores calculados com partida de Beja ou arredores</li>
-                                        <li>Distâncias superiores sujeitas a ajustamento.</li>
-                                    </ul>
-
-                                </div>
-
-                                <div class="col-md-5">
-                                    <!-- Card -->
-                                    <div class="card align-items-center">
-                                        <!-- Card content -->
-                                        <div class="card-body text-center">
-                                            <!-- Category & Title -->
-                                            <h5><p class="dark-grey-text">Pacote único com minimo 3 e máximo de 7 pessoas</p></h5>
-                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 50€ por pessoa</a>
-                                        </div>
-                                        <!-- ./Card content -->
-                                    </div>
-                                    <!-- ./Card -->
-                                </div>
-
-                            </div>
                         </div>
 
                     </div>
 
+                    <div class="row">
+
+                        <div class="col-md-6">                            
+                            <!-- Card -->
+                            <div class="card align-items-center">
+                                <!-- Card content -->
+                                <div class="card-body text-center">
+                                    <!-- Category & Title -->
+                                    <h5><p class="dark-grey-text">De 1 a 3pax</p></h5>
+                                    <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i><strong>Desde 32€/pax</strong></a>
+                                </div>
+                                <!-- ./Card content -->
+                            </div>
+                            <!-- ./Card -->
+                        </div>
+
+                        <div class="col-md-6">                            
+                            <!-- Card -->
+                            <div class="card align-items-center">
+                                <!-- Card content -->
+                                <div class="card-body text-center">
+                                    <!-- Category & Title -->
+                                    <h5><p class="dark-grey-text">De 4 a 7pax</p></h5>
+                                    <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i><strong>Desde 28€/pax</strong></a>
+                                </div>
+                                <!-- ./Card content -->
+                            </div>
+                            <!-- ./Card -->
+                        </div>
+
+                    </div>
+
+                    <div class="row">
+
+                        <div class="col-md-12 my-5">
+                            <p class="text-left">Podemos fazer um pacote à sua medida!!!<br/>Peça informação através do email info@landseaalentejo.com ou telm 965 589 291</p>
+                        </div>
+
+                    </div>
                 </div>
+
 
             </section>
             <!--/.Section: Tours Index-->

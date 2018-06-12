@@ -5,9 +5,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Land&Sea Alentejo | Roteiros: Tour e passeio com aula de surf</title>
+    <title>Land&Sea Alentejo | Roteiros: Tour Enoturismo - Adega Cooperativa da Vidigueira</title>
 
-    <meta name="description" content="Tour e passeio com aula de surf na costa alentejana">
+    <meta name="description" content="Resultado do sonho, do esforço e do trabalho da maioria dos viticultores das regiões de Vidigueira, Cuba e Alvito.">
 
     <link rel="canonical" href="http://www.landseaalentejo.com/">
 
@@ -18,10 +18,10 @@
 
     <meta property="og:locale" content="pt_PT">
     <meta property="og:site_name" content="Land and Sea Alentejo">
-    <meta property="og:title" content="Land&Sea Alentejo | Roteiros: Tour e passeio com aula de surf">
+    <meta property="og:title" content="Land&Sea Alentejo | Roteiros: Tour Enoturismo - Adega Cooperativa da Vidigueira">
     <meta property="og:url" content="http://www.landseaalentejo.com/">
     <meta property="og:type" content="website">
-    <meta property="og:description" content="Tour e passeio com aula de surf na costa alentejana">
+    <meta property="og:description" content="Resultado do sonho, do esforço e do trabalho da maioria dos viticultores das regiões de Vidigueira, Cuba e Alvito.">
 
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -117,9 +117,9 @@
                     <div class="row">
                         <div class="col-md-12 mb-4">
                             <!-- Heading -->
-                            <h2 class="title dark-grey-text">Tour Surf</h2>
+                            <h2 class="title dark-grey-text">Tour Adega Cooperativa da Vidigueira</h2>
 
-                            <div class="card card-image" style="background: url(/photos/tours/aventura/surf/surf2.png) -0 -80px; background-size: 1110px; height: 300px;">
+                            <div class="card card-image" style="background: url(/photos/tours/enoturismo/vidigueira/vidigueira05.jpg) -0px -0px; background-size: 1110px; height: 300px;">
                                 <div class="text-white text-center d-flex align-items-center rgba-black-light py-5 px-4 rounded" style="height: 300px;">
                                     
                                 </div>
@@ -127,105 +127,81 @@
                         </div>
                     </div>
                     
-                    <p class="text-left">Vem ter a tua melhor experiência de Surf!!<br/>O surf não  tem idade, não tem limite e é por isso que queremos que todos sintam a experiência  de deslizar sobre as ondas!!<br/></p>
+                    <p class="text-left">A Adega Cooperativa de Vidigueira, Cuba e Alvito, C.R.L., constituída por escritura pública em 1960, iniciou a sua atividade em 1963.</p>
+                    <p class="text-left">É o resultado do sonho, do esforço e do trabalho da maioria dos viticultores das regiões de Vidigueira, Cuba e Alvito, assente na experiência da tradição e no reconhecimento da reinvenção, sustentado por uma qualidade reconhecida e rememorada.</p>
 
                     <div class="row">
-                        <div class="col-md-12 mb-4">
 
-                            <h2 class="dark-grey-text text-left">Pacote aula</h2>
+                        <div class="col-md-4">
 
-                            <div class="row">
+                            <figure class="figure">
+                                <img src="/photos/tours/enoturismo/vidigueira/vidigueira01.jpg" height="" class="img-fluid rounded z-depth-1">
+                                <figcaption class="figure-caption">A Herdade</figcaption>
+                            </figure>
 
-                                <div class="col-md-7">
-                                    <p class="text-left">Partida de Beja com hora a combinar, depende  das condições do mar e das mares.</p>
+                        </div>
 
-                                    <div class="row">
-                                        <div class="col-md-7">
-                                            <ul class="text-left">
-                                                <li>Viagem</li>
-                                                <li>Aula de 1h30</li>
-                                                <li>Fato neopreme</li>
-                                                <li>Prancha</li>
-                                                <li>Seguro</li>
-                                            </ul>
-                                        </div>
+                        <div class="col-md-4">
 
-                                        <div class="col-md-5">
-                                            <!-- Card -->
-                                            <div class="card align-items-center">
-                                                <!-- Card content -->
-                                                <div class="card-body text-center">
-                                                    <!-- Category & Title -->
-                                                    <p class="dark-grey-text">Mini. 3pax - Max 7pax</p>
-                                                    <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 50€/pax</a>
-                                                </div>
-                                                <!-- ./Card content -->
-                                            </div>
-                                            <!-- ./Card -->
-                                        </div>
-                                    </div>
+                            <figure class="figure">
+                                <img src="/photos/tours/enoturismo/vidigueira/vidigueira02.jpg" height="230" class="img-fluid rounded z-depth-1">
+                                <figcaption class="figure-caption">A Adega</figcaption>
+                            </figure>
 
+                        </div>
 
-                                </div>
+                        <div class="col-md-4">
 
-                                <div class="col-md-5">
-                                    <figure class="figure">
-                                        <img src="/photos/tours/aventura/surf/surf3.png" class="img-fluid rounded z-depth-1">
-                                        <figcaption class="figure-caption">Aula de surf</figcaption>
-                                    </figure>
-                                </div>
+                            <figure class="figure">
+                                <img src="/photos/tours/enoturismo/vidigueira/vidigueira03.jpg" height="230" class="img-fluid rounded z-depth-1">
+                                <figcaption class="figure-caption">A Vinha</figcaption>
+                            </figure>
 
-                            </div>
-                            
-                            <h2 class="dark-grey-text text-left">Pacote livre</h2>
-
-                            <div class="row">
-
-                                <div class="col-md-7">
-                                    <p class="text-left">Aluguer de material para quem já não necessita de acompanhamento profissional.</p>
-
-                                    <div class="row">
-                                        <div class="col-md-7">
-
-                                            <ul class="text-left">
-                                                <li>Viagem</li>
-                                                <li>Aluguer de fato neopreme</li>
-                                                <li>Aluguer de prancha</li>
-                                                <li>Duração 2h</li>
-                                            </ul>
-                                        </div>
-
-                                        <div class="col-md-5">
-                                            <!-- Card -->
-                                            <div class="card align-items-center">
-                                                <!-- Card content -->
-                                                <div class="card-body text-center">
-                                                    <!-- Category & Title -->
-                                                    <p class="dark-grey-text">Mini. 3pax - Max 7pax</p>
-                                                    <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 40€/pax</a>
-                                                </div>
-                                                <!-- ./Card content -->
-                                            </div>
-                                            <!-- ./Card -->
-                                        </div>
-                                    </div>
-
-                                </div>
-
-                                <div class="col-md-5">
-                                    <figure class="figure">
-                                        <img src="/photos/tours/aventura/surf/surf4.png" class="img-fluid rounded z-depth-1">
-                                        <figcaption class="figure-caption">Surf livre</figcaption>
-                                    </figure>
-                                </div>
-
-                            </div>
-                            
                         </div>
 
                     </div>
 
+                    <div class="row">
+
+                        <div class="col-md-6">                            
+                            <!-- Card -->
+                            <div class="card align-items-center">
+                                <!-- Card content -->
+                                <div class="card-body text-center">
+                                    <!-- Category & Title -->
+                                    <h5><p class="dark-grey-text">De 1 a 3pax</p></h5>
+                                    <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i><strong>Desde 25€/pax</strong></a>
+                                </div>
+                                <!-- ./Card content -->
+                            </div>
+                            <!-- ./Card -->
+                        </div>
+
+                        <div class="col-md-6">                            
+                            <!-- Card -->
+                            <div class="card align-items-center">
+                                <!-- Card content -->
+                                <div class="card-body text-center">
+                                    <!-- Category & Title -->
+                                    <h5><p class="dark-grey-text">De 4 a 7pax</p></h5>
+                                    <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i><strong>Desde 20€/pax</strong></a>
+                                </div>
+                                <!-- ./Card content -->
+                            </div>
+                            <!-- ./Card -->
+                        </div>
+
+                    </div>
+
+                    <div class="row">
+
+                        <div class="col-md-12 my-5">
+                            <p class="text-left">Podemos fazer um pacote à sua medida!!!<br/>Peça informação através do email info@landseaalentejo.com ou telm 965 589 291</p>
+                        </div>
+
+                    </div>
                 </div>
+
 
             </section>
             <!--/.Section: Tours Index-->

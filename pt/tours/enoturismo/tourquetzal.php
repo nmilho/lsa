@@ -5,9 +5,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Land&Sea Alentejo | Roteiros: Tour aventura de karting</title>
+    <title>Land&Sea Alentejo | Roteiros: Tour Enoturismo - Quinta do Quetzal</title>
 
-    <meta name="description" content="Passeio ao kartodromo de Évora para que disfrute da velociadade e adrenalina numa corrida entre amogos.">
+    <meta name="description" content="O projeto da Quinta do Quetzal expressa a sua paixão pela cultura, natureza, gastronomia e vinhos portugueses que desejam partilhar.">
 
     <link rel="canonical" href="http://www.landseaalentejo.com/">
 
@@ -18,10 +18,10 @@
 
     <meta property="og:locale" content="pt_PT">
     <meta property="og:site_name" content="Land and Sea Alentejo">
-    <meta property="og:title" content="Land&Sea Alentejo | Roteiros: Tour aventura de karting">
+    <meta property="og:title" content="Land&Sea Alentejo | Roteiros: Tour Enoturismo - Quinta do Quetzal">
     <meta property="og:url" content="http://www.landseaalentejo.com/">
     <meta property="og:type" content="website">
-    <meta property="og:description" content="Passeio ao kartodromo de Évora para que disfrute da velociadade e adrenalina numa corrida entre amogos.">
+    <meta property="og:description" content="O projeto da Quinta do Quetzal expressa a sua paixão pela cultura, natureza, gastronomia e vinhos portugueses que desejam partilhar.">
 
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -117,9 +117,9 @@
                     <div class="row">
                         <div class="col-md-12 mb-4">
                             <!-- Heading -->
-                            <h2 class="title dark-grey-text">Tour Karting</h2>
+                            <h2 class="title dark-grey-text">Tour Quinta do Quetzal</h2>
 
-                            <div class="card card-image" style="background: url(/photos/tours/aventura/kart/pole.jpg) -130px -315px; height: 300px;">
+                            <div class="card card-image" style="background: url(/photos/tours/enoturismo/quetzal/quetzal11.jpg) -0px -35px; background-size: 1120px; height: 300px;">
                                 <div class="text-white text-center d-flex align-items-center rgba-black-light py-5 px-4 rounded" style="height: 300px;">
                                     
                                 </div>
@@ -127,99 +127,81 @@
                         </div>
                     </div>
                     
-                    <p class="text-left">Convida os teus amigos e desfrutem de um dia de diversão e adrenalina!!!</p>
+                    <p class="text-left">A Quinta do Quetzal situa-se no coração da região do Alentejo nas encostas da Vidigueira. Fica nas imediações da mais antiga adega romana de que há registo na Península Ibérica. O microclima e as nossas colinas criam as condições ideais para um terroir único.</p>
+                    <p class="text-left">Cees e Inge de Bruin são colecionadores e patrocinadores de arte contemporânea. Mantêm há mais de 40 anos, juntamente com a família, uma forte ligação a Portugal. O projeto da Quinta do Quetzal expressa a sua paixão pela cultura, natureza, gastronomia e vinhos portugueses que desejam partilhar.</p>
 
                     <div class="row">
-                        <div class="col-md-12 mb-4">
 
-                            <div class="row">
-                                <div class="col-md-12 my-4">
-                                    <h2 class="dark-grey-text text-left">Pacote Karting em Évora</h2>
-                                </div>
+                        <div class="col-md-4">
 
-                                <div class="col-md-7">
-
-                                    <p class="text-left">
-                                        Situado à entrada da cidade  Património Mundial, sentido de Lisboa, o kartódromo de Évora foi inaugurado em Novembro de 1987. Ao ser uma das primeiras infra-estruturas de karting em Portugal, contribuiu para o desenvolvimento da modalidade no nosso país. Desde a primeira hora, pretendeu levar a vertente de lazer à modalidade, iniciando o aluguer individual de karts. Mais tarde foi pioneiro na realização de provas para grupos.
-                                    </p>
-
-                                    <p class="text-left">
-                                        Hoje tem uma pista que conjuga o traçado técnico com a velocidade, com um perímetro de 908 metros e sete de largura constante, oferece uma frota de aluguer de mais de 70 karts, bancada panorâmica, oficina, balneários, bar e recepção.
-                                    </p>
-
-
-                                    <h2 class="dark-grey-text text-left">Aluguer individual de kart</h2>
-                                    <h5 class="light-grey-text text-left">Preço por pessoa (valores a pagar directamente no kartódromo)</h5>
-                                    <ul class="text-left">
-                                        <li>15min - 15€</li>
-                                        <li>30min - 30€</li>
-                                        <li>45min - 35€</li>
-                                    </ul>
-
-                                </div>
-
-                                <div class="col-md-5">
-                                    <figure class="figure">
-                                        <img src="/photos/tours/aventura/kart/pista.jpg" class="img-fluid rounded z-depth-1">
-                                        <figcaption class="figure-caption">Pista de karts em Évora</figcaption>
-                                    </figure>
-
-                                    <figure class="figure">
-                                        <img src="/photos/tours/aventura/kart/curva.jpg" class="img-fluid rounded z-depth-1">
-                                        <figcaption class="figure-caption">Corrida de karts em Évora</figcaption>
-                                    </figure>
-                                </div>
-
-                            </div>
-
+                            <figure class="figure">
+                                <img src="/photos/tours/enoturismo/quetzal/quetzal14.jpg" class="img-fluid rounded z-depth-1">
+                                <figcaption class="figure-caption">A Adega</figcaption>
+                            </figure>
 
                         </div>
 
+                        <div class="col-md-4">
 
-                        <div class="col-md-12 my-4">
+                            <figure class="figure">
+                                <img src="/photos/tours/enoturismo/quetzal/quetzal12.jpg" class="img-fluid rounded z-depth-1">
+                                <figcaption class="figure-caption">A Herdade</figcaption>
+                            </figure>
 
+                        </div>
 
-                            <h2 class="dark-grey-text text-left">Valores da viagem</h2>
-                            <div class="row">
+                        <div class="col-md-4">
 
-                                <div class="col-md-3 col-sm-6 col-xs-12 my-3">
-                                    <!-- Card -->
-                                    <div class="card align-items-center">
-                                        <!-- Card content -->
-                                        <div class="card-body text-center">
-                                            <!-- Category & Title -->
-                                            <h5><p class="dark-grey-text">De 1 a 3 pax</p></h5>
-                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 30€</a>
-                                        </div>
-                                        <!-- ./Card content -->
-                                    </div>
-                                    <!-- ./Card -->
-                                </div>
-                                <div class="col-md-3 col-sm-6 col-xs-12 my-3">
-                                    <!-- Card -->
-                                    <div class="card align-items-center">
-                                        <!-- Card content -->
-                                        <div class="card-body text-center">
-                                            <!-- Category & Title -->
-                                            <h5><p class="dark-grey-text">De 4 a 7 pax</p></h5>
-                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 25€</a>
-                                        </div>
-                                        <!-- ./Card content -->
-                                    </div>
-                                    <!-- ./Card -->
-                                </div>
+                            <figure class="figure">
+                                <img src="/photos/tours/enoturismo/quetzal/quetzal01.jpg" class="img-fluid rounded z-depth-1">
+                                <figcaption class="figure-caption">O Restaurante</figcaption>
+                            </figure>
 
-
-                                <div class="col-md-12">
-                                    <p class="text-left">Valores calculados com partida de Beja.<br/>Distâncias superiores sujeitas a ajustamento<br/>Mais informação através do email info@landseaalentejo.com ou telm 965 589 291</p>
-                                </div>
-
-                            </div>
                         </div>
 
                     </div>
 
+                    <div class="row">
+
+                        <div class="col-md-6">                            
+                            <!-- Card -->
+                            <div class="card align-items-center">
+                                <!-- Card content -->
+                                <div class="card-body text-center">
+                                    <!-- Category & Title -->
+                                    <h5><p class="dark-grey-text">De 1 a 3pax</p></h5>
+                                    <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i><strong>Desde 30€/pax</strong></a>
+                                </div>
+                                <!-- ./Card content -->
+                            </div>
+                            <!-- ./Card -->
+                        </div>
+
+                        <div class="col-md-6">                            
+                            <!-- Card -->
+                            <div class="card align-items-center">
+                                <!-- Card content -->
+                                <div class="card-body text-center">
+                                    <!-- Category & Title -->
+                                    <h5><p class="dark-grey-text">De 4 a 7pax</p></h5>
+                                    <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i><strong>Desde 25€/pax</strong></a>
+                                </div>
+                                <!-- ./Card content -->
+                            </div>
+                            <!-- ./Card -->
+                        </div>
+
+                    </div>
+
+                    <div class="row">
+
+                        <div class="col-md-12 my-5">
+                            <p class="text-left">Podemos fazer um pacote à sua medida!!!<br/>Peça informação através do email info@landseaalentejo.com ou telm 965 589 291</p>
+                        </div>
+
+                    </div>
                 </div>
+
 
             </section>
             <!--/.Section: Tours Index-->
