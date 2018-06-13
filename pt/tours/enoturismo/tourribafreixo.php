@@ -170,7 +170,7 @@
                                 <div class="card-body text-center">
                                     <!-- Category & Title -->
                                     <h5><p class="dark-grey-text">De 1 a 3pax</p></h5>
-                                    <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i><strong>Desde 30€/pax</strong></a>
+                                    <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i><strong>Desde 25€/pax</strong></a>
                                 </div>
                                 <!-- ./Card content -->
                             </div>
@@ -184,7 +184,7 @@
                                 <div class="card-body text-center">
                                     <!-- Category & Title -->
                                     <h5><p class="dark-grey-text">De 4 a 7pax</p></h5>
-                                    <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i><strong>Desde 25€/pax</strong></a>
+                                    <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i><strong>Desde 20€/pax</strong></a>
                                 </div>
                                 <!-- ./Card content -->
                             </div>

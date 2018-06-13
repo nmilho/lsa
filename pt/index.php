@@ -313,7 +313,7 @@
                                 Queremos mostrar tudo o que o Alentejo tem de melhor; sua cultura, paisagem e sua gastronomia!!
                             </p>
                             <ul class="text-left">
-                                <li>Águas, WIFI e mapa da cidade grátis.</li>
+                                <li>Águas, WIFI e cadeiras bebé grátis.</li>
                                 <li>Motorista com uma placa á sua espera.</li>
                                 <li>Pagamento exclusivo no final.</li>
                                 <li>Viaturas Mercedes recentes.</li>
@@ -369,7 +369,7 @@
                                     <div class="mask waves-effect waves-light"></div>
                                 </a>
                             </div>
-                            <p class="grey-text">Temos o transfer à sua medida, vamos ter consigo à zona das chegadas do Aeroporto e acompanhá-lo ao veículo. Garantimos pontualidade, segurança e conforto a bordo de uma viatura Mercedes V220 com serviço de internet e águas frescas. Fazemos qualquer tipo de transfer para qualquer cidade sobe orçamento.</p>
+                            <p class="grey-text">Temos o transfer à sua medida, vamos ter consigo à zona das chegadas do Aeroporto e acompanhá-lo ao veículo. Garantimos pontualidade, segurança e conforto a bordo de uma viatura Mercedes V220 com WIFI e águas frescas. Fazemos qualquer tipo de transfer para qualquer cidade sobe orçamento.</p>
                         </div>
                         <!--Grid column-->
                   
@@ -385,7 +385,7 @@
                             </div>
                             <p class="grey-text">Fazemos serviços de Motorista para que o seu negocio seja mais eficaz.<br/>
                                                 Garantimos otimização do seu tempo. Transportamos grupos para congressos, conferências e outros eventos de empresas.<br/>
-                                                Numa viatura com conforto e segurança, equipada com internet e águas frescas a bordo. Um serviço de excelência.
+                                                Numa viatura com conforto e segurança, equipada com WIFI e águas frescas a bordo. Um serviço de excelência.
                             </p>
                         </div>
                         <!--Grid column-->

@@ -165,7 +165,7 @@
                         <!--Column-->
                         <div class="col-md-12 mb-5">
                             <h2 class="title dark-grey-text">Roteiros Aventura</h2>
-                            <h4 class="dark-grey-text">Aventurar-se nas actividades que lhe propomos!</h4>
+                            <h4 class="dark-grey-text">Aventure-se nas actividades que lhe propomos!</h4>
                         </div>
                         <!--/.Column-->
 

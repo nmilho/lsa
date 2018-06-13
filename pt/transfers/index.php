@@ -139,7 +139,7 @@
                             <p class="text-left">
                                 Temos o transfer à sua medida, vamos ter consigo à zona das chegadas do Aeroporto e acompanhá-lo ao veículo.
                                 <br/>
-                                Garantimos pontualidade, segurança e conforto a bordo de uma viatura Mercedes V220 com serviço de internet e águas frescas.
+                                Garantimos pontualidade, segurança e conforto a bordo de uma viatura Mercedes V220 com WIFI e águas frescas.
                                 <br/>
                                 Fazemos qualquer tipo de transfer para qualquer cidade sobe orçamento.
 
@@ -160,7 +160,7 @@
                         <div class="col-lg-4 col-xl-4 pb-3">
                             <!--Featured image-->
                             <figure class="figure">
-                                <img src="/photos/transfers/aeroporto06.jpg" class="img-fluid rounded z-depth-1" alt="Viatura Mercedes V220 com serviço de internet e águas frescas.">
+                                <img src="/photos/transfers/aeroporto06.jpg" class="img-fluid rounded z-depth-1" alt="Fazemos serviços de Motorista para que o seu negocio seja mais eficaz.">
                                 <figcaption>Fazemos serviços de Motorista para que o seu negocio seja mais eficaz.</figcaption>
                             </figure>
                         </div>
@@ -170,7 +170,7 @@
                         <div class="col-lg-4 col-xl-4 pb-3">
                             <!--Featured image-->
                             <figure class="figure">
-                                <img src="/photos/transfers/arrival02.jpg" class="img-fluid rounded z-depth-1" alt="Viatura Mercedes V220 com serviço de internet e águas frescas.">
+                                <img src="/photos/transfers/arrival02.jpg" class="img-fluid rounded z-depth-1" alt="Partidas e Chegadas">
                                 <figcaption>Vamos ter consigo à zona das chegadas do Aeroporto e acompanhá-lo ao veículo.</figcaption>
                             </figure>
                         </div>
@@ -179,7 +179,7 @@
                         <div class="col-lg-4 col-xl-4 pb-3">
                             <!--Featured image-->
                             <figure class="figure">
-                                <img src="/photos/transfers/handshake01.jpg" class="img-fluid rounded z-depth-1" alt="Viatura Mercedes V220 com serviço de internet e águas frescas.">
+                                <img src="/photos/transfers/handshake01.jpg" class="img-fluid rounded z-depth-1" alt="Transportamos grupos para congressos, conferências e outros eventos de empresas.">
                                 <figcaption>Transportamos grupos para congressos, conferências e outros eventos de empresas.</figcaption>
                             </figure>
                         </div>

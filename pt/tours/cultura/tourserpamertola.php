@@ -206,7 +206,7 @@
                                             <!-- Category & Title -->
                                             <h5><p class="dark-grey-text">Pacote VIP (1 dia)</p></h5>
                                             <p class="dark-grey-text">Viagem com Almoço<br/>Mini. 3pax - Max 7pax</p>
-                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 55€</a>
+                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 45€</a>
                                         </div>
                                         <!-- ./Card content -->
                                     </div>
@@ -220,7 +220,7 @@
                                             <!-- Category & Title -->
                                             <h5><p class="dark-grey-text">Pacote LowCost (1 dia)</p></h5>
                                             <p class="dark-grey-text">Viagem sem Almoço<br/>Mini. 3pax - Max 7pax</p>
-                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 45€</a>
+                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 35€</a>
                                         </div>
                                         <!-- ./Card content -->
                                     </div>
@@ -234,7 +234,7 @@
                                             <!-- Category & Title -->
                                             <h5><p class="dark-grey-text">Pacote 1/2 dia a Serpa</p></h5>
                                             <p class="dark-grey-text">Manhã ou Trade<br/>Mini. 3pax - Max 7pax</p>
-                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 22,50€</a>
+                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 20€</a>
                                         </div>
                                         <!-- ./Card content -->
                                     </div>
@@ -248,7 +248,7 @@
                                             <!-- Category & Title -->
                                             <h5><p class="dark-grey-text">Pacote 1/2 dia a Mértola</p></h5>
                                             <p class="dark-grey-text">Manhã ou Trade<br/>Mini. 3pax - Max 7pax</p>
-                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 27,50€</a>
+                                            <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 25€</a>
                                         </div>
                                         <!-- ./Card content -->
                                     </div>

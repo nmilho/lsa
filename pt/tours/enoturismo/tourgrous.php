@@ -127,7 +127,7 @@
                         </div>
                     </div>
                     
-                    <p class="text-left">No coração do Alentejo, encontra-se a Herdade dos Grous - um refúgio de cariz tradicional para relaxar, com extensas paisagens, uma barragem, quinta orgânica e criação de gado. Constitui um espaço calmo para relaxar e saborear a natureza. Nesta herdade de exploração vinícola e agroturística, com características únicas no coração do Alentejo.</p>
+                    <p class="text-left">Perto da cidade de Beja encontra-se a Herdade dos Grous - um refúgio de cariz tradicional para relaxar, com extensas paisagens, uma barragem, quinta orgânica e criação de gado. Constitui um espaço calmo para relaxar e saborear a natureza. Nesta herdade de exploração vinícola e agroturística, com características únicas no coração do Alentejo.</p>
 
                     <div class="row">
 
@@ -169,7 +169,7 @@
                                 <div class="card-body text-center">
                                     <!-- Category & Title -->
                                     <h5><p class="dark-grey-text">De 1 a 3pax</p></h5>
-                                    <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i><strong>Desde 32€/pax</strong></a>
+                                    <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i><strong>Desde 30€/pax</strong></a>
                                 </div>
                                 <!-- ./Card content -->
                             </div>
@@ -183,7 +183,7 @@
                                 <div class="card-body text-center">
                                     <!-- Category & Title -->
                                     <h5><p class="dark-grey-text">De 4 a 7pax</p></h5>
-                                    <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i><strong>Desde 28€/pax</strong></a>
+                                    <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i><strong>Desde 25€/pax</strong></a>
                                 </div>
                                 <!-- ./Card content -->
                             </div>

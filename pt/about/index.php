@@ -147,7 +147,7 @@
                         <div class="col-lg-5 col-xl-5 pb-3">
                             <!--Featured image-->
                             <div class="view overlay hm-dark-slight rounded z-depth-2">
-                                <img src="/photos/carrinha2.jpg" alt="Viatura Mercedes V220 com serviço de internet e águas frescas." class="img-fluid">
+                                <img src="/photos/carrinha2.jpg" alt="Viatura Mercedes V220 com serviço de WIFI e águas frescas." class="img-fluid">
                                 <a>
                                     <div class="mask waves-effect waves-light"></div>
                                 </a>
@@ -172,7 +172,7 @@
                         <!--Grid column-->
                         <div class="col-lg-7 col-xl-7">
                             <p class="text-left">
-                                A sua empresa pode usufruir de um serviço VIP para congressos, conferências, eventos ou reuniões, em que garantimos um serviço de qualidade com internet a bordo e águas frescas durante a sua viagem.
+                                A sua empresa pode usufruir de um serviço VIP para congressos, conferências, eventos ou reuniões, em que garantimos um serviço de qualidade com WIFI a bordo e águas frescas durante a sua viagem.
                             </p>
 
                             <p class="text-left">
@@ -208,8 +208,8 @@
                         <div class="col-lg-4 col-xl-4 my-3">
                             <!--Featured image-->
                             <figure class="figure">
-                                <img src="/photos/about/carrinha16.jpg" class="img-fluid rounded z-depth-1" alt="Viatura com conforto e segurança, equipada com internet e águas frescas.">
-                                <figcaption>Viatura com conforto e segurança, equipada com internet e águas frescas.</figcaption>
+                                <img src="/photos/about/carrinha16.jpg" class="img-fluid rounded z-depth-1" alt="Viatura com conforto e segurança, equipada com WIFI e águas frescas.">
+                                <figcaption>Viatura com conforto e segurança, equipada com WIFI e águas frescas.</figcaption>
                             </figure>
                         </div>
                         <!--Grid column-->

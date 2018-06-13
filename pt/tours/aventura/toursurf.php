@@ -137,7 +137,7 @@
                             <div class="row">
 
                                 <div class="col-md-7">
-                                    <p class="text-left">Partida de Beja com hora a combinar, depende  das condições do mar e das mares.</p>
+                                    <p class="text-left">Partida de Beja com hora a combinar, depende  das condições do mar e das marés.</p>
 
                                     <div class="row">
                                         <div class="col-md-7">

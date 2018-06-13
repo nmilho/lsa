@@ -183,7 +183,7 @@
                                 <div class="card-body text-center">
                                     <!-- Category & Title -->
                                     <h5><p class="dark-grey-text">De 4 a 7pax</p></h5>
-                                    <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i><strong>Desde 12€/pax</strong></a>
+                                    <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i><strong>Desde 10€/pax</strong></a>
                                 </div>
                                 <!-- ./Card content -->
                             </div>

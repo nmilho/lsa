@@ -183,7 +183,7 @@
                                             <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
                                                 <div class="w-100">
                                                     <h3 class="orange-text card-title pt-2"><strong>Figueirinha</strong></h3>
-                                                    <h5 class="">Lorem ipsum.</h5>
+                                                    <h5 class="">Visitas e provas</h5>
                                                 </div>
                                             </div>
                                         
@@ -204,7 +204,7 @@
                                             <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
                                                 <div class="w-100">
                                                     <h3 class="orange-text card-title pt-2"><strong>Rocim</strong></h3>
-                                                    <h5 class="">Lorem ipsum...</h5>
+                                                    <h5 class="">Visitas e provas..</h5>
                                                 </div>
                                             </div>
                                         
@@ -225,7 +225,7 @@
                                             <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
                                                 <div class="w-100">
                                                     <h3 class="orange-text card-title pt-2"><strong>Quetzal</strong></h3>
-                                                    <h5 class="">Lorem ipsum...</h5>
+                                                    <h5 class="">Visitas e provas..</h5>
                                                 </div>
                                             </div>
                                         
@@ -246,7 +246,7 @@
                                             <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
                                                 <div class="w-100">
                                                     <h3 class="orange-text card-title pt-2"><strong>Ribafreixo</strong></h3>
-                                                    <h5 class="">Lorem ipsum...</h5>
+                                                    <h5 class="">Visitas e provas..</h5>
                                                 </div>
                                             </div>
                                         
@@ -267,7 +267,7 @@
                                             <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
                                                 <div class="w-100">
                                                     <h3 class="orange-text card-title pt-2"><strong>Vidigueira</strong></h3>
-                                                    <h5 class="">Lorem ipsum...</h5>
+                                                    <h5 class="">Visitas e provas..</h5>
                                                 </div>
                                             </div>
                                         
@@ -288,7 +288,7 @@
                                             <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
                                                 <div class="w-100">
                                                     <h3 class="orange-text card-title pt-2"><strong>Mingorra</strong></h3>
-                                                    <h5 class="">Lorem ipsum...</h5>
+                                                    <h5 class="">Visitas e provas..</h5>
                                                 </div>
                                             </div>
                                         
@@ -309,7 +309,7 @@
                                             <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
                                                 <div class="w-100">
                                                     <h3 class="orange-text card-title pt-2"><strong>Malhadinha Nova</strong></h3>
-                                                    <h5 class="">Lorem ipsum...</h5>
+                                                    <h5 class="">Visitas e provas..</h5>
                                                 </div>
                                             </div>
                                         
@@ -330,7 +330,7 @@
                                             <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
                                                 <div class="w-100">
                                                     <h3 class="orange-text card-title pt-2"><strong>Grous</strong></h3>
-                                                    <h5 class="">Lorem ipsum...</h5>
+                                                    <h5 class="">Visitas e provas..</h5>
                                                 </div>
                                             </div>
                                         
@@ -351,7 +351,7 @@
                                             <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
                                                 <div class="w-100">
                                                     <h3 class="orange-text card-title pt-2"><strong>Santa Vitória</strong></h3>
-                                                    <h5 class="">Lorem ipsum...</h5>
+                                                    <h5 class="">Visitas e provas..</h5>
                                                 </div>
                                             </div>
                                         
