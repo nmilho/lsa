@@ -9,7 +9,7 @@
 
     <meta name="description" content="Passeios por Lisboa, Beja, Évora, e Algarve. Turismo, cultura, aventura, vinho pelo Alentejo.">
 
-    <link rel="canonical" href="http://www.landseaalentejo.com/">
+    <link rel="canonical" href="http://www.landseaalentejo.com/pt/tours/">
 
 <!--
     <link rel="alternate" hreflang="en" href="http://www.landseaalentejo.com/en/">
@@ -19,7 +19,7 @@
     <meta property="og:locale" content="pt_PT">
     <meta property="og:site_name" content="Land and Sea Alentejo">
     <meta property="og:title" content="Land&Sea Alentejo | Roteiros: Aventura, Cultura e Enoturismo">
-    <meta property="og:url" content="http://www.landseaalentejo.com/">
+    <meta property="og:url" content="http://www.landseaalentejo.com/pt/tours/">
     <meta property="og:type" content="website">
     <meta property="og:description" content="Passeios por Lisboa, Beja, Évora, e Algarve. Turismo, cultura, aventura, vinho pelo Alentejo.">
 

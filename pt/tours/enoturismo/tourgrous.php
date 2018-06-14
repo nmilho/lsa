@@ -9,7 +9,7 @@
 
     <meta name="description" content="Um espaço calmo para relaxar e saborear a natureza. Nesta herdade de exploração vinícola e agroturística, com características únicas no coração do Alentejo.">
 
-    <link rel="canonical" href="http://www.landseaalentejo.com/">
+    <link rel="canonical" href="http://www.landseaalentejo.com/pt/tours/enoturismo/tourgrous.php">
 
 <!--
     <link rel="alternate" hreflang="en" href="http://www.landseaalentejo.com/en/">
@@ -19,7 +19,7 @@
     <meta property="og:locale" content="pt_PT">
     <meta property="og:site_name" content="Land and Sea Alentejo">
     <meta property="og:title" content="Land&Sea Alentejo | Roteiros: Tour Enoturismo - Herdade dos Grous">
-    <meta property="og:url" content="http://www.landseaalentejo.com/">
+    <meta property="og:url" content="http://www.landseaalentejo.com/pt/tours/enoturismo/tourgrous.php">
     <meta property="og:type" content="website">
     <meta property="og:description" content="Um espaço calmo para relaxar e saborear a natureza. Nesta herdade de exploração vinícola e agroturística, com características únicas no coração do Alentejo.">
 

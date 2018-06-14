@@ -9,7 +9,7 @@
 
     <meta name="description" content="O projeto da Quinta do Quetzal expressa a sua paixão pela cultura, natureza, gastronomia e vinhos portugueses que desejam partilhar.">
 
-    <link rel="canonical" href="http://www.landseaalentejo.com/">
+    <link rel="canonical" href="http://www.landseaalentejo.com/pt/tours/enoturismo/tourquetzal.php">
 
 <!--
     <link rel="alternate" hreflang="en" href="http://www.landseaalentejo.com/en/">
@@ -19,7 +19,7 @@
     <meta property="og:locale" content="pt_PT">
     <meta property="og:site_name" content="Land and Sea Alentejo">
     <meta property="og:title" content="Land&Sea Alentejo | Roteiros: Tour Enoturismo - Quinta do Quetzal">
-    <meta property="og:url" content="http://www.landseaalentejo.com/">
+    <meta property="og:url" content="http://www.landseaalentejo.com/pt/tours/enoturismo/tourquetzal.php">
     <meta property="og:type" content="website">
     <meta property="og:description" content="O projeto da Quinta do Quetzal expressa a sua paixão pela cultura, natureza, gastronomia e vinhos portugueses que desejam partilhar.">
 

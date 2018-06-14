@@ -9,7 +9,7 @@
 
     <meta name="description" content="Uma propriedade situada entre a Vidigueira e Cuba, no Baixo Alentejo, com cerca de 120 hectares, entre os quais 70 de vinha e 10 de olival.">
 
-    <link rel="canonical" href="http://www.landseaalentejo.com/">
+    <link rel="canonical" href="http://www.landseaalentejo.com/pt/tours/enoturismo/tourrocim.php">
 
 <!--
     <link rel="alternate" hreflang="en" href="http://www.landseaalentejo.com/en/">
@@ -19,7 +19,7 @@
     <meta property="og:locale" content="pt_PT">
     <meta property="og:site_name" content="Land and Sea Alentejo">
     <meta property="og:title" content="Land&Sea Alentejo | Roteiros: Tour Enoturismo - Herdade do Rocim">
-    <meta property="og:url" content="http://www.landseaalentejo.com/">
+    <meta property="og:url" content="http://www.landseaalentejo.com/pt/tours/enoturismo/tourrocim.php">
     <meta property="og:type" content="website">
     <meta property="og:description" content="Uma propriedade situada entre a Vidigueira e Cuba, no Baixo Alentejo, com cerca de 120 hectares, entre os quais 70 de vinha e 10 de olival.">
 

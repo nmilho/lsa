@@ -9,7 +9,7 @@
 
     <meta name="description" content="Visite a Herdade da Malhadinha Nova, traga a sua família e os seus amigos e leve consigo memórias para mais tarde recordar.">
 
-    <link rel="canonical" href="http://www.landseaalentejo.com/">
+    <link rel="canonical" href="http://www.landseaalentejo.com/pt/tours/enoturismo/tourmalhadinha.php">
 
 <!--
     <link rel="alternate" hreflang="en" href="http://www.landseaalentejo.com/en/">
@@ -19,7 +19,7 @@
     <meta property="og:locale" content="pt_PT">
     <meta property="og:site_name" content="Land and Sea Alentejo">
     <meta property="og:title" content="Land&Sea Alentejo | Roteiros: Tour Enoturismo - Herdade da Malhadinha Nova">
-    <meta property="og:url" content="http://www.landseaalentejo.com/">
+    <meta property="og:url" content="http://www.landseaalentejo.com/pt/tours/enoturismo/tourmalhadinha.php">
     <meta property="og:type" content="website">
     <meta property="og:description" content="Visite a Herdade da Malhadinha Nova, traga a sua família e os seus amigos e leve consigo memórias para mais tarde recordar.">
 

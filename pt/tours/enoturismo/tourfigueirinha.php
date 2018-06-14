@@ -9,7 +9,7 @@
 
     <meta name="description" content="Herdade da Figueirinha é um lugar especial, resultado de um trabalho de excelência, de máxima qualidade e, acima de tudo, o amor pelo vinho, pelo azeite e pela família.">
 
-    <link rel="canonical" href="http://www.landseaalentejo.com/">
+    <link rel="canonical" href="http://www.landseaalentejo.com/pt/tours/enoturismo/tourfigueirinha.php">
 
 <!--
     <link rel="alternate" hreflang="en" href="http://www.landseaalentejo.com/en/">
@@ -19,7 +19,7 @@
     <meta property="og:locale" content="pt_PT">
     <meta property="og:site_name" content="Land and Sea Alentejo">
     <meta property="og:title" content="Land&Sea Alentejo | Roteiros: Tour Enoturismo - Herdade da Figueirinha">
-    <meta property="og:url" content="http://www.landseaalentejo.com/">
+    <meta property="og:url" content="http://www.landseaalentejo.com/pt/tours/enoturismo/tourfigueirinha.php">
     <meta property="og:type" content="website">
     <meta property="og:description" content="Herdade da Figueirinha é um lugar especial, resultado de um trabalho de excelência, de máxima qualidade e, acima de tudo, o amor pelo vinho, pelo azeite e pela família.">
 

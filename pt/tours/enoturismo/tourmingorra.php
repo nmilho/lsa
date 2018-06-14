@@ -9,7 +9,7 @@
 
     <meta name="description" content="Vinhas com décadas de história que Henrique Uva preserva e rentabiliza há anos e as quais sempre quis valorizar como produtor independente.">
 
-    <link rel="canonical" href="http://www.landseaalentejo.com/">
+    <link rel="canonical" href="http://www.landseaalentejo.com/pt/tours/enoturismo/tourmingorra.php">
 
 <!--
     <link rel="alternate" hreflang="en" href="http://www.landseaalentejo.com/en/">
@@ -19,7 +19,7 @@
     <meta property="og:locale" content="pt_PT">
     <meta property="og:site_name" content="Land and Sea Alentejo">
     <meta property="og:title" content="Land&Sea Alentejo | Roteiros: Tour Enoturismo - Herdade da Mingorra">
-    <meta property="og:url" content="http://www.landseaalentejo.com/">
+    <meta property="og:url" content="http://www.landseaalentejo.com/pt/tours/enoturismo/tourmingorra.php">
     <meta property="og:type" content="website">
     <meta property="og:description" content="Vinhas com décadas de história que Henrique Uva preserva e rentabiliza há anos e as quais sempre quis valorizar como produtor independente.">
 

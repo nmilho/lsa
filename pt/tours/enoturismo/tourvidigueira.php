@@ -9,7 +9,7 @@
 
     <meta name="description" content="Resultado do sonho, do esforço e do trabalho da maioria dos viticultores das regiões de Vidigueira, Cuba e Alvito.">
 
-    <link rel="canonical" href="http://www.landseaalentejo.com/">
+    <link rel="canonical" href="http://www.landseaalentejo.com/pt/tours/enoturismo/tourvidigueira.php">
 
 <!--
     <link rel="alternate" hreflang="en" href="http://www.landseaalentejo.com/en/">
@@ -19,7 +19,7 @@
     <meta property="og:locale" content="pt_PT">
     <meta property="og:site_name" content="Land and Sea Alentejo">
     <meta property="og:title" content="Land&Sea Alentejo | Roteiros: Tour Enoturismo - Adega Cooperativa da Vidigueira">
-    <meta property="og:url" content="http://www.landseaalentejo.com/">
+    <meta property="og:url" content="http://www.landseaalentejo.com/pt/tours/enoturismo/tourvidigueira.php">
     <meta property="og:type" content="website">
     <meta property="og:description" content="Resultado do sonho, do esforço e do trabalho da maioria dos viticultores das regiões de Vidigueira, Cuba e Alvito.">
 

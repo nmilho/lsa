@@ -9,7 +9,7 @@
 
     <meta name="description" content="Queda livre, surf, paddle, btt, karting e passeios vintage.">
 
-    <link rel="canonical" href="http://www.landseaalentejo.com/">
+    <link rel="canonical" href="http://www.landseaalentejo.com/pt/tours/aventura/">
 
 <!--
     <link rel="alternate" hreflang="en" href="http://www.landseaalentejo.com/en/">
@@ -19,7 +19,7 @@
     <meta property="og:locale" content="pt_PT">
     <meta property="og:site_name" content="Land and Sea Alentejo">
     <meta property="og:title" content="Land&Sea Alentejo | Roteiros: Aventura">
-    <meta property="og:url" content="http://www.landseaalentejo.com/">
+    <meta property="og:url" content="http://www.landseaalentejo.com/pt/tours/aventura/">
     <meta property="og:type" content="website">
     <meta property="og:description" content="Queda livre, surf, paddle, btt, karting e passeios vintage.">
 

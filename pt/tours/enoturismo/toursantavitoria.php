@@ -9,7 +9,7 @@
 
     <meta name="description" content="A Santa Vitória oferece grandes vinhos, uma cuidada oferta de gastronomia regional e inúmeras atividades lúdicas disponíveis ao público em geral.">
 
-    <link rel="canonical" href="http://www.landseaalentejo.com/">
+    <link rel="canonical" href="http://www.landseaalentejo.com/pt/tours/enoturismo/toursantavitoria.php">
 
 <!--
     <link rel="alternate" hreflang="en" href="http://www.landseaalentejo.com/en/">
@@ -19,7 +19,7 @@
     <meta property="og:locale" content="pt_PT">
     <meta property="og:site_name" content="Land and Sea Alentejo">
     <meta property="og:title" content="Land&Sea Alentejo | Roteiros: Tour Enoturismo - Casa Santa Vitória">
-    <meta property="og:url" content="http://www.landseaalentejo.com/">
+    <meta property="og:url" content="http://www.landseaalentejo.com/pt/tours/enoturismo/toursantavitoria.php">
     <meta property="og:type" content="website">
     <meta property="og:description" content="A Santa Vitória oferece grandes vinhos, uma cuidada oferta de gastronomia regional e inúmeras atividades lúdicas disponíveis ao público em geral.">
 

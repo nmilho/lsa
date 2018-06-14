@@ -9,7 +9,7 @@
 
     <meta name="description" content="Visite a herdade pela sua majestosa beleza, pela simpatia de quem os acolhe ou pelos aromas únicos a Alentejo presentes na gastronomia e no vinho.">
 
-    <link rel="canonical" href="http://www.landseaalentejo.com/">
+    <link rel="canonical" href="http://www.landseaalentejo.com/pt/tours/enoturismo/tourribafreixo.php">
 
 <!--
     <link rel="alternate" hreflang="en" href="http://www.landseaalentejo.com/en/">
@@ -19,7 +19,7 @@
     <meta property="og:locale" content="pt_PT">
     <meta property="og:site_name" content="Land and Sea Alentejo">
     <meta property="og:title" content="Land&Sea Alentejo | Roteiros: Tour Enoturismo - Ribafreixo Wines">
-    <meta property="og:url" content="http://www.landseaalentejo.com/">
+    <meta property="og:url" content="http://www.landseaalentejo.com/pt/tours/enoturismo/tourribafreixo.php">
     <meta property="og:type" content="website">
     <meta property="og:description" content="Visite a herdade pela sua majestosa beleza, pela simpatia de quem os acolhe ou pelos aromas únicos a Alentejo presentes na gastronomia e no vinho.">
 

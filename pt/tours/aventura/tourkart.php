@@ -9,7 +9,7 @@
 
     <meta name="description" content="Passeio ao kartodromo de Évora para que disfrute da velociadade e adrenalina numa corrida entre amogos.">
 
-    <link rel="canonical" href="http://www.landseaalentejo.com/">
+    <link rel="canonical" href="http://www.landseaalentejo.com/pt/tours/aventura/tourkart.php">
 
 <!--
     <link rel="alternate" hreflang="en" href="http://www.landseaalentejo.com/en/">
@@ -19,7 +19,7 @@
     <meta property="og:locale" content="pt_PT">
     <meta property="og:site_name" content="Land and Sea Alentejo">
     <meta property="og:title" content="Land&Sea Alentejo | Roteiros: Tour aventura de karting">
-    <meta property="og:url" content="http://www.landseaalentejo.com/">
+    <meta property="og:url" content="http://www.landseaalentejo.com/pt/tours/aventura/tourkart.php">
     <meta property="og:type" content="website">
     <meta property="og:description" content="Passeio ao kartodromo de Évora para que disfrute da velociadade e adrenalina numa corrida entre amogos.">
 

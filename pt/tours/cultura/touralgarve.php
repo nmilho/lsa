@@ -9,7 +9,7 @@
 
     <meta name="description" content="Tour e passeio cultural pelo Algarve - Albufeira, Faro, Lagos e Sagres">
 
-    <link rel="canonical" href="http://www.landseaalentejo.com/">
+    <link rel="canonical" href="http://www.landseaalentejo.com/pt/tours/cultura/touralgarve.php">
 
 <!--
     <link rel="alternate" hreflang="en" href="http://www.landseaalentejo.com/en/">
@@ -19,7 +19,7 @@
     <meta property="og:locale" content="pt_PT">
     <meta property="og:site_name" content="Land and Sea Alentejo">
     <meta property="og:title" content="Land&Sea Alentejo | Roteiros: Tour e passeio pelo Algarve">
-    <meta property="og:url" content="http://www.landseaalentejo.com/">
+    <meta property="og:url" content="http://www.landseaalentejo.com/pt/tours/cultura/touralgarve.php">
     <meta property="og:type" content="website">
     <meta property="og:description" content="Tour e passeio cultural pelo Algarve - Albufeira, Faro, Lagos e Sagres">
 

@@ -9,7 +9,7 @@
 
     <meta name="description" content="Transfers - Vamos buscá-lo e deixá-lo ao aeroporto. Transportamos grupos para congressos, conferências e outros eventos de empresas.">
 
-    <link rel="canonical" href="http://www.landseaalentejo.com/">
+    <link rel="canonical" href="http://www.landseaalentejo.com/pt/transfers/">
 
 <!--
     <link rel="alternate" hreflang="en" href="http://www.landseaalentejo.com/en/">
@@ -19,7 +19,7 @@
     <meta property="og:locale" content="pt_PT">
     <meta property="og:site_name" content="Land and Sea Alentejo">
     <meta property="og:title" content="Land&Sea Alentejo | Transfers">
-    <meta property="og:url" content="http://www.landseaalentejo.com/">
+    <meta property="og:url" content="http://www.landseaalentejo.com/pt/transfers/">
     <meta property="og:type" content="website">
     <meta property="og:description" content="Transfers - Vamos buscá-lo e deixá-lo ao aeroporto. Transportamos grupos para congressos, conferências e outros eventos de empresas.">
 

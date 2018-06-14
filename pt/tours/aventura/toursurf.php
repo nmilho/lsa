@@ -9,7 +9,7 @@
 
     <meta name="description" content="Tour e passeio com aula de surf na costa alentejana">
 
-    <link rel="canonical" href="http://www.landseaalentejo.com/">
+    <link rel="canonical" href="http://www.landseaalentejo.com/pt/tours/aventura/toursurf.php">
 
 <!--
     <link rel="alternate" hreflang="en" href="http://www.landseaalentejo.com/en/">
@@ -19,7 +19,7 @@
     <meta property="og:locale" content="pt_PT">
     <meta property="og:site_name" content="Land and Sea Alentejo">
     <meta property="og:title" content="Land&Sea Alentejo | Roteiros: Tour e passeio com aula de surf">
-    <meta property="og:url" content="http://www.landseaalentejo.com/">
+    <meta property="og:url" content="http://www.landseaalentejo.com/pt/tours/aventura/toursurf.php">
     <meta property="og:type" content="website">
     <meta property="og:description" content="Tour e passeio com aula de surf na costa alentejana">
 

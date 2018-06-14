@@ -9,7 +9,7 @@
 
     <meta name="description" content="Transferes e passeios por Lisboa, Beja, Évora, e Algarve. Turismo, aventura e enoturismo pelo Alentejo.">
 
-    <link rel="canonical" href="http://www.landseaalentejo.com/">
+    <link rel="canonical" href="http://www.landseaalentejo.com/pt">
 
 <!--
     <link rel="alternate" hreflang="en" href="http://www.landseaalentejo.com/en/">
@@ -19,7 +19,7 @@
     <meta property="og:locale" content="pt_PT">
     <meta property="og:site_name" content="Land and Sea Alentejo">
     <meta property="og:title" content="Land&Sea Alentejo | Tranfers, passeios e Enoturismo">
-    <meta property="og:url" content="http://www.landseaalentejo.com/">
+    <meta property="og:url" content="http://www.landseaalentejo.com/pt">
     <meta property="og:type" content="website">
     <meta property="og:description" content="Transferes e passeios por Lisboa, Beja, Évora, e Algarve. Turismo, aventura e enoturismo pelo Alentejo.">
 

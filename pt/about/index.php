@@ -9,7 +9,7 @@
 
     <meta name="description" content="Quem somos - Uma empresa de turismo, aluguer de viaturas, passeios, transfers e enoturismo.">
 
-    <link rel="canonical" href="http://www.landseaalentejo.com/">
+    <link rel="canonical" href="http://www.landseaalentejo.com/pt/about/">
 
 <!--
     <link rel="alternate" hreflang="en" href="http://www.landseaalentejo.com/en/">
@@ -19,7 +19,7 @@
     <meta property="og:locale" content="pt_PT">
     <meta property="og:site_name" content="Land and Sea Alentejo">
     <meta property="og:title" content="Land&Sea Alentejo | Quem Somos">
-    <meta property="og:url" content="http://www.landseaalentejo.com/">
+    <meta property="og:url" content="http://www.landseaalentejo.com/pt/about/">
     <meta property="og:type" content="website">
     <meta property="og:description" content="Quem somos - Uma empresa de turismo, aluguer de viaturas, passeios, transfers e enoturismo.">
 

@@ -9,7 +9,7 @@
 
     <meta name="description" content="Enoturismo pelas melhores adegas do Alentejo. Herdade da Figueirinha, Herdade do Rocim, Quinta do Quetzal, Vinhos Ribafreixo, Cooperativa da Vidigueira, Herdade da Mingorra, Herdade da Malhadinha Nova, Herdade dos Grous, Casa Santa Vitória.">
 
-    <link rel="canonical" href="http://www.landseaalentejo.com/">
+    <link rel="canonical" href="http://www.landseaalentejo.com/pt/tours/enoturismo/">
 
 <!--
     <link rel="alternate" hreflang="en" href="http://www.landseaalentejo.com/en/">
@@ -19,7 +19,7 @@
     <meta property="og:locale" content="pt_PT">
     <meta property="og:site_name" content="Land and Sea Alentejo">
     <meta property="og:title" content="Land&Sea Alentejo | Roteiros: Enoturismo">
-    <meta property="og:url" content="http://www.landseaalentejo.com/">
+    <meta property="og:url" content="http://www.landseaalentejo.com/pt/tours/enoturismo/">
     <meta property="og:type" content="website">
     <meta property="og:description" content="Enoturismo pelas melhores adegas do Alentejo. Herdade da Figueirinha, Herdade do Rocim, Quinta do Quetzal, Vinhos Ribafreixo, Cooperativa da Vidigueira, Herdade da Mingorra, Herdade da Malhadinha Nova, Herdade dos Grous, Casa Santa Vitória.">
 
