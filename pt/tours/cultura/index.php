@@ -141,7 +141,7 @@
 
                                 <!-- Description -->
                                 <h4 class="white-text my-4">Disfrute dos melhores passeios pelo Alentejo, Algarve e Lisboa.</h4>
-                                <button type="button" class="btn btn-outline-white">Saiba mais</button>
+                                <a href="#toursindex" class="btn btn-outline-white waves-effect waves-light smooth-scroll">Saiba mais</a>
 
                             </div>
 
@@ -324,7 +324,7 @@
                 <!--/.Container-->
 
 
-            <section id="toursindex" class="text-center py-5">
+            </section>
             <!--/.Section: Tours Index-->
 
 
@@ -340,7 +340,7 @@
 
        
         <!--Footer Links-->
-        <div class="container pt-5 mt-5 mb-4 text-center text-md-left">
+        <div class="container pt-5 mb-4 text-center text-md-left">
             <div class="row mt-3">
 
                 <!--First column-->

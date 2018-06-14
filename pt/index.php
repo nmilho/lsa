@@ -325,6 +325,12 @@
                             <p class="text-left">
                                 Queremos mostrar tudo o que o Alentejo tem de melhor; sua cultura, paisagem e sua gastronomia!!
                             </p>
+
+                            <p class="text-left">
+                                O Alentejo é uma região especialmente interessante para poder desfrutar desta recente tendência no turismo nacional. Este é o género de turismo ideal para quem gosta de bom vinho, para além de conhecer as paisagens típicas desta zona, monumentos e para realizar visitas culturais do agrado de qualquer um.
+                            </p>
+
+                            <h5 class="text-left">O nosso serviço inclui:</h5>
                             <ul class="text-left">
                                 <li>Águas, WIFI e cadeiras bebé grátis.</li>
                                 <li>Motorista com uma placa á sua espera.</li>

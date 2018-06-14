@@ -157,11 +157,12 @@
                                     <h2 class="dark-grey-text text-left">Locais a Visitar</h2>
 
                                     <ul class="text-left">
-                                        <li>Lagos</li>
-                                        <li>Lagos</li>
-                                        <li>Lagos</li>
-                                        <li>Lagos</li>
-                                        <li>Lagos</li>
+                                        <li>Centro Histórico</li>
+                                        <li>Igreja de Santo António</li>
+                                        <li>Igreja de São Sebastião</li>
+                                        <li>Muralhas</li>
+                                        <li>Castelo dos Governadores</li>
+                                        <li>Museu Minicipal Dr. José Formosinho</li>
                                     </ul>
 
                                     <h2 class="dark-grey-text text-left">O Pacote Inclui</h2>
@@ -204,11 +205,10 @@
                                     <h2 class="dark-grey-text text-left">Locais a Visitar</h2>
 
                                     <ul class="text-left">
-                                        <li>Lagos</li>
-                                        <li>Lagos</li>
-                                        <li>Lagos</li>
-                                        <li>Lagos</li>
-                                        <li>Lagos</li>
+                                        <li>Fortaleza de Sagres</li>
+                                        <li>Rosa dos Ventos</li>
+                                        <li>Farol do Cabo São Vicente</li>
+                                        <li>Igreja de Nossa Senhora da Graça</li>
                                     </ul>
 
                                     <h2 class="dark-grey-text text-left">O Pacote Inclui</h2>
