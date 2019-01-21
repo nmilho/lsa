@@ -874,43 +874,43 @@
                     <tbody>
                         <tr>
                             <th scope="row">Beja <i class="fa fa-caret-right"></i> Lisbon Apt</th>
-                            <td>215€</td>
-                            <td>245€</td>
+                            <td>210€</td>
+                            <td>240€</td>
                         </tr>
                         <tr>
                             <th scope="row">Beja <i class="fa fa-caret-right"></i> Faro Apt</th>
-                            <td>190€</td>
-                            <td>220€</td>
+                            <td>180€</td>
+                            <td>210€</td>
                         </tr>
                         <tr>
                             <th scope="row">Beja <i class="fa fa-caret-right"></i> Sines</th>
-                            <td>110€</td>
-                            <td>140€</td>
+                            <td>100€</td>
+                            <td>130€</td>
                         </tr>
                         <tr>
                             <th scope="row">Beja <i class="fa fa-caret-right"></i> Zambujeira</th>
-                            <td>140€</td>
-                            <td>170€</td>
+                            <td>120€</td>
+                            <td>150€</td>
                         </tr>
                         <tr>
                             <th scope="row">Beja <i class="fa fa-caret-right"></i> Évora</th>
-                            <td>95€</td>
-                            <td>125€</td>
+                            <td>85€</td>
+                            <td>115€</td>
                         </tr>
                         <tr>
                             <th scope="row">Beja <i class="fa fa-caret-right"></i> Albufeira</th>
-                            <td>170€</td>
-                            <td>200€</td>
+                            <td>150€</td>
+                            <td>180€</td>
                         </tr>
                         <tr>
                             <th scope="row">Beja <i class="fa fa-caret-right"></i> Lagos</th>
-                            <td>200€</td>
-                            <td>230€</td>
+                            <td>180€</td>
+                            <td>210€</td>
                         </tr>
                         <tr>
                             <th scope="row">Beja <i class="fa fa-caret-right"></i> Vila Real Sto. António</th>
-                            <td>170€</td>
-                            <td>200€</td>
+                            <td>150€</td>
+                            <td>180€</td>
                         </tr>
                         <tr>
                             <th scope="row">Beja <i class="fa fa-caret-right"></i> Seville</th>
