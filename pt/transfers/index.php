@@ -465,13 +465,13 @@
                     <tbody>
                         <tr>
                             <th scope="row">Beja <i class="fa fa-caret-right"></i> Lisboa Apt</th>
-                            <td>200€</td>
-                            <td>230€</td>
+                            <td>210€</td>
+                            <td>240€</td>
                         </tr>
                         <tr>
                             <th scope="row">Beja <i class="fa fa-caret-right"></i> Faro Apt</th>
-                            <td>175€</td>
-                            <td>205€</td>
+                            <td>180€</td>
+                            <td>210€</td>
                         </tr>
                         <tr>
                             <th scope="row">Beja <i class="fa fa-caret-right"></i> Sines</th>

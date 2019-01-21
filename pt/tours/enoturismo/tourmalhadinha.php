@@ -130,7 +130,7 @@
                     <div class="row">
                         <div class="col-md-12 mb-4">
                             <!-- Heading -->
-                            <h2 class="title dark-grey-text">Tour Herdade dos Grous</h2>
+                            <h2 class="title dark-grey-text">Tour Herdade da Malhadinha Nova</h2>
 
                             <div class="card card-image" style="background: url(/photos/tours/enoturismo/malhadinhanova/malhadinhanova04.jpg) -0px -300px; height: 300px;">
                                 <div class="text-white text-center d-flex align-items-center rgba-black-light py-5 px-4 rounded" style="height: 300px;">
