@@ -419,7 +419,7 @@
                                     <div class="w-100">
                                         <h5 class="orange-text"><i class="fa fa-bicycle"></i> Tours</h5>
                                         <h3 class="card-title pt-2"><strong>Adventure</strong></h3>
-                                        <p>Venha aventurar-se nas actividades que lhe propomos.</p>
+                                        <p>Venha aventurar-se nas atividades que lhe propomos.</p>
                                         <a class="btn btn-orange"><i class="fa fa-clone left"></i> See Tours</a>
                                     </div>
                                 </div>

@@ -174,10 +174,10 @@
                                         <li>Centro Histórico</li>
                                         <li>Torre do Relógio</li>
                                         <li>Palácio Ficalho</li>
-                                        <li>Museo Etnografico</li>
+                                        <li>Museu Etnografico</li>
                                         <li>Igreja do Salvador</li>
-                                        <li>Museo do Relógio</li>
-                                        <li>Museo Arqueológico</li>
+                                        <li>Museu do Relógio</li>
+                                        <li>Museu Arqueológico</li>
                                     </ul>
 
                                     <h3 class="dark-grey-text text-left">Locais a não perder em Mértola</h3>
@@ -187,7 +187,7 @@
                                         <li>Antiga Mesquita / Igreja Matriz</li>
                                         <li>Torre do Rio</li>
                                         <li>Circuito de visitas de Alcáçovas</li>
-                                        <li>Museo de Mértola</li>
+                                        <li>Museu de Mértola</li>
                                         <li>Casa Amarela, casa Romana</li>
                                     </ul>
 

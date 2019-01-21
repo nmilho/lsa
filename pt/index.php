@@ -333,7 +333,7 @@
                             <h5 class="text-left">O nosso serviço inclui:</h5>
                             <ul class="text-left">
                                 <li>Águas, WIFI e cadeiras bebé grátis.</li>
-                                <li>Motorista com uma placa á sua espera.</li>
+                                <li>Motorista com uma placa à sua espera.</li>
                                 <li>Pagamento exclusivo no final.</li>
                                 <li>Viaturas Mercedes recentes.</li>
                                 <li>Procedimento simples e eficiente.</li>
@@ -447,7 +447,7 @@
                                     <div class="w-100">
                                         <h5 class="orange-text"><i class="fa fa-bicycle"></i> Roteiros</h5>
                                         <h3 class="card-title pt-2"><strong>Aventura</strong></h3>
-                                        <p>Venha aventurar-se nas actividades que lhe propomos.</p>
+                                        <p>Venha aventurar-se nas atividades que lhe propomos.</p>
                                         <a href="/pt/tours/aventura/" class="btn btn-orange"><i class="fa fa-clone left"></i> Ver Roteiros</a>
                                     </div>
                                 </div>

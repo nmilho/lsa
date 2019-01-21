@@ -157,12 +157,12 @@
                                     </p>
 
                                     <p class="text-left">
-                                        Hoje tem uma pista que conjuga o traçado técnico com a velocidade, com um perímetro de 908 metros e sete de largura constante, oferece uma frota de aluguer de mais de 70 karts, bancada panorâmica, oficina, balneários, bar e recepção.
+                                        Hoje tem uma pista que conjuga o traçado técnico com a velocidade, com um perímetro de 908 metros e sete de largura constante, oferece uma frota de aluguer de mais de 70 karts, bancada panorâmica, oficina, balneários, bar e receção.
                                     </p>
 
 
                                     <h2 class="dark-grey-text text-left">Aluguer individual de kart</h2>
-                                    <h5 class="light-grey-text text-left">Preço por pessoa (valores a pagar directamente no kartódromo)</h5>
+                                    <h5 class="light-grey-text text-left">Preço por pessoa (valores a pagar diretamente no kartódromo)</h5>
                                     <ul class="text-left">
                                         <li>15min - 15€</li>
                                         <li>30min - 30€</li>

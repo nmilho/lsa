@@ -158,7 +158,7 @@
 
                             <p class="text-left">Outra excelente opção será o Cruzeiro com almoço a bordo na nossa embarcação Guadiana (cap 120 pax), partindo da Amieira Marina e passando pelo Paredão da Barragem. Neste percurso o Cliente vai ter oportunidade de degustar a sua refeição, desfrutando da natureza envolvente (PVP 35,00€/pax).</p>
 
-                            <p class="text-left mt-5"><strong>*Todos os valores não incluiem a viagem.<br/>*Os valores dos produtos oferecidos pela Amieira Marina são pagos directamente.</strong></p>
+                            <p class="text-left mt-5"><strong>*Todos os valores não incluiem a viagem.<br/>*Os valores dos produtos oferecidos pela Amieira Marina são pagos diretamente.</strong></p>
 
                         </div>
 

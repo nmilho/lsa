@@ -230,7 +230,7 @@
                                 <!--Panel 1-->
                                 <div class="tab-pane fade in show active" id="adventuretours" role="tabpanel">
                                     <!-- Heading -->
-                                    <h4 class="dark-grey-text">Aventure-se nas actividades que lhe propomos!</h2>
+                                    <h4 class="dark-grey-text">Aventure-se nas atividades que lhe propomos!</h2>
 
                                     <div class="row">
                                         <!-- Card -->

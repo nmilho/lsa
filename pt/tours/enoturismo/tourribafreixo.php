@@ -140,7 +140,7 @@
                         </div>
                     </div>
                     
-                    <p class="text-left">A Ribafreixo Wines é uma empresa de carácter inovador, com visão para o futuro e ambiciosa que actua no coração da Região do Alentejo e que tem como principal actividade a produção de vinho.</p>
+                    <p class="text-left">A Ribafreixo Wines é uma empresa de carácter inovador, com visão para o futuro e ambiciosa que actua no coração da Região do Alentejo e que tem como principal atividade a produção de vinho.</p>
                     <p class="text-left">Quem visita a herdade quer sempre voltar, seja pela sua majestosa beleza, pela simpatia de quem os acolhe ou pelos aromas únicos a Alentejo presentes na gastronomia e no vinho. Garantindo uma experiência única.</p>
 
                     <div class="row">

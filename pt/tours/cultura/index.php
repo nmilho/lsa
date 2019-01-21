@@ -259,7 +259,7 @@
                                             <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
                                                 <div class="w-100">
                                                     <h3 class="orange-text card-title pt-2"><strong>Mértola e Serpa</strong></h3>
-                                                    <h5 class="">Passeie por duas das mais lindas vilas do Alentejo.</h5>                                                       
+                                                    <h5 class="">Passeie por duas das mais belas localidades do Alentejo.</h5>                                                       
                                                 </div>
                                             </div>
                                         

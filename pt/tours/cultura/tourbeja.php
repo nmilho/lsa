@@ -154,7 +154,7 @@
                                     <ul class="text-left">
                                         <li>Castelo</li>
                                         <li>Casa do governador</li>
-                                        <li>Museu Regional de Beja</li>
+                                        <li>Museu Rainha D. Leonor</li>
                                         <li>Núcleo Visigótico do Museu Regional de Beja (Igreja Santo Amaro)</li>
                                         <li>Núcleo Museológico da Rua do Sembrano</li>
                                         <li>Museu Episcopal de Beja</li>
@@ -169,7 +169,7 @@
                                 <div class="col-md-5">
                                     <figure class="figure">
                                         <img src="/photos/tours/cultura/beja/museu.jpg" class="img-fluid rounded z-depth-1">
-                                        <figcaption class="figure-caption">Museu Rainha D. Isabel.</figcaption>
+                                        <figcaption class="figure-caption">Museu Rainha D. Leonor.</figcaption>
                                     </figure>
                                 </div>
 
@@ -243,7 +243,7 @@
                                         <!-- Card content -->
                                         <div class="card-body text-center">
                                             <!-- Category & Title -->
-                                            <h5><p class="dark-grey-text">Tranporte e passeio com guia local</p></h5>
+                                            <h5><p class="dark-grey-text">Tranporte com guia local</p></h5>
                                             <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 35€</a>
                                         </div>
                                         <!-- ./Card content -->
@@ -256,7 +256,7 @@
                                         <!-- Card content -->
                                         <div class="card-body text-center">
                                             <!-- Category & Title -->
-                                            <h5><p class="dark-grey-text">Tranporte e passeio com almoço incluído</p></h5>
+                                            <h5><p class="dark-grey-text">Tranporte com almoço incluído</p></h5>
                                             <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 45€</a>
                                         </div>
                                         <!-- ./Card content -->
@@ -269,7 +269,7 @@
                                         <!-- Card content -->
                                         <div class="card-body text-center">
                                             <!-- Category & Title -->
-                                            <h5><p class="dark-grey-text">Tranporte e passeio com almoço, jantar e dormida</p></h5>
+                                            <h5><p class="dark-grey-text">Tranporte com almoço, jantar e dormida</p></h5>
                                             <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 90€</a>
                                         </div>
                                         <!-- ./Card content -->
