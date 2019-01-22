@@ -211,6 +211,7 @@
                                         <li>Hotel Bejense</li>
                                         <li>Hotel Santa Bárbara</li>
                                         <li>Hospedaria D. Maria</li>
+                                        <li>Beja Hostel</li>
                                     </ul>
                                 </div>
                                 <div class="col-md-5">
@@ -230,7 +231,7 @@
                                         <!-- Card content -->
                                         <div class="card-body text-center">
                                             <!-- Category & Title -->
-                                            <h5><p class="dark-grey-text">Tranporte com oferta de mapa e informação local</p></h5>
+                                            <h5><p class="dark-grey-text">Transporte com oferta de mapa e informação local</p></h5>
                                             <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 25€</a>
                                         </div>
                                         <!-- ./Card content -->
@@ -243,7 +244,7 @@
                                         <!-- Card content -->
                                         <div class="card-body text-center">
                                             <!-- Category & Title -->
-                                            <h5><p class="dark-grey-text">Tranporte com guia local</p></h5>
+                                            <h5><p class="dark-grey-text">Transporte e passeio com guia local</p></h5>
                                             <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 35€</a>
                                         </div>
                                         <!-- ./Card content -->
@@ -256,7 +257,7 @@
                                         <!-- Card content -->
                                         <div class="card-body text-center">
                                             <!-- Category & Title -->
-                                            <h5><p class="dark-grey-text">Tranporte com almoço incluído</p></h5>
+                                            <h5><p class="dark-grey-text">Transporte e passeio com almoço incluído</p></h5>
                                             <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 45€</a>
                                         </div>
                                         <!-- ./Card content -->
@@ -269,7 +270,7 @@
                                         <!-- Card content -->
                                         <div class="card-body text-center">
                                             <!-- Category & Title -->
-                                            <h5><p class="dark-grey-text">Tranporte com almoço, jantar e dormida</p></h5>
+                                            <h5><p class="dark-grey-text">Transporte e passeio com almoço, jantar e dormida</p></h5>
                                             <a class="btn btn-orange waves-effect waves-light"><i class="fa fa-euro-sign left"></i>Desde 90€</a>
                                         </div>
                                         <!-- ./Card content -->
